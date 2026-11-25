@@ -1,0 +1,9 @@
+{
+  "name": "zuowang-server",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "workspaces": ["packages/rules", "packages/server"],
+  "scripts": { "start": "node --disable-warning=ExperimentalWarning packages/server/src/main.ts" }
+}

@@ -1,0 +1,8091 @@
+[
+ {
+  "id": "npc_mo_daifu",
+  "name": "墨大夫",
+  "book": "凡人修仙传",
+  "main": true,
+  "realm": 0,
+  "camp": "mo",
+  "qi": "mu",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "七玄门的大夫，本名墨居仁，收韩立为徒，暗中图谋夺舍续命",
+  "bio": "七玄门中有位大夫，本名墨居仁，早年曾在岚州创下惊蛟会的名头，后来隐去姓名，安身医馆。他看出韩立身有灵根，遂收入门下，授以长春功，日日察其进境，图的却是夺舍续命。人前和气，出手阴狠。",
+  "motto": "再炼一层，为师便将后头的口诀传你。",
+  "lastWords": "只差一步，一步啊。",
+  "relations": [
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "徒弟",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_zhang_hu",
+  "name": "张虎",
+  "book": "仙逆",
+  "main": true,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "恒岳派记名弟子，王林在门中结识的好友",
+  "bio": "恒岳派记名弟子，与王林相识于杂役处，结为好友。外门刘师兄久欺其身，他性直，义气重，旁人肯扶一把，便铭记在心；自己吃了亏，却从不声张。",
+  "motto": "练便练罢，总强过回乡种地。",
+  "lastWords": "我这点名堂，还没练出来。",
+  "relations": [
+   {
+    "id": "npc_wang_lin",
+    "name": "王林",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_sun_dazhu",
+  "name": "孙大柱",
+  "book": "仙逆",
+  "main": true,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "恒岳派弟子，王林入派后名义上的师父",
+  "bio": "恒岳派二代弟子，修为不高，门中地位寒微。王林入派，他便成了名义上的师父，心里惦着的却是徒弟身上的宝物，屡设圈套加害。笑脸相迎，手段阴狠。",
+  "motto": "笨些不打紧，我肯下力气。",
+  "lastWords": "娘，我想回家。",
+  "relations": [
+   {
+    "id": "npc_wang_lin",
+    "name": "王林",
+    "rel": "徒弟",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_wang_tengfei",
+  "name": "王腾飞",
+  "book": "我欲封天",
+  "main": true,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "王家出身的天骄弟子，在靠山宗与孟浩结仇",
+  "bio": "王家天骄，资质出众，自视极高，人群之中，总是被众目所盯的那一个。他与孟浩因一场机缘结怨，造化反被孟浩夺去，此后处处受制，胸中怒火，压了又压，终难平息。",
+  "motto": "天骄之名，轮不到你来夺。",
+  "lastWords": "我不甘心啊。",
+  "relations": [
+   {
+    "id": "npc_meng_hao",
+    "name": "孟浩",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_lei_li",
+  "name": "雷力",
+  "book": "武动乾坤",
+  "main": true,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "青阳镇雷家的年轻子弟，狩猎大赛上与林动结怨立下赌约的对手",
+  "bio": "青阳镇雷家年轻一辈中的出头人物，仗着家世，在镇上横着走，与林家素来不睦。狩猎大赛上，一窝火蟒虎幼崽引出他与林动的争执，二人当众立下赌约，他押的是雷家一处庄园。",
+  "motto": "青阳镇这片猎场，我雷家说了才算。",
+  "lastWords": "别打了，别打了。",
+  "relations": [
+   {
+    "id": "npc_lin_dong",
+    "name": "林动",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_shuang_er",
+  "name": "霜儿",
+  "book": "择天记",
+  "main": true,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "徐有容身边的贴身丫环",
+  "bio": "徐有容的贴身丫环，心中只有自家小姐。陈长生与小姐的婚约，她打心底不以为然，总觉得他配不上；可陈长生在京城的种种事情，她仍一一禀告小姐。护主之心极切，凡小姐之事，皆是她的事。",
+  "motto": "小姐，我在这儿候着呢。",
+  "lastWords": "小姐，小姐。",
+  "relations": [
+   {
+    "id": "npc_xu_yourong",
+    "name": "徐有容",
+    "rel": "主人",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_liu_yunzhi",
+  "name": "刘云志",
+  "book": "遮天",
+  "main": true,
+  "realm": 0,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "叶凡的大学同学，家里有钱有背景，处处给叶凡使绊",
+  "bio": "叶凡的大学同学，家里有钱有背景，大学时便与叶凡结下深怨。九龙拉棺将他送到北斗之后，他与李长青等人在荒古禁地边缘设伏杀叶凡，未能得手，自己反被丢入虎穴。此后他仍不死心，蛰伏多年，数番暗中偷袭。",
+  "motto": "在这儿没人认得你，到了我面前，你算个什么东西。",
+  "lastWords": "你别过来，别过来。",
+  "relations": [
+   {
+    "id": "npc_ye_fan",
+    "name": "叶凡",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": null,
+    "name": "李长青",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": null,
+    "name": "王艳",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_li_xiaoman",
+  "name": "李小曼",
+  "book": "遮天",
+  "main": true,
+  "realm": 0,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "f",
+  "identity": "叶凡的大学前女友，到北斗后与华云飞同修吞天魔功",
+  "bio": "叶凡大学时的前女友，毕业后远赴美国留学。同学聚会，众人同登泰山，她被九龙拉棺卷往北斗。路过荧惑古星时，鳄祖神魂入主其身，她性情大变，处处与叶凡为敌，后又与华云飞同修吞天魔功，联手相向。",
+  "motto": "跟谁才有出路，我自己会挑。",
+  "lastWords": "别拉我下去，别拉我。",
+  "relations": [
+   {
+    "id": "npc_ye_fan",
+    "name": "叶凡",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": "npc_hua_yunfei",
+    "name": "华云飞",
+    "rel": "盟友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_hong_yi",
+  "name": "红怡",
+  "book": "永生",
+  "main": true,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "大离王朝皇室出身的郡主，羽化门外门弟子，暗中是念红轩金牌杀手，与方寒结伴的剑修",
+  "bio": "大离王朝皇室郡主，明面上是羽化门外门弟子，暗中却是江湖上念红轩的金牌杀手，剑下亡魂不少。母亲昔年也是羽化门弟子，惨遭人害，她发愿修至神通秘境报仇。她心思缜密，行事干脆，主动与方寒结伴，领他熟悉门中，天天拿真剑给他喂招。",
+  "motto": "往后彼此照应，你吃不了亏。",
+  "lastWords": "替我看到最后吧。",
+  "relations": [
+   {
+    "id": "npc_fang_han",
+    "name": "方寒",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_du_bishu",
+  "name": "杜必书",
+  "book": "诛仙",
+  "main": true,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "青云门大竹峰六弟子，爱赌的厨子",
+  "bio": "本名杜大书，爱赌成癖，师母苏茹嫌他沉迷赌局，索性改名杜必书，取「赌必输」之意。张小凡上山前，大竹峰的灶房向来归他掌管。他性子活泼，嘴碎心热，偏偏赌运不佳。",
+  "motto": "这一把我赢了，你信不信。",
+  "lastWords": "这顿饭，还没做完呢。",
+  "relations": [
+   {
+    "id": "npc_tian_buyi",
+    "name": "田不易",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_zhang_xiaofan",
+    "name": "张小凡",
+    "rel": "师弟",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_he_dazhi",
+  "name": "何大智",
+  "book": "诛仙",
+  "main": true,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "青云门大竹峰四弟子，出了名的精明人",
+  "bio": "田不易的四弟子，大竹峰上公认最精明的人，最会盘算。他嘴快脑子快，爱说笑，什么事都先在心里算一遍账，亏本的买卖能躲则躲，对师兄弟倒颇厚道。",
+  "motto": "这笔账我早算过，不亏。",
+  "lastWords": "哎，这一笔，算错了。",
+  "relations": [
+   {
+    "id": "npc_song_daren",
+    "name": "宋大仁",
+    "rel": "师兄",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_tian_buyi",
+    "name": "田不易",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_du_bishu",
+    "name": "杜必书",
+    "rel": "师弟",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_li_huai",
+  "name": "李槐",
+  "book": "剑来",
+  "main": true,
+  "realm": 0,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "小镇孩子，爱哭爱告状，却总有一身离奇好运",
+  "bio": "小镇上长大的孩子，李二之子，李柳之弟。他胆小嘴馋，爱与人争吵，一遇险事便躲到旁人身后，运道却好得出奇，几场大难，都被他糊里糊涂混了过去。后来进山崖书院读书，一路有人护持。",
+  "motto": "你听好，我姐厉害着呢！",
+  "lastWords": "我想回家啊。",
+  "relations": [
+   {
+    "id": null,
+    "name": "李柳",
+    "rel": "姐姐",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_li_bao_ping",
+    "name": "李宝瓶",
+    "rel": "同学",
+    "kind": "far"
+   },
+   {
+    "id": "npc_chen_ping_an",
+    "name": "陈平安",
+    "rel": "同行",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_xiaomei",
+  "name": "萧媚",
+  "book": "斗破苍穹",
+  "main": true,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "乌坦城萧家同辈的少女，萧炎的表妹",
+  "bio": "萧家同辈中出挑的少女，不满十四岁，已测出七段斗之气，族中人人称赞，她也乐于受人捧。萧炎斗气尽失，她替他惋惜，又嫌两人差得太远，不愿再靠近，碰了冷脸，气呼呼走开。",
+  "motto": "人各有路，勉强不来的。",
+  "lastWords": "族里的人，都保重吧。",
+  "relations": [
+   {
+    "id": "npc_xiaoyan",
+    "name": "萧炎",
+    "rel": "兄",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_xiaoyu",
+  "name": "萧玉",
+  "book": "斗破苍穹",
+  "main": true,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "萧家出身、在迦南学院就读的同辈少女，萧宁的姐姐，萧炎的族姐",
+  "bio": "萧家同辈少女，萧宁的姐姐，就读于迦南学院，成年礼前请假回家。她看不起斗气尽失的萧炎，当面骂他废物，却极疼弟弟，拦不住他逞强，到底还是递上了药。",
+  "motto": "斗气都没了，还想在族里摆少爷的谱，免了吧。",
+  "lastWords": "宁儿，别逞强。",
+  "relations": [
+   {
+    "id": "npc_xiaoyan",
+    "name": "萧炎",
+    "rel": "姐",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_xiaoning",
+    "name": "萧宁",
+    "rel": "弟",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_qing_tan",
+  "name": "青檀",
+  "book": "武动乾坤",
+  "main": true,
+  "realm": 1,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "林动的义妹，在青阳镇被林啸夫妇收养长大的小姑娘",
+  "bio": "身世不明，被青阳镇林啸夫妇收养，是林动没有血缘的妹妹。她修炼天赋极高，体内却伏着一道阴寒之气，时时发作，痛楚难当。自幼跟在兄长身后，对林动信赖，几乎出于本能。",
+  "motto": "哥哥在哪里，我就在哪里。",
+  "lastWords": "哥哥，你别哭。",
+  "relations": [
+   {
+    "id": "npc_lin_dong",
+    "name": "林动",
+    "rel": "兄",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_lin_xiao",
+    "name": "林啸",
+    "rel": "父亲",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_xu_baocai",
+  "name": "许宝财",
+  "book": "一念永恒",
+  "main": true,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "灵溪宗香云山外门弟子，消息灵通的百事通",
+  "bio": "灵溪宗里，大小事没有能瞒过他的。做杂役时，他攒下七年灵石孝敬执事，好不容易换得火灶房的名额，半路却被白小纯截走，两人因此结怨。后来他主动登门，解了旧怨，成了白小纯身边消息最灵通的人。",
+  "motto": "宗门里头的事，哪样我不晓得？",
+  "lastWords": "账还没算清呢。",
+  "relations": [
+   {
+    "id": "npc_bai_xiaochun",
+    "name": "白小纯",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_hou_xiaomei",
+  "name": "侯小妹",
+  "book": "一念永恒",
+  "main": true,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "huo",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "灵溪宗外门弟子，侯云飞的妹妹，白小纯的好友",
+  "bio": "灵溪宗外门弟子，侯云飞的妹妹。白小纯当年转让外门名额，她出了十倍的价钱买下，两人便是这般认识的。此后她心里一直记挂着他，他的事，件件上心。",
+  "motto": "谁敢欺负白小纯，先过我这一关。",
+  "lastWords": "小纯，你别怕。",
+  "relations": [
+   {
+    "id": "npc_hou_yunfei",
+    "name": "侯云飞",
+    "rel": "兄",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_bai_xiaochun",
+    "name": "白小纯",
+    "rel": "道侣",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_li_fugui",
+  "name": "李富贵",
+  "book": "我欲封天",
+  "main": true,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "与孟浩一同被许清带进靠山宗的小胖子，孟浩的好友",
+  "bio": "人称小胖子，赵国大青山一带人氏。他与孟浩、王有材、董虎四人，一起被许清带进靠山宗，做杂役弟子。一口好牙在同伴间出了名；与孟浩最合得来，日子好也罢，坏也罢，始终认这个朋友。",
+  "motto": "只要跟着你有肉吃，我什么都不怕。",
+  "lastWords": "孟浩，你别丢下我。",
+  "relations": [
+   {
+    "id": "npc_meng_hao",
+    "name": "孟浩",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_chen_qiaoqian",
+  "name": "陈巧倩",
+  "book": "凡人修仙传",
+  "main": true,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "越国镜州陈家嫡女，黄枫谷弟子，对韩立情意深重",
+  "bio": "越国镜州陈家嫡女，入黄枫谷修行，为筑基而闯血色禁地试炼。她对韩立用情极深，几次重逢，终于表明心意，却遭婉拒。自那以后，她的性子渐渐冷了。",
+  "motto": "师弟若有难处，我这里备着些丹药。",
+  "lastWords": "可惜了。",
+  "relations": [
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "意中人",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_dong_xuaner",
+  "name": "董萱儿",
+  "book": "凡人修仙传",
+  "main": true,
+  "realm": 1,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "黄枫谷女弟子，红拂之女，天生媚体，被多方惦记",
+  "bio": "黄枫谷女弟子，红拂之女，母亲是结丹后期修士，父亲则是合欢宗元婴修士。她生就媚体，进境极快，田不缺、王蝉之流因此盯上了她。她与韩立同去过燕家堡大会，性子开朗而高傲，略显任性。",
+  "motto": "师弟为何总躲着我？",
+  "lastWords": "那一眼，我记得。",
+  "relations": [
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_song_daren",
+  "name": "宋大仁",
+  "book": "诛仙",
+  "main": true,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "青云门大竹峰大弟子，老实憨厚的大师兄",
+  "bio": "青云门大竹峰大弟子，田不易门下头一位，为人忠厚老实。他自认是大师兄，对师弟师妹多加照拂，平日少言，做事扎实，用一柄极沉的大剑，不喜与人争强。",
+  "motto": "师弟们，有我在，不怕。",
+  "lastWords": "师弟们，当心些。",
+  "relations": [
+   {
+    "id": "npc_tian_buyi",
+    "name": "田不易",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_zhang_xiaofan",
+    "name": "张小凡",
+    "rel": "师弟",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_he_dazhi",
+    "name": "何大智",
+    "rel": "师弟",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_wu_dayi",
+    "name": "吴大义",
+    "rel": "师弟",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_tian_linger",
+  "name": "田灵儿",
+  "book": "诛仙",
+  "main": true,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "青云门大竹峰小师妹，田不易与苏茹之女",
+  "bio": "田不易与苏茹的独生女，大竹峰上唯一的女弟子，从小受父母和师兄们宠爱。她聪颖，资质好，活泼爱闹，与众师兄都亲，拿张小凡当弟弟看顾，嘴上却爱支使人。",
+  "motto": "师兄，你等等我嘛。",
+  "lastWords": "爹，娘。",
+  "relations": [
+   {
+    "id": "npc_tian_buyi",
+    "name": "田不易",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_su_ru",
+    "name": "苏茹",
+    "rel": "母亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_zhang_xiaofan",
+    "name": "张小凡",
+    "rel": "师弟",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_xuanyuan_po",
+  "name": "轩辕破",
+  "book": "择天记",
+  "main": true,
+  "realm": 1,
+  "camp": "san",
+  "qi": "tu",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "熊族，国教学院第三位弟子，落落的徒弟",
+  "bio": "熊族出身，族中着意栽培的人才，真元充沛，膂力过人。他是国教学院第三位弟子，拜落落为师。性子老实憨厚，不爱想繁杂的事，同门常拿他取笑，心里却都疼他。",
+  "motto": "打架的话，也算我一个。",
+  "lastWords": "师父，弟子没给您丢人吧。",
+  "relations": [
+   {
+    "id": "npc_luoluo",
+    "name": "落落",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_chen_changsheng",
+    "name": "陈长生",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_xiaoning",
+  "name": "萧宁",
+  "book": "斗破苍穹",
+  "main": true,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "乌坦城萧家年轻一辈子弟，萧玉之弟，长老之孙",
+  "bio": "乌坦城萧家子弟，萧玉之弟，长老之孙，十七岁便有八段斗之气。他心仪薰儿，见薰儿偏向萧炎，始终憋着一口气。成年礼那天，姐姐劝他，他不听，执意向萧炎挑战。",
+  "motto": "同辈之中，我谁也不怕。",
+  "lastWords": "输了，我也认。",
+  "relations": [
+   {
+    "id": "npc_xiaoyan",
+    "name": "萧炎",
+    "rel": "旧识",
+    "kind": "far"
+   },
+   {
+    "id": "npc_xiaoyu",
+    "name": "萧玉",
+    "rel": "姐",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_yafei",
+  "name": "雅妃",
+  "book": "斗破苍穹",
+  "main": true,
+  "realm": 2,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "乌坦城米特尔拍卖场的首席拍卖师，米特尔家族的人",
+  "bio": "米特尔家族的人，乌坦城米特尔拍卖场的首席拍卖师，台上一句话，价码便翻上几倍。她精明圆滑，目光毒辣，对那位蒙面卖丹药的买家，既探底细，又要拉拢，还递去一张贵宾卡，请他常来。",
+  "motto": "价高者得，是规矩，亦是人情。",
+  "lastWords": "这笔生意，还没算完。",
+  "relations": [
+   {
+    "id": "npc_xiaoyan",
+    "name": "萧炎",
+    "rel": "旧识",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_xiaozhan",
+  "name": "萧战",
+  "book": "斗破苍穹",
+  "main": true,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "乌坦城萧家族长，萧炎之父",
+  "bio": "萧炎之父，萧家族长，五星斗师，一手撑起萧家，使其稳居乌坦城三大家族之列。儿子斗气尽失，人人唤作废物，他一句不多言。脾气刚直，凡护家人，从不讲情面。",
+  "motto": "谁敢动萧家的人，先来过我这一关。",
+  "lastWords": "炎儿，好好活着。",
+  "relations": [
+   {
+    "id": "npc_xiaoyan",
+    "name": "萧炎",
+    "rel": "儿子",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_lin_xiao",
+  "name": "林啸",
+  "book": "武动乾坤",
+  "main": true,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "林动之父，林家分家子弟，曾是族中天才",
+  "bio": "年少时，他是林家青阳分家里远近闻名的天才，林动的父亲便是此人。林氏大比一役，败给林琅天，修为跌回地元境。此后携妻带子，隐居青阳镇，寡言少语，却把儿子的前路，看得重过自己的颜面。",
+  "motto": "你的路，不必照我这样走。",
+  "lastWords": "动儿啊。",
+  "relations": [
+   {
+    "id": "npc_lin_dong",
+    "name": "林动",
+    "rel": "儿子",
+    "kind": "near"
+   },
+   {
+    "id": "npc_lin_langtian",
+    "name": "林琅天",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": "npc_qing_tan",
+    "name": "青檀",
+    "rel": "女儿",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_zhang_dapang",
+  "name": "张大胖",
+  "book": "一念永恒",
+  "main": true,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "灵溪宗火灶房大师兄，白小纯最铁的好友",
+  "bio": "灵溪宗火灶房的大师兄。白小纯进火灶房后，最早结识的几人中，数他与白小纯最铁。他性情憨厚，斗法却不弱，修炼炼灵之术，凡事总先替兄弟挡在前头。",
+  "motto": "兄弟的事，便是我的事。",
+  "lastWords": "小纯，你可要好好的。",
+  "relations": [
+   {
+    "id": "npc_bai_xiaochun",
+    "name": "白小纯",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_zhou_xinqi",
+  "name": "周心琪",
+  "book": "一念永恒",
+  "main": true,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "mu",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "灵溪宗南岸天骄，李青候的弟子，药道造诣出众",
+  "bio": "灵溪宗南岸三大天骄之一，李青候的徒弟。药道上的造诣，同辈中数得上号，术法也是师父亲自指点。她性子沉稳内敛，胸中有谋而不露，越是志在必得，越是安静。",
+  "motto": "这药趁热服下，莫要逞强。",
+  "lastWords": "这炉药，还没炼完。",
+  "relations": [
+   {
+    "id": "npc_li_qinghou",
+    "name": "李青候",
+    "rel": "师父",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_song_que",
+  "name": "宋缺",
+  "book": "一念永恒",
+  "main": true,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "血溪宗天骄，宋君婉的侄子，人称小无极",
+  "bio": "血溪宗年轻一辈数一数二的天骄，宋君婉的侄子，人称小无极。他傲气好胜，凝气期已能斩杀筑基修士。与白小纯屡番交手，次次落于下风，心头一口气，始终咽不下。",
+  "motto": "先打赢我，再来说话。",
+  "lastWords": "可惜，没分出胜负。",
+  "relations": [
+   {
+    "id": "npc_song_junwan",
+    "name": "宋君婉",
+    "rel": "同门",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_bai_xiaochun",
+    "name": "白小纯",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_li_huayuan",
+  "name": "李化元",
+  "book": "凡人修仙传",
+  "main": true,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "黄枫谷的结丹长老，韩立筑基后正式收下的师父",
+  "bio": "黄枫谷结丹长老，洞府叫绿波洞，修炼真阳决，门下有女弟子钟卫娘。起初，韩立只是他的记名弟子；韩立筑基之后，他才正式收为亲传，授以青元剑诀。此人小气，处事却也公允。",
+  "motto": "少走些弯路，比什么都强。",
+  "lastWords": "宗门，拜托了。",
+  "relations": [
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "徒弟",
+    "kind": "near"
+   },
+   {
+    "id": "npc_zhong_weiniang",
+    "name": "钟卫娘",
+    "rel": "徒弟",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_wen_min",
+  "name": "文敏",
+  "book": "诛仙",
+  "main": true,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "bing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "青云门小竹峰水月大师的大弟子，陆雪琪的师姐",
+  "bio": "水月大师的大弟子，小竹峰上最温和体贴的一位。她照顾师妹周到细心，师妹顶撞师父，她从不指责，反倒好言宽慰。性情温婉，不与人争高下，对师父孝顺而体谅。",
+  "motto": "别急，有话慢慢讲。",
+  "lastWords": "师妹，你多保重。",
+  "relations": [
+   {
+    "id": "npc_lu_xueqi",
+    "name": "陆雪琪",
+    "rel": "师妹",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_shuiyue",
+    "name": "水月大师",
+    "rel": "师父",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_lin_shou_yi",
+  "name": "林守一",
+  "book": "剑来",
+  "main": true,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "mu",
+  "xinxing": "jian",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "小镇出身的读书少年，随陈平安同赴山崖书院，途中自学修行的儒家门生",
+  "bio": "小镇出身的读书少年，儒家门生。他与陈平安、李宝瓶、李槐等人结伴远行，同赴大隋山崖书院，半路开始自学修行，进境不快不慢，一步一个脚印。入书院后风采出众，心思却全落在李槐之姐李柳身上，一直没有回音。",
+  "motto": "莫吵，我正想事。",
+  "lastWords": "替我向他们道声谢。",
+  "relations": [
+   {
+    "id": "npc_li_huai",
+    "name": "李槐",
+    "rel": "同学",
+    "kind": "far"
+   },
+   {
+    "id": "npc_li_bao_ping",
+    "name": "李宝瓶",
+    "rel": "同学",
+    "kind": "far"
+   },
+   {
+    "id": "npc_chen_ping_an",
+    "name": "陈平安",
+    "rel": "同行",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_li_bao_ping",
+  "name": "李宝瓶",
+  "book": "剑来",
+  "main": true,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "红袄小姑娘，出身小镇大户李家，陈平安远游路上的同伴之一",
+  "bio": "小镇四大家族之首李家的孩子，自小爱读书，爱奔跑，也爱管闲事，认死理而心地干净。齐静春看中她，视作传承之人。她随同窗远游求学，沿途见识极多，每逢不平之事，总是头一个挺身而出。",
+  "motto": "这个道理讲不通，我就再讲一遍。",
+  "lastWords": "哥哥，我不怕的。",
+  "relations": [
+   {
+    "id": "npc_li_huai",
+    "name": "李槐",
+    "rel": "同学",
+    "kind": "far"
+   },
+   {
+    "id": null,
+    "name": "李希圣",
+    "rel": "兄长",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_qi_jing_chun",
+    "name": "齐静春",
+    "rel": "师长",
+    "kind": "near"
+   },
+   {
+    "id": "npc_chen_ping_an",
+    "name": "陈平安",
+    "rel": "小师叔",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_tang_sanshiliu",
+  "name": "唐三十六",
+  "book": "择天记",
+  "main": true,
+  "realm": 2,
+  "camp": "san",
+  "qi": "tu",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "汶水唐家少爷，国教学院第四位学生，陈长生的第一位朋友",
+  "bio": "汶水唐家少爷，国教学院第四位学生，陈长生交上的第一个朋友。他风流洒脱，话多，口舌了得，爱贫嘴，义气却重，朋友遇难，肯拔刀相助。",
+  "motto": "兄弟有难，便是我的事，头一个到。",
+  "lastWords": "活着，别给国教学院丢脸。",
+  "relations": [
+   {
+    "id": "npc_chen_changsheng",
+    "name": "陈长生",
+    "rel": "好友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_luoluo",
+    "name": "落落",
+    "rel": "同窗",
+    "kind": "far"
+   },
+   {
+    "id": "npc_xuanyuan_po",
+    "name": "轩辕破",
+    "rel": "同窗",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_hu_linger",
+  "name": "狐灵儿",
+  "book": "牧神记",
+  "main": true,
+  "realm": 2,
+  "camp": "san",
+  "qi": "mu",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "白狐成精，秦牧在大墟结识的同伴，后来在太学院给他当管家",
+  "bio": "白狐一只，幼年机缘凑巧，拾得一部功夫，自行揣摩，终成人形。大墟初逢秦牧，便死心塌地追随，及至太学院，又替他理财管物。她生来会做买卖，爱财，好酒，战利品必要搜刮干净；胆子不大，心却全在秦牧身上。",
+  "motto": "这账我先记下，回头一笔笔算清。",
+  "lastWords": "公子，灵儿先走一步了。",
+  "relations": [
+   {
+    "id": "npc_qin_mu",
+    "name": "秦牧",
+    "rel": "主人",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_nalanyanran",
+  "name": "纳兰嫣然",
+  "book": "斗破苍穹",
+  "main": true,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "lei",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "f",
+  "identity": "云岚宗少宗主，曾与萧炎有婚约，后上门退婚",
+  "bio": "她是云岚宗少宗主，天赋出众，自幼便被捧在手心。与萧炎有一纸婚约，待萧炎斗气尽失，她亲赴门前退婚，一番话说得干净利落，不留余地。各走各路之后，那场退婚，便成了两人间化不开的结。",
+  "motto": "我走哪条路，自己说了算，轮不到旁人指点。",
+  "lastWords": "当年，是我错了。",
+  "relations": [
+   {
+    "id": "npc_yunyun",
+    "name": "云韵",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_xiaoyan",
+    "name": "萧炎",
+    "rel": "旧识",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_hanfeng",
+  "name": "韩枫",
+  "book": "斗破苍穹",
+  "main": true,
+  "realm": 3,
+  "camp": "mo",
+  "qi": "huo",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "药尘的首徒，联手魂殿背叛师门的炼药师",
+  "bio": "药尘仅有的弟子。学成后，他觊觎师父的骨灵冷火与焚诀，勾结魂殿，向恩师下了毒手，事后对外只说师父炼药反噬而亡。此人城府极深，口称仁义，翻脸之快，无人能及。",
+  "motto": "师父的东西，迟早是我的。",
+  "lastWords": "我才是，药皇啊。",
+  "relations": [
+   {
+    "id": "npc_yaolao",
+    "name": "药老",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_xiaoyan",
+    "name": "萧炎",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_xiao_diao",
+  "name": "小貂",
+  "book": "武动乾坤",
+  "main": true,
+  "realm": 3,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "困在林动石符里的天妖貂族妖灵，林动的同伴",
+  "bio": "天妖貂族出身的妖灵，被困在林动掌心石符之中。它个头不大，脾气不小，爱斗嘴，爱占便宜，到了要紧关头却肯出力，一路伴着林动修炼，为他出谋划策，替他挡灾。",
+  "motto": "有了好东西，先让本貂尝一口再说！",
+  "lastWords": "林动，你保重啊。",
+  "relations": [
+   {
+    "id": "npc_lin_dong",
+    "name": "林动",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_teng_huayuan",
+  "name": "藤化元",
+  "book": "仙逆",
+  "main": true,
+  "realm": 3,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "赵国藤家老祖，元婴修士，藤厉的太爷爷",
+  "bio": "赵国藤家老祖，已入元婴，族中说话最有分量。曾孙辈的藤厉死在王林手中，他便推算出王家所在，灭了王家满门。这笔血债，王林一生都未能忘怀。",
+  "motto": "藤家的人，岂容你来动。",
+  "lastWords": "藤家，到头了。",
+  "relations": [
+   {
+    "id": "npc_wang_lin",
+    "name": "王林",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_xu_qing",
+  "name": "许清",
+  "book": "我欲封天",
+  "main": true,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "靠山宗内门弟子，把孟浩带进宗门的人，孟浩的道侣",
+  "bio": "靠山宗内门弟子，外冷内韧，性子清冷。孟浩资质不错，被她看中，领回宗门做了杂役弟子。自那以后，她便一直惦记着此人，为盼他日重逢，修炼从不敢松懈。",
+  "motto": "我不多说，你自己当心。",
+  "lastWords": "你一定要好好活着。",
+  "relations": [
+   {
+    "id": "npc_meng_hao",
+    "name": "孟浩",
+    "rel": "道侣",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_liudao_jisheng",
+  "name": "六道极圣",
+  "book": "凡人修仙传",
+  "main": true,
+  "realm": 3,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "乱星海魔道第一人，修六极真魔功，座下有两具元婴期炼尸",
+  "bio": "魔道之中，乱星海第一人，非他莫属。威望极高，被尊称圣主。他修魔界传下的六极真魔功，能凝六极魔影，座下炼尸两具，皆是元婴后期，另有三神白骨幡一面。凶名远扬，化神以下，难逢对手。",
+  "motto": "在乱星海，我的话就是规矩。",
+  "lastWords": "你，你好大的胆子。",
+  "relations": [
+   {
+    "id": "npc_wen_qing",
+    "name": "温青",
+    "rel": "妹妹",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_yaoguang_shengzi",
+  "name": "摇光圣子",
+  "book": "遮天",
+  "main": true,
+  "realm": 3,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "摇光圣地圣子，狠人一脉传人",
+  "bio": "幼年时，他与华云飞一同被狠人一脉看重，如今是摇光圣地的圣子，身负狠人传承，持龙纹黑金鼎。他为夺叶凡手中的凰血赤金，扮作太古生物出手突袭，未能如愿，此后仍屡屡与叶凡作对。傲气十足，手段狠辣。",
+  "motto": "圣地之子，向来只取，不求。",
+  "lastWords": "凰血，就差一点。",
+  "relations": [
+   {
+    "id": "npc_yao_xi",
+    "name": "姚曦",
+    "rel": "同门",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_hua_yunfei",
+    "name": "华云飞",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_bi_yao",
+  "name": "碧瑶",
+  "book": "诛仙",
+  "main": true,
+  "realm": 3,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "魔教鬼王宗宗主鬼王之女",
+  "bio": "鬼王宗宗主的女儿，自小得父亲宠爱，性情灵动，不喜受人拘束，也不愿多伤人，鬼道上的本事却不容小觑，合欢铃便是她的法宝。与张小凡相识，情根深种，一旦认定，便肯为他做到底。",
+  "motto": "你这人，怎么这样呆。",
+  "lastWords": "你，要好好的啊。",
+  "relations": [
+   {
+    "id": "npc_guiwang",
+    "name": "鬼王",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_zhang_xiaofan",
+    "name": "张小凡",
+    "rel": "恋人",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_liu_yang_yang",
+  "name": "刘羡阳",
+  "book": "剑来",
+  "main": true,
+  "realm": 3,
+  "camp": "san",
+  "qi": "jian",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "小镇龙窑出身的少年，陈平安的同乡挚友，后入龙泉剑宗习剑",
+  "bio": "小镇龙窑学徒出身，同陈平安自幼相识，嘴碎爱吹牛，心中最重的却是朋友。他命途多舛，数度死里逃生，祖传的剑经护得死死的，不肯交出。后来拜入阮邛门下习剑，才踏上修行路。",
+  "motto": "你小子，欠我的酒别想赖账。",
+  "lastWords": "替我多看几眼山山水水。",
+  "relations": [
+   {
+    "id": "npc_chen_ping_an",
+    "name": "陈平安",
+    "rel": "挚友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_ruan_qiong",
+    "name": "阮邛",
+    "rel": "师父",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_gu_can",
+  "name": "顾璨",
+  "book": "剑来",
+  "main": true,
+  "realm": 3,
+  "camp": "san",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "泥瓶巷出身的少年，早年与陈平安相依为命，后在书简湖闯出恶",
+  "bio": "他幼年丧父，与母亲在小镇相依为命，常遭镇上人欺凌，只把陈平安当作可以倚靠的兄长。后来到了书简湖一带，他成了说一不二的人物，行事阴狠，是非对错，在心里算成了一笔糊涂账。",
+  "motto": "这笔账，我一笔一笔记着。",
+  "lastWords": "对不住了。",
+  "relations": [
+   {
+    "id": "npc_chen_ping_an",
+    "name": "陈平安",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_luoluo",
+  "name": "落落",
+  "book": "择天记",
+  "main": true,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "bing",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "白落衡，妖族公主，圣人白行夜与牧夫人之女，国教学院第二位弟子，陈长生之徒",
+  "bio": "她叫白落衡，人称落落，是妖族公主，圣人白行夜与牧夫人的女儿。遇上陈长生，拜入门下，成了国教学院第二位弟子。她爱撒娇卖萌，天真任性，对师父的吩咐，却向来遵从。",
+  "motto": "师父说什么，落落便听什么。",
+  "lastWords": "师父，落落让您丢脸了。",
+  "relations": [
+   {
+    "id": "npc_chen_changsheng",
+    "name": "陈长生",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": null,
+    "name": "白行夜",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_xuanyuan_po",
+    "name": "轩辕破",
+    "rel": "徒弟",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_long_xuan",
+  "name": "龙萱",
+  "book": "永生",
+  "main": true,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "bing",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "羽化门内门弟子，珈蓝会核心成员，蝉联多届山河榜第一",
+  "bio": "羽化门内门弟子，珈蓝会核心成员，连坐数届山河榜首位。飞剑「寒螭」中封着寒冰螭龙之魂，可吐冰魄神雷，威力远在寻常法宝之上。她冷静沉着，出尘飒爽，曾在山河榜上与方寒交手，后与他结伴同探归墟。",
+  "motto": "山河榜上那一场，我记着了。",
+  "lastWords": "路还远着，你们走稳些。",
+  "relations": [
+   {
+    "id": "npc_fang_han",
+    "name": "方寒",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_yunshan",
+  "name": "云山",
+  "book": "斗破苍穹",
+  "main": true,
+  "realm": 4,
+  "camp": "zheng",
+  "qi": "lei",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "云岚宗第八代宗主，斗宗级强者，暗中与魂殿勾结",
+  "bio": "云岚宗传到他这一代，是第八任宗主，斗宗强者，使宗门称雄加玛帝国。暗地里，他与魂殿勾结；门下长老云棱对萧家动手，萧战便被魂殿带走。云韵，是他一手教出来的弟子。",
+  "motto": "加玛帝国之上，主人只能有一个。",
+  "lastWords": "这，不是我要的路。",
+  "relations": [
+   {
+    "id": "npc_yunyun",
+    "name": "云韵",
+    "rel": "徒弟",
+    "kind": "near"
+   },
+   {
+    "id": "npc_xiaozhan",
+    "name": "萧战",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_haibodong",
+  "name": "海波东",
+  "book": "斗破苍穹",
+  "main": true,
+  "realm": 4,
+  "camp": "san",
+  "qi": "bing",
+  "xinxing": "jian",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "昔日加玛帝国十大强者之一，号称冰皇的斗皇",
+  "bio": "一手寒冰斗技，让他得了「冰皇」的名号，昔日位列加玛帝国十大强者，性子豪爽。后来斗气被封，身体迅速衰老，沦落到要求人帮忙。他与萧炎同行，替萧炎护身，只求萧炎助他恢复实力。",
+  "motto": "老家伙药老的徒弟，我哪有不帮的理。",
+  "lastWords": "谷里，就托付你了。",
+  "relations": [
+   {
+    "id": "npc_xiaoyan",
+    "name": "萧炎",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_meidusha",
+    "name": "美杜莎",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_lin_langtian",
+  "name": "林琅天",
+  "book": "武动乾坤",
+  "main": true,
+  "realm": 4,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "林氏宗族的头号天才，林动的宿敌",
+  "bio": "林氏宗族这一代光芒最盛的天才。林氏大比上，林啸败在他手下；后来他入了元宗，手握空间祖符。性子高傲，与林动并称「林氏双骄」，两人又争又缠，是敌是友，连旁人也说不清。",
+  "motto": "分家的人，生来便该待在脚下。",
+  "lastWords": "这不可能。",
+  "relations": [
+   {
+    "id": "npc_lin_dong",
+    "name": "林动",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": "npc_lin_xiao",
+    "name": "林啸",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_du_lingfei",
+  "name": "杜凌菲",
+  "book": "一念永恒",
+  "main": true,
+  "realm": 4,
+  "camp": "zheng",
+  "qi": "bing",
+  "xinxing": "jian",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "起初看不上白小纯的女修，身份另有来历",
+  "bio": "她起初对白小纯毫无好脸色，嫌他怕死又滑头。宗门小比，她败在白小纯手下，愈发咬牙切齿。后来白小纯救了她一命，她的看法才渐渐变了。性子刚烈，说话带刺，其实最重情分。",
+  "motto": "离我远些，我不欠你的人情。",
+  "lastWords": "白小纯，你这个混账。",
+  "relations": [
+   {
+    "id": "npc_bai_xiaochun",
+    "name": "白小纯",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_song_junwan",
+  "name": "宋君婉",
+  "book": "一念永恒",
+  "main": true,
+  "realm": 4,
+  "camp": "zheng",
+  "qi": "bing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "血溪宗中峰长老，宋缺的小姑",
+  "bio": "血溪宗中峰长老，辈分高，说话有分量，是宋缺的小姑。平日里端着长辈的架子，偏偏对一个叫夜葬的人动了心，为此几番失态。",
+  "motto": "血溪宗里，我的话尚且作数。",
+  "lastWords": "小侄，就拜托你了。",
+  "relations": [
+   {
+    "id": "npc_song_que",
+    "name": "宋缺",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_ling_yuling",
+  "name": "凌玉灵",
+  "book": "凡人修仙传",
+  "main": true,
+  "realm": 4,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "星宫之主，天星双圣之女",
+  "bio": "星宫之主，出自天星双圣温青与凌啸风膝下，自幼长于星宫，接过双圣的位子。行事干练沉稳，对人有礼。韩立曾在海上救下被追杀的她，她便一直待他以礼，也动过将他招揽的心思。",
+  "motto": "星宫在我手上，倒不了。",
+  "lastWords": "星宫啊。",
+  "relations": [
+   {
+    "id": "npc_ling_xiaofeng",
+    "name": "凌啸风",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_wen_qing",
+    "name": "温青",
+    "rel": "母亲",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_qing_yi",
+  "name": "清漪",
+  "book": "完美世界",
+  "main": true,
+  "realm": 4,
+  "camp": "zheng",
+  "qi": "bing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "补天教圣女，原名月婵，有青月真仙的轮回身",
+  "bio": "补天教寄予厚望的圣女，据说是青月真仙的轮回身，原名月婵，天赋极高。她与石昊纠缠了许多年，自己的路走得也不平坦。外表清冷，心底却有一处说不出口的柔软。",
+  "motto": "路再长，我也自己走。",
+  "lastWords": "月，又落了。",
+  "relations": [
+   {
+    "id": "npc_shi_hao",
+    "name": "石昊",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_shuiyue",
+  "name": "水月大师",
+  "book": "诛仙",
+  "main": true,
+  "realm": 4,
+  "camp": "zheng",
+  "qi": "bing",
+  "xinxing": "jian",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "青云门小竹峰首座，陆雪琪的师父",
+  "bio": "小竹峰首座，门下只收女弟子，治门严格，重规矩。陆雪琪由她收养，极受看重，大弟子则是文敏。她对外人冷淡，对徒弟却十分关切，与大竹峰首座田不易素来不和。",
+  "motto": "小竹峰的人，外人管不着。",
+  "lastWords": "雪琪，你自己保重。",
+  "relations": [
+   {
+    "id": "npc_lu_xueqi",
+    "name": "陆雪琪",
+    "rel": "徒弟",
+    "kind": "near"
+   },
+   {
+    "id": "npc_wen_min",
+    "name": "文敏",
+    "rel": "徒弟",
+    "kind": "near"
+   },
+   {
+    "id": "npc_tian_buyi",
+    "name": "田不易",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_qing_long",
+  "name": "青龙",
+  "book": "星辰变",
+  "main": true,
+  "realm": 4,
+  "camp": "san",
+  "qi": "bing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "青龙宫宫主，海底修妖世界三大势力之一的首领",
+  "bio": "神兽之身，青龙宫宫主，在海底修妖世界与碧水府、九煞殿鼎足而立。九煞殿势大那阵，他助秦羽将其扫平；待到澜叔一人镇住三方，他便不得不收起锋芒。精于权衡，每事先问利害。",
+  "motto": "有利可图，我自然站在你这边。",
+  "lastWords": "这一回，看走眼了。",
+  "relations": [
+   {
+    "id": "npc_fang_tian",
+    "name": "方阗",
+    "rel": "靠山",
+    "kind": "far"
+   },
+   {
+    "id": "npc_qin_yu",
+    "name": "秦羽",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_ji_yi_chuan",
+  "name": "纪一川",
+  "book": "莽荒纪",
+  "main": true,
+  "realm": 4,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "纪氏部落西府的当家人，人称「滴水剑」，纪宁的父亲",
+  "bio": "纪氏部落西府当家人，人称「滴水剑」，手下斩过不少大妖。少年时他贪玩，直到父亲死于燕山大妖之手，才发奋练剑。他管教儿子纪宁甚严，严厉背后是实在的父爱，又与尉迟氏出身的尉迟雪相恋成亲。",
+  "motto": "你放心往前走，家里有我撑着。",
+  "lastWords": "宁儿，好好活着。",
+  "relations": [
+   {
+    "id": "npc_ji_ning",
+    "name": "纪宁",
+    "rel": "儿子",
+    "kind": "near"
+   },
+   {
+    "id": "npc_yu_chi_xue",
+    "name": "尉迟雪",
+    "rel": "妻子",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_ling_yuxiu",
+  "name": "灵毓秀",
+  "book": "牧神记",
+  "main": true,
+  "realm": 4,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "延康七公主，常作男装示人，人称「七公子」，与秦牧共创元神引",
+  "bio": "七公主出自延康国，随军至大墟时扮作男子，同放牛少年秦牧初见，便斗起嘴来。她的政治眼光远胜同龄人，也关心民间疾苦，骨子里却贪玩活泼。后来与秦牧携手，开创了元神引修炼法。",
+  "motto": "你说得对，那便一起试试。",
+  "lastWords": "我不退，你也不许退。",
+  "relations": [
+   {
+    "id": "npc_qin_mu",
+    "name": "秦牧",
+    "rel": "丈夫",
+    "kind": "near"
+   },
+   {
+    "id": "npc_yanfengdi",
+    "name": "延丰帝",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_jiang_baigui",
+    "name": "江白圭",
+    "rel": "同朝",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_qiushan_jun",
+  "name": "秋山君",
+  "book": "择天记",
+  "main": true,
+  "realm": 4,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "jian",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "南方第一大族秋山家子弟，长生宗大弟子，神国七律之首",
+  "bio": "秋山家号称南方第一大族，他是其中子弟，现居长生宗大弟子之位，列神国七律之首，修为聚星境，被视为人族此代最可能登顶的人物。谦和之中带着傲气，世俗礼法拘不住他，一往情深。",
+  "motto": "剑一出，不留余地。",
+  "lastWords": "南客，我来迟了。",
+  "relations": [
+   {
+    "id": null,
+    "name": "南客",
+    "rel": "情缘",
+    "kind": "far"
+   },
+   {
+    "id": "npc_gou_hanshi",
+    "name": "苟寒食",
+    "rel": "同辈",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_yunyun",
+  "name": "云韵",
+  "book": "斗破苍穹",
+  "main": true,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "lei",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "云岚宗宗主，纳兰嫣然的师父",
+  "bio": "云岚宗宗主，云山的亲传弟子，纳兰嫣然之师，一手风属斗技，出神入化。她清冷自持，对外人少言，心里却极重情义。后来几番与萧炎相遇，每次出手，都留有余地。",
+  "motto": "宗门这条路，我替你们守着。",
+  "lastWords": "嫣然，好好走下去。",
+  "relations": [
+   {
+    "id": "npc_nalanyanran",
+    "name": "纳兰嫣然",
+    "rel": "徒弟",
+    "kind": "near"
+   },
+   {
+    "id": "npc_yunshan",
+    "name": "云山",
+    "rel": "师父",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_li_muwan",
+  "name": "李慕婉",
+  "book": "仙逆",
+  "main": true,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "mu",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "火焚国洛河门弟子，擅炼丹，王林的道侣",
+  "bio": "洛河门弟子，来自火焚国，炼丹的本事在同门中站得住脚。她性情温婉贤淑，心思细，认准了一个人，一等便是多年。平日不爱出头，真到要紧处，却肯为所爱的人拼上性命。",
+  "motto": "你只管往前走，我在后头等你。",
+  "lastWords": "莫回头看我。",
+  "relations": [
+   {
+    "id": "npc_wang_lin",
+    "name": "王林",
+    "rel": "道侣",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_pang_bo",
+  "name": "庞博",
+  "book": "遮天",
+  "main": true,
+  "realm": 5,
+  "camp": "san",
+  "qi": "mu",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "叶凡的大学好友，服圣果后被灵墟洞天当作仙苗",
+  "bio": "与叶凡同窗，也是好友，一道被九龙拉棺带来北斗。荒古禁地里，他吃过圣果，被灵墟洞天当成仙苗，拜吴清风为师。嘴上爱贫，遇事就喊怕，待叶凡却一片赤诚。后得妖帝古经与青莲法宝，藏身妖族，暗中潜伏。",
+  "motto": "兄弟有事我必到，怕是怕，该上还是上。",
+  "lastWords": "叶子，替我喝一杯。",
+  "relations": [
+   {
+    "id": "npc_ye_fan",
+    "name": "叶凡",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": null,
+    "name": "吴清风",
+    "rel": "师父",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_ji_ziyue",
+  "name": "姬紫月",
+  "book": "遮天",
+  "main": true,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "姬家小姐，元灵体，被叶凡护送回家的少女",
+  "bio": "姬家在北斗，她是姬家的小姐，身负元灵体，兄长名姬皓月。家族内斗里，堂姐姬碧月嫉恨她，派人追杀；后来华云飞也来追杀。逃亡中她遇见叶凡，被他一路护送回姬家。灵动俏皮，记恩也记仇，出身尊贵而不骄纵。",
+  "motto": "待我好的人，我记着，害过我的人，我也不忘。",
+  "lastWords": "哥哥，不要替我出头。",
+  "relations": [
+   {
+    "id": "npc_ji_haoyue",
+    "name": "姬皓月",
+    "rel": "兄",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_ye_fan",
+    "name": "叶凡",
+    "rel": "道侣",
+    "kind": "near"
+   },
+   {
+    "id": "npc_hua_yunfei",
+    "name": "华云飞",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": null,
+    "name": "姬碧月",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_huo_linger",
+  "name": "火灵儿",
+  "book": "完美世界",
+  "main": true,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "huo",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "荒域火国公主，石昊的红颜知己",
+  "bio": "荒域火国的公主，火皇之女，来自下界。她在百断山遇见石昊，自此与他同闯过许多险地。出身高贵，性子明艳直爽，对认定的人一心一意，不肯回头。",
+  "motto": "你敢去，我便敢跟着。",
+  "lastWords": "别忘了我。",
+  "relations": [
+   {
+    "id": "npc_shi_hao",
+    "name": "石昊",
+    "rel": "红颜知己",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_tian_buyi",
+  "name": "田不易",
+  "book": "诛仙",
+  "main": true,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "青云门大竹峰首座，张小凡的师父",
+  "bio": "大竹峰首座，道法高深，脾气急，嘴上不饶人，外表严厉，骨子里却极护短，弟子被欺，他必出头。与小竹峰首座水月大师素来不合，为门下弟子的事，仍肯登门去说。",
+  "motto": "大竹峰上，谁敢欺负我的人！",
+  "lastWords": "灵儿，好好活着。",
+  "relations": [
+   {
+    "id": "npc_su_ru",
+    "name": "苏茹",
+    "rel": "妻子",
+    "kind": "near"
+   },
+   {
+    "id": "npc_tian_linger",
+    "name": "田灵儿",
+    "rel": "女儿",
+    "kind": "near"
+   },
+   {
+    "id": "npc_zhang_xiaofan",
+    "name": "张小凡",
+    "rel": "徒弟",
+    "kind": "near"
+   },
+   {
+    "id": "npc_song_daren",
+    "name": "宋大仁",
+    "rel": "徒弟",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_zi_ling",
+  "name": "紫灵",
+  "book": "凡人修仙传",
+  "main": true,
+  "realm": 5,
+  "camp": "san",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "乱星海妙音门门主，本名汪凝",
+  "bio": "乱星海妙音门门主，本名汪凝，父母早亡，年纪轻轻便独自支撑门派，处境凶险，不得不依附强者。她行事果断，心思深沉。虚天殿中与韩立相识，从此互相扶持，共度患难。",
+  "motto": "美貌是祸，亦是刀。",
+  "lastWords": "他，会来吗。",
+  "relations": [
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "相知",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_qi_jing_chun",
+  "name": "齐静春",
+  "book": "剑来",
+  "main": true,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "山崖书院山长，文圣一脉的读书人，坐镇骊珠洞天的圣人",
+  "bio": "他是文圣门下的读书人，在小镇创办山崖书院，坐镇洞天，成了一位圣人。为人温和有礼，所教不过做人的道理；心里装着满镇的人，对孩子格外耐心，曾看中李宝瓶这样的学生。事到临头，自有读书人的分量。",
+  "motto": "读书不为求官，先求明白。",
+  "lastWords": "这座镇子，就托付给你了。",
+  "relations": [
+   {
+    "id": "npc_chen_ping_an",
+    "name": "陈平安",
+    "rel": "师弟",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_cui_dong_shan",
+    "name": "崔东山",
+    "rel": "同门",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_li_bao_ping",
+    "name": "李宝瓶",
+    "rel": "学生",
+    "kind": "near"
+   },
+   {
+    "id": "npc_zuo_you",
+    "name": "左右",
+    "rel": "师兄",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_jiu_you",
+  "name": "九幽",
+  "book": "大主宰",
+  "main": true,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "mo",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "f",
+  "identity": "九幽雀一族的少族长，寄身牧尘体内的伙伴",
+  "bio": "九幽雀一族的少族长。父亲天荒是族长，他自己则是族中近万年来天赋最高的人。进化未成，寄身牧尘体内，两人血脉相连，力量共享，他自此长伴牧尘左右。",
+  "motto": "不服气？来，打一架！",
+  "lastWords": "主人啊。",
+  "relations": [
+   {
+    "id": "npc_mu_chen",
+    "name": "牧尘",
+    "rel": "同伴",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_si_popo",
+  "name": "司婆婆",
+  "book": "牧神记",
+  "main": true,
+  "realm": 5,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "f",
+  "identity": "残老村九老之一，本名司幼幽，在涌江边捡回襁褓里的秦牧",
+  "bio": "残老村九位老人之一，本名司幼幽。涌江边，她捡起襁褓中的秦牧带回村里，与其余老人合力养大。针线手艺了得，嘴硬心软，对外人冷脸，对村里的孩子却护得极紧。",
+  "motto": "小娃娃家，先吃饱了再开口。",
+  "lastWords": "牧儿，莫回头，只管往前走。",
+  "relations": [
+   {
+    "id": "npc_qin_mu",
+    "name": "秦牧",
+    "rel": "养育",
+    "kind": "near"
+   },
+   {
+    "id": "npc_cunzhang",
+    "name": "村长",
+    "rel": "同村",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_xu_yourong",
+  "name": "徐有容",
+  "book": "择天记",
+  "main": true,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "huo",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "南方圣女，太宰之孙、神将之女，身负天凤血脉，陈长生的未婚妻",
+  "bio": "她是南方圣女，太宰的孙女、神将的女儿，身负天凤血脉。六岁学神语，十岁起参与天书编译，跟随前代圣女修行，同辈中少有人比得上。陈长生与她的婚约，由祖父所定。她外冷内热，话总藏在心里。",
+  "motto": "你别急，我等着。",
+  "lastWords": "日后，你要多保重。",
+  "relations": [
+   {
+    "id": "npc_chen_changsheng",
+    "name": "陈长生",
+    "rel": "未婚夫",
+    "kind": "near"
+   },
+   {
+    "id": "npc_shuang_er",
+    "name": "霜儿",
+    "rel": "丫环",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_fang_qingxue",
+  "name": "方清雪",
+  "book": "永生",
+  "main": true,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "lei",
+  "xinxing": "jian",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "f",
+  "identity": "龙渊方家大小姐，羽化门真传弟子，带方寒入门的人",
+  "bio": "大离王朝龙渊省，第一世家便是方家，她是家中大小姐，早早拜入羽化门，成真传弟子，修紫电阴雷刀等雷法。孤傲冷硬，尤其对自己狠。看出家奴方寒非比寻常，她便带他进了羽化门，从此处处护着。",
+  "motto": "谁拦我的路，我先断他的路。",
+  "lastWords": "我这一刀，还没落完。",
+  "relations": [
+   {
+    "id": null,
+    "name": "方清薇",
+    "rel": "妹妹",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_fang_han",
+    "name": "方寒",
+    "rel": "师弟",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_hua_tiandu",
+    "name": "华天都",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_xunerjia",
+  "name": "古薰儿",
+  "book": "斗破苍穹",
+  "main": true,
+  "realm": 6,
+  "camp": "zheng",
+  "qi": "huo",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "f",
+  "identity": "古族大小姐，曾以萧薰儿之名在乌坦城长大，萧炎的青梅",
+  "bio": "古族族长古元的独女。年幼时，她被派去乌坦城萧家，顶着「萧薰儿」的名字，与萧炎一块儿长大。古族血脉与金帝焚天炎，皆在她身；她待萧炎，始终如一。温婉，认准了人，便不改口。",
+  "motto": "你走多远，我便陪你看多远。",
+  "lastWords": "莫回头，只管往前。",
+  "relations": [
+   {
+    "id": "npc_xiaoyan",
+    "name": "萧炎",
+    "rel": "道侣",
+    "kind": "near"
+   },
+   {
+    "id": "npc_guyuan",
+    "name": "古元",
+    "rel": "父亲",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_meidusha",
+  "name": "美杜莎",
+  "book": "斗破苍穹",
+  "main": true,
+  "realm": 6,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "f",
+  "identity": "蛇人族女王彩鳞，统领塔戈尔大沙漠的蛇人部落",
+  "bio": "塔戈尔大沙漠里，蛇人族由这位女王统领，她对外人冷若冰霜，对族人却护得极紧。她想借青莲地心火冲击斗宗，与萧炎因此有了一段牵扯，开头是一场谁也不让的争夺。",
+  "motto": "这片沙漠的规矩，由我来定。",
+  "lastWords": "族人，交给你了。",
+  "relations": [
+   {
+    "id": "npc_xiaoyan",
+    "name": "萧炎",
+    "rel": "道侣",
+    "kind": "near"
+   },
+   {
+    "id": "npc_haibodong",
+    "name": "海波东",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_yin_yue",
+  "name": "银月",
+  "book": "凡人修仙传",
+  "main": true,
+  "realm": 6,
+  "camp": "zheng",
+  "qi": "mo",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "银月狼族出身，七星月体，敖啸的孙女，曾为青竹蜂云剑器灵",
+  "bio": "银月狼族出身，是妖王敖啸的孙女，资质为七星月体。昔日她以器灵之身依附青竹蜂云剑，认韩立为主，助他脱出虚天殿，此后一路追随。修行途中受心魔所困，几次冲关都没成。",
+  "motto": "公子往哪里去，银月便往哪里去。",
+  "lastWords": "公子啊。",
+  "relations": [
+   {
+    "id": "npc_ao_xiao",
+    "name": "敖啸",
+    "rel": "祖父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "主人",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_duan_de",
+  "name": "段德",
+  "book": "遮天",
+  "main": true,
+  "realm": 6,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "无良道士，爱挖墓，据说前世是渡劫天尊",
+  "bio": "这位道士开口闭口大道理，其实最爱挖坟盗墓，有古冢的地方就有他，常与黑皇、龙马凑成盗墓搭档。他贪财油滑，缺德事干了不少，待叶凡这个朋友，却颇讲情分。据说前世是渡劫天尊。",
+  "motto": "这座坟瞧着不赖，来来来，贫道先替诸位探探路。",
+  "lastWords": "那只碗，可别丢了。",
+  "relations": [
+   {
+    "id": "npc_ye_fan",
+    "name": "叶凡",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_hei_huang",
+    "name": "黑皇",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_yun_xi",
+  "name": "云曦",
+  "book": "完美世界",
+  "main": true,
+  "realm": 6,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "天神山出身的修士，石昊的道侣",
+  "bio": "天神山出身的修士，道行深厚，言语不多，把情义都藏在心里。她在上界与石昊相识，从此并肩同行，护着爱人极紧，认定的事，从不说第二遍。",
+  "motto": "我话不多，你只须知道我在这里。",
+  "lastWords": "他，就交给你了。",
+  "relations": [
+   {
+    "id": "npc_shi_hao",
+    "name": "石昊",
+    "rel": "道侣",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_kaoshan_laozu",
+  "name": "靠山老祖",
+  "book": "我欲封天",
+  "main": true,
+  "realm": 6,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "靠山宗的老祖，本体是被封妖宗封印的恶龟",
+  "bio": "本体是一头恶龟，曾纵意天河海，被封妖宗的人哄骗封印。后来他分出神识化作凡人修行，将封妖宗改名靠山宗，自己成了宗里的老祖。说话诙谐，爱摆老祖架子，嘴上不饶人，对孟浩却格外关照。",
+  "motto": "宗门既叫靠山宗，本就是让你们靠的。",
+  "lastWords": "小子，老祖我，靠不住了。",
+  "relations": [
+   {
+    "id": "npc_meng_hao",
+    "name": "孟浩",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_lu_xueqi",
+  "name": "陆雪琪",
+  "book": "诛仙",
+  "main": true,
+  "realm": 6,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "jian",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "青云门小竹峰弟子，天琊神剑的主人",
+  "bio": "小竹峰上长大的弟子，自幼由水月大师收养，天资出众，冷若冰霜，不假辞色，修行极刻苦，剑法凌厉。手中是天琊神剑，修的是太极玄清道与神剑御雷真诀。认准的事绝不回头，也懒得多作解释。",
+  "motto": "你若有心，自己去想明白。",
+  "lastWords": "我从不后悔。",
+  "relations": [
+   {
+    "id": "npc_shuiyue",
+    "name": "水月大师",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_wen_min",
+    "name": "文敏",
+    "rel": "师姐",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_zhang_xiaofan",
+    "name": "张小凡",
+    "rel": "恋人",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_ning_yao",
+  "name": "宁姚",
+  "book": "剑来",
+  "main": true,
+  "realm": 6,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "jian",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "f",
+  "identity": "剑气长城出身的天才剑修，天生剑胚，剑出时整座城头都要让路",
+  "bio": "剑气长城里长大，自小便被当作最有希望的剑修。她性子冷，说话不饶人，出剑从不犹豫；认定一个人，便一直站在他身边，不解释，也不客气。",
+  "motto": "要打便出来，少废话。",
+  "lastWords": "一剑便够了。",
+  "relations": [
+   {
+    "id": "npc_chen_ping_an",
+    "name": "陈平安",
+    "rel": "道侣",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_a_liang",
+  "name": "阿良",
+  "book": "剑来",
+  "main": true,
+  "realm": 6,
+  "camp": "san",
+  "qi": "jian",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "天下闻名的游侠剑客，爱喝酒爱管闲事",
+  "bio": "这人四处游历，喝酒吹牛，路见不平便拔剑，说话半真半假。不少晚辈受过他点拨，他自己的来历，却从不好好交代。平日吊儿郎当，一出手，满座皆噤声。",
+  "motto": "来来来，先干一口再说话。",
+  "lastWords": "这酒，还没喝完呢。",
+  "relations": [
+   {
+    "id": "npc_chen_qing_du",
+    "name": "陈清都",
+    "rel": "旧识",
+    "kind": "far"
+   },
+   {
+    "id": "npc_zuo_you",
+    "name": "左右",
+    "rel": "同辈剑修",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_chen_ping_an",
+    "name": "陈平安",
+    "rel": "旧识",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_hou_fei",
+  "name": "侯费",
+  "book": "星辰变",
+  "main": true,
+  "realm": 6,
+  "camp": "san",
+  "qi": "tu",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "火睛水猿，秦羽的结义兄弟",
+  "bio": "秦羽在赤血洞府夺九剑时，结识了这只火睛水猿，后来结为兄弟，他排行第二。性子顽皮暴躁，最爱找强者过招，打起来不要命。他与黑羽，后来一并被澜叔带去修炼。",
+  "motto": "来来来，先打一场再说话！",
+  "lastWords": "大哥，别管我。",
+  "relations": [
+   {
+    "id": "npc_qin_yu",
+    "name": "秦羽",
+    "rel": "兄",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_hei_yu",
+    "name": "黑羽",
+    "rel": "兄弟",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_cunzhang",
+  "name": "村长",
+  "book": "牧神记",
+  "main": true,
+  "realm": 6,
+  "camp": "san",
+  "qi": "jian",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "残老村的村长，本名苏幕遮，九老之首，剑法冠绝，哄秦牧相信自己是霸体",
+  "bio": "残老村里最说得上话的老人，剑法深不可测。秦牧测得的只是凡体，他便编出「万古无一的霸体」这话，给孩子鼓劲。延康大军来犯大墟，他以智谋布下防线，挡住来敌。待人慈和，但主意一定，寸步不让。",
+  "motto": "孩子，你是霸体，往前练便是了。",
+  "lastWords": "好生照看牧儿，莫让他回头。",
+  "relations": [
+   {
+    "id": "npc_qin_mu",
+    "name": "秦牧",
+    "rel": "养育",
+    "kind": "near"
+   },
+   {
+    "id": "npc_si_popo",
+    "name": "司婆婆",
+    "rel": "同村",
+    "kind": "far"
+   },
+   {
+    "id": "npc_jiang_baigui",
+    "name": "江白圭",
+    "rel": "对手",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_hua_tiandu",
+  "name": "华天都",
+  "book": "永生",
+  "main": true,
+  "realm": 6,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "jian",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "羽化门真传大弟子，身负盘武仙尊的传承秘密",
+  "bio": "盘武仙尊天武宝库的秘密，在他身上；盘武大力神通，他已修成。他是羽化门真传大弟子，诸真传之首。太一门曾为烟水一同他定下婚约。他与方寒约好十年，届时天刑台上，生死相搏。出手之际，总留几分余地。",
+  "motto": "给你十年，我看你如何追上我。",
+  "lastWords": "天都峰，万不能乱。",
+  "relations": [
+   {
+    "id": "npc_yan_shuiyi",
+    "name": "烟水一",
+    "rel": "未婚妻",
+    "kind": "near"
+   },
+   {
+    "id": "npc_fang_han",
+    "name": "方寒",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": "npc_fang_qingxue",
+    "name": "方清雪",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_nangong_wan",
+  "name": "南宫婉",
+  "book": "凡人修仙传",
+  "main": true,
+  "realm": 7,
+  "camp": "zheng",
+  "qi": "bing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "掩月宗出身的女修，与韩立在血色禁地结缘",
+  "bio": "掩月宗门下，修的是素女轮回功。血色禁地初会韩立，两人合力斩了墨蛟；谁料那场意外，在她修行路上留下了心魔。她性情温婉，又有爽利的一面，爱恨分明，待人以诚。",
+  "motto": "我既已认定，便绝不回头。",
+  "lastWords": "等我。",
+  "relations": [
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "道侣",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_yaolao",
+  "name": "药老",
+  "book": "斗破苍穹",
+  "main": true,
+  "realm": 7,
+  "camp": "zheng",
+  "qi": "huo",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "寄居戒指的灵魂体，昔日丹药界第一人药尘",
+  "bio": "炼药界公认第一人，九品宗师，昔日的星陨阁阁主。栽在最亲近的弟子手里，只留一缕灵魂，寄身戒指。后来他收下落魄少年为徒，手把手带成炼药师。脾气急，嘴硬，护徒弟比谁都凶。",
+  "motto": "臭小子，还愣着！药炉快炸了！",
+  "lastWords": "老头子这辈子，够本了。",
+  "relations": [
+   {
+    "id": "npc_xiaoyan",
+    "name": "萧炎",
+    "rel": "徒弟",
+    "kind": "near"
+   },
+   {
+    "id": "npc_hanfeng",
+    "name": "韩枫",
+    "rel": "徒弟",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_daoxuan",
+  "name": "道玄真人",
+  "book": "诛仙",
+  "main": true,
+  "realm": 7,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "青云门掌门，通天峰玉清殿主持，正道第一人",
+  "bio": "青云门掌门，坐镇通天峰，修为高深，威望极重，被公认为当世正道第一人。他看重门派大局，行事老辣，肯用手段，话常说三分。门下弟子与魔教之间的账，他都记在心里。",
+  "motto": "门派大事，无有小事。",
+  "lastWords": "青云，就交给你们了。",
+  "relations": [
+   {
+    "id": "npc_canghong",
+    "name": "苍松道人",
+    "rel": "师弟",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_guiwang",
+  "name": "鬼王",
+  "book": "诛仙",
+  "main": true,
+  "realm": 7,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "魔教鬼王宗宗主，碧瑶之父，一代枭雄",
+  "bio": "鬼王宗宗主，自号万人往，凭天书残卷与伏龙鼎，把宗门做成魔教四大宗门之一。有雄心也有耐性，研习四灵血阵，谋划颠覆青云，手段阴狠。唯独碧瑶是他的女儿，他真心疼爱，这是他身上仅有的软肋。",
+  "motto": "普天之下，何处不可立我鬼王宗。",
+  "lastWords": "瑶儿，爹啊。",
+  "relations": [
+   {
+    "id": "npc_bi_yao",
+    "name": "碧瑶",
+    "rel": "女儿",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_hei_huang",
+  "name": "黑皇",
+  "book": "遮天",
+  "main": true,
+  "realm": 7,
+  "camp": "san",
+  "qi": "tu",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "无始大帝留下的大黑狗，一路跟着叶凡的伙伴",
+  "bio": "无始大帝晚年收养了一条大黑狗，就是它。紫山曾封它多年，叶凡入山，它才脱身。贪财，惫懒，爱收人宠，爱抢宝物，嘴上不肯让人，对自己人却极重情义。通晓阵纹，常与段德、龙马合伙，做些没脸的勾当。",
+  "motto": "本皇一出手，抵得上你们一群，还不快让开？",
+  "lastWords": "主人，本皇没守住啊。",
+  "relations": [
+   {
+    "id": "npc_ye_fan",
+    "name": "叶凡",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": null,
+    "name": "无始大帝",
+    "rel": "主人",
+    "kind": "near"
+   },
+   {
+    "id": "npc_duan_de",
+    "name": "段德",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_shi_yi",
+  "name": "石毅",
+  "book": "完美世界",
+  "main": true,
+  "realm": 7,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "石昊的堂兄，重瞳者，夺走了他的至尊骨",
+  "bio": "重瞳天生，天赋极高，是石昊的堂兄。石昊那副至尊骨，由石毅的母亲从石昊身上挖出，移给了石毅，两人由此结下难解的宿怨。他凭这副骨与自身资质，在同辈里始终领先。",
+  "motto": "我生来就在最前，旁人，只配看我的背影。",
+  "lastWords": "这重瞳，还没睁到头。",
+  "relations": [
+   {
+    "id": "npc_shi_hao",
+    "name": "石昊",
+    "rel": "弟",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_situ_nan",
+  "name": "司徒南",
+  "book": "仙逆",
+  "main": true,
+  "realm": 7,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "二代朱雀子，朱雀星第一高手，残魂寄于天逆珠，王林的师父",
+  "bio": "当年的朱雀星，无人压得住这位二代朱雀子，他狂傲，却重情重义。遭人暗算后，元神遁入天逆珠，一睡多年。起初他想夺舍王林，没成，反倒认真教起这少年来，一身麻烦，也就此带给了王林。",
+  "motto": "小子，死不可怕，白死才可怕。",
+  "lastWords": "天，终要破的。",
+  "relations": [
+   {
+    "id": "npc_wang_lin",
+    "name": "王林",
+    "rel": "徒弟",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_jiang_taixu",
+  "name": "姜太虚",
+  "book": "遮天",
+  "main": true,
+  "realm": 7,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "姜家东荒神王，被困紫山多年，被叶凡救出",
+  "bio": "姜家出的神王，生为东方神体，名震东荒，被困紫山多年，后来为叶凡所救，此后常与叶凡同历险境。他对晚辈宽厚，行事磊落，肯为人族担当。",
+  "motto": "晚辈，我替你劈开一线路，往后的你自己走。",
+  "lastWords": "莫忘了姜家的人。",
+  "relations": [
+   {
+    "id": "npc_ye_fan",
+    "name": "叶凡",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_zuo_you",
+  "name": "左右",
+  "book": "剑来",
+  "main": true,
+  "realm": 7,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "jian",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "文圣门下的剑修，剑道登峰造极，一生守着一个字：义",
+  "bio": "他是文圣一脉的大师兄，剑道臻于绝顶，沉默寡言，一生只信手里一柄剑，同辈剑修都只能仰望。对师弟们要求严苛，维护师门寸步不让，为了认定的人，不惜付出任何代价。",
+  "motto": "要战便战，不必多说。",
+  "lastWords": "先生，余下的交给我。",
+  "relations": [
+   {
+    "id": "npc_cui_dong_shan",
+    "name": "崔东山",
+    "rel": "同门",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_chen_ping_an",
+    "name": "陈平安",
+    "rel": "师弟",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_qi_jing_chun",
+    "name": "齐静春",
+    "rel": "师弟",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_chen_qing_du",
+    "name": "陈清都",
+    "rel": "旧识",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_jiang_baigui",
+  "name": "江白圭",
+  "book": "牧神记",
+  "main": true,
+  "realm": 7,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "延康国师，名江陵，字白圭，延康变法的主推手",
+  "bio": "国师江陵，字白圭，延康人，剑法入化，世称当世第一剑，政治眼光与谋划同样了得，是延康变法的主推手之一。为替变法扫清路障，他领兵攻打大墟，夺其神迹秘宝。行事滴水不漏。",
+  "motto": "变法这盘棋，落子之人不能心软。",
+  "lastWords": "这一剑，是我留给延康的。",
+  "relations": [
+   {
+    "id": "npc_qin_mu",
+    "name": "秦牧",
+    "rel": "同门",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_yanfengdi",
+    "name": "延丰帝",
+    "rel": "君臣",
+    "kind": "far"
+   },
+   {
+    "id": "npc_cunzhang",
+    "name": "村长",
+    "rel": "对手",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_shang_xingzhou",
+  "name": "商行舟",
+  "book": "择天记",
+  "main": true,
+  "realm": 7,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "计道人，陈长生之师，国教学院前院长，大陆道尊",
+  "bio": "世称大陆道尊，修为已入圣境，曾任国教学院院长。隐居之时化名计道人，将陈长生养大，教他读遍道藏。学问修为，俱在大陆之巅，行事先顾大局；一生算计极深，心狠手辣。",
+  "motto": "一步棋，我一走便是几十年。",
+  "lastWords": "学院往后，就看你们了。",
+  "relations": [
+   {
+    "id": "npc_chen_changsheng",
+    "name": "陈长生",
+    "rel": "徒弟",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_luo_li",
+  "name": "洛璃",
+  "book": "大主宰",
+  "main": true,
+  "realm": 7,
+  "camp": "zheng",
+  "qi": "bing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "洛神族公主，族中近万年天赋最高者，牧尘的妻子",
+  "bio": "洛神族公主，亦是将来的族长，近万年来，族中天赋无人及她。性子清冷坚韧，对亲近之人却温柔。灵路上她与牧尘相识，受过他救命之恩，为帮他，一同进了北苍灵院。",
+  "motto": "要走，便一起走。",
+  "lastWords": "莫回头。",
+  "relations": [
+   {
+    "id": "npc_mu_chen",
+    "name": "牧尘",
+    "rel": "丈夫",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_han_li",
+  "name": "韩立",
+  "book": "凡人修仙传",
+  "main": true,
+  "realm": 8,
+  "camp": "san",
+  "qi": "jian",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "山村穷孩子出身，掌天瓶的主人，七玄门墨大夫的弟子",
+  "bio": "山村里的穷孩子，越国人，经亲戚引荐入七玄门，拜墨大夫为师。识破师父的真面目，他抽身而去，改入黄枫谷，在百药园和李化元门下先后修行。一路靠谨慎，和一只来历不明的小瓶活下来；先留退路，无把握不出手。后来远走乱星海。",
+  "motto": "能不出手便不出手，出了手，便是有把握的。",
+  "lastWords": "那只瓶子，还在不在。",
+  "relations": [
+   {
+    "id": "npc_mo_daifu",
+    "name": "墨大夫",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_li_huayuan",
+    "name": "李化元",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_nangong_wan",
+    "name": "南宫婉",
+    "rel": "道侣",
+    "kind": "near"
+   },
+   {
+    "id": "npc_yin_yue",
+    "name": "银月",
+    "rel": "器灵",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_xiaoyan",
+  "name": "萧炎",
+  "book": "斗破苍穹",
+  "main": true,
+  "realm": 8,
+  "camp": "san",
+  "qi": "huo",
+  "xinxing": "jian",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "乌坦城萧家三少爷，拜药老为师的炼药师",
+  "bio": "萧家百年来最年轻的斗者，十一岁那年，一夜间斗气尽失，被唤作废物三年，未婚妻又上门退婚。戒指中的老人把他重新领上路，他一面炼药，一面收异火。护短，记仇，欠下的债，一笔一笔，必要讨回。",
+  "motto": "三年之约已到，我来取回属于我的东西。",
+  "lastWords": "我的路，还没走完。",
+  "relations": [
+   {
+    "id": "npc_yaolao",
+    "name": "药老",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_xiaozhan",
+    "name": "萧战",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_xunerjia",
+    "name": "古薰儿",
+    "rel": "道侣",
+    "kind": "near"
+   },
+   {
+    "id": "npc_meidusha",
+    "name": "美杜莎",
+    "rel": "道侣",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_ye_fan",
+  "name": "叶凡",
+  "book": "遮天",
+  "main": true,
+  "realm": 8,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "地球大学生，被九龙拉棺带进北斗星空，身负荒古圣体的主角",
+  "bio": "他本是地球上的大学生，随同学登泰山，被九龙拉棺带入北斗星空，身负荒古圣体。各大圣地、世家，他一路闯过；对朋友重义气，护短，见不平事肯出头，对手再强，也不低头。路越走越高，牵挂的人也越来越多。",
+  "motto": "朋友在此，谁想动他，先从我身上踏过去。",
+  "lastWords": "别动我身边的人。",
+  "relations": [
+   {
+    "id": "npc_pang_bo",
+    "name": "庞博",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_hei_huang",
+    "name": "黑皇",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_hua_yunfei",
+    "name": "华云飞",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": "npc_ji_ziyue",
+    "name": "姬紫月",
+    "rel": "道侣",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_shi_hao",
+  "name": "石昊",
+  "book": "完美世界",
+  "main": true,
+  "realm": 8,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "石村走出的少年，至尊骨被夺后一路成长为一界至强的主角",
+  "bio": "石氏大族出身，生就至尊骨，却在年幼时被堂兄石毅夺去，此后在荒域石村长大。他于山野间打熬气血，一路厮杀，离了荒域，奔向上界。脾气倔，护短，重情义，凡欠他的，必要讨回来。",
+  "motto": "我的东西，终究是要拿回来的。",
+  "lastWords": "石村里，还有人在等我。",
+  "relations": [
+   {
+    "id": "npc_shi_yi",
+    "name": "石毅",
+    "rel": "兄",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_yun_xi",
+    "name": "云曦",
+    "rel": "道侣",
+    "kind": "near"
+   },
+   {
+    "id": "npc_huo_linger",
+    "name": "火灵儿",
+    "rel": "红颜知己",
+    "kind": "far"
+   },
+   {
+    "id": null,
+    "name": "柳神",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_wang_lin",
+  "name": "王林",
+  "book": "仙逆",
+  "main": true,
+  "realm": 8,
+  "camp": "san",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "赵国山村出身，恒岳派记名弟子，一路逆天而行的修士",
+  "bio": "小名铁柱，赵国山村人，资质平庸。入仙门的测试他没能过关，靠四叔走了门路，才在恒岳派挂了记名弟子。一枚天逆珠，引他踏上逆天之途。他话少，能忍，恩要报，仇也要报。",
+  "motto": "这一路走来，我不信天，只信己。",
+  "lastWords": "这天，我逆过了。",
+  "relations": [
+   {
+    "id": "npc_li_muwan",
+    "name": "李慕婉",
+    "rel": "道侣",
+    "kind": "near"
+   },
+   {
+    "id": "npc_situ_nan",
+    "name": "司徒南",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_teng_huayuan",
+    "name": "藤化元",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": "npc_tuo_sen",
+    "name": "拓森",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_bai_xiaochun",
+  "name": "白小纯",
+  "book": "一念永恒",
+  "main": true,
+  "realm": 8,
+  "camp": "zheng",
+  "qi": "mu",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "灵溪宗香云山外门弟子出身，后入逆河宗，怕死到极致的奇人",
+  "bio": "帽儿山村孤儿，爹娘早逝，满心只想长生不死。先祖留下的灵香一点，灵溪宗便将他接引入门。他怕死怕到极处，肚里鬼点子成堆，闹得全宗上下天翻地覆；嘴上贪生，朋友一出事，却冲得比谁都快。",
+  "motto": "我白小纯，怕死又怎么了？",
+  "lastWords": "我还不想死啊。",
+  "relations": [
+   {
+    "id": "npc_hou_xiaomei",
+    "name": "侯小妹",
+    "rel": "道侣",
+    "kind": "near"
+   },
+   {
+    "id": "npc_song_junwan",
+    "name": "宋君婉",
+    "rel": "道侣",
+    "kind": "near"
+   },
+   {
+    "id": "npc_zhang_dapang",
+    "name": "张大胖",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_xu_baocai",
+    "name": "许宝财",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_meng_hao",
+  "name": "孟浩",
+  "book": "我欲封天",
+  "main": true,
+  "realm": 8,
+  "camp": "san",
+  "qi": "tu",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "赵国落第书生，被许清带进靠山宗的杂役弟子",
+  "bio": "落第书生，赵国人氏，被靠山宗内门弟子许清带回宗门，做了杂役弟子。书生模样腼腆，肚里却精于算账，几两银子也要计较，靠卖药攒下灵石。一面铜镜，助他在宗中立稳脚跟。嘴硬心软。",
+  "motto": "灵石先搁这儿，旁的都好商量。",
+  "lastWords": "这书生，我没白当。",
+  "relations": [
+   {
+    "id": "npc_xu_qing",
+    "name": "许清",
+    "rel": "道侣",
+    "kind": "near"
+   },
+   {
+    "id": "npc_chu_yuyan",
+    "name": "楚玉嫣",
+    "rel": "道侣",
+    "kind": "near"
+   },
+   {
+    "id": "npc_li_fugui",
+    "name": "李富贵",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_kaoshan_laozu",
+    "name": "靠山老祖",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_zhang_xiaofan",
+  "name": "张小凡",
+  "book": "诛仙",
+  "main": true,
+  "realm": 8,
+  "camp": "san",
+  "qi": "mo",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "草庙村遗孤，青云门大竹峰弟子，后化名鬼厉",
+  "bio": "草庙村遗孤，年幼时全村遭灭，青云门收他入大竹峰，叫他在厨房烧火打杂。资质平平，因噬血珠与大梵般若，走上一条前人未走的路，后又化名鬼厉行走。心地不坏，重情重义，最怕亲近之人，被卷入他的恩怨。",
+  "motto": "我只想在乎的人，都好好的。",
+  "lastWords": "对不住，我回不去了。",
+  "relations": [
+   {
+    "id": "npc_tian_buyi",
+    "name": "田不易",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_bi_yao",
+    "name": "碧瑶",
+    "rel": "恋人",
+    "kind": "near"
+   },
+   {
+    "id": "npc_lu_xueqi",
+    "name": "陆雪琪",
+    "rel": "恋人",
+    "kind": "near"
+   },
+   {
+    "id": "npc_song_daren",
+    "name": "宋大仁",
+    "rel": "师兄",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_qin_yu",
+  "name": "秦羽",
+  "book": "星辰变",
+  "main": true,
+  "realm": 8,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "楚王朝镇东王三子，外功练到先天，立星辰阁于无边海域",
+  "bio": "无边海域上的星辰阁，是他一手立起的，侯费、黑羽与他结为兄弟，他护短到底。他是镇东王秦德的三公子，先天丹田有缺，攒不住内力，人人都当他是废物；他偏不认命，硬将外功练至先天大成，后得流星泪，又于雷山居学成星辰变。",
+  "motto": "自己挣来的命，谁也休想拿走。",
+  "lastWords": "兄弟，替我，替我。",
+  "relations": [
+   {
+    "id": "npc_qin_de",
+    "name": "秦德",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_hou_fei",
+    "name": "侯费",
+    "rel": "弟",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_hei_yu",
+    "name": "黑羽",
+    "rel": "弟",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_qing_long",
+    "name": "青龙",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_chen_ping_an",
+  "name": "陈平安",
+  "book": "剑来",
+  "main": true,
+  "realm": 8,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "泥瓶巷出身的孤儿，从烧瓷学徒一路远游，剑修兼武夫",
+  "bio": "小镇泥瓶巷里，一个父母双亡的孩子，吃百家饭长大，后来在窑上做过学徒，出了家乡，才知天下之大。他凡事讲规矩、讲道理，吃了许多亏也不记仇，认准的事，一步一步走到底，对身边人护得极紧。",
+  "motto": "吃了没，一起走一段？",
+  "lastWords": "这条路，得我自己走。",
+  "relations": [
+   {
+    "id": "npc_ning_yao",
+    "name": "宁姚",
+    "rel": "道侣",
+    "kind": "near"
+   },
+   {
+    "id": "npc_qi_jing_chun",
+    "name": "齐静春",
+    "rel": "师兄",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_zuo_you",
+    "name": "左右",
+    "rel": "师兄",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_liu_yang_yang",
+    "name": "刘羡阳",
+    "rel": "挚友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_qin_mu",
+  "name": "秦牧",
+  "book": "牧神记",
+  "main": true,
+  "realm": 8,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "残老村九老养大的放牛少年，出大墟后成为天魔教教主",
+  "bio": "九位老人，各怀绝学，在大墟深处的残老村里，轮流教养着他，他样样都学了一点。测得的是凡体，村长却哄他当霸体来练。出了大墟，他卷入延康变法，与公主共创元神引，越走越高。念旧护短，待教过他的人，情义极重。",
+  "motto": "几位老师傅传的本事，我一样一样，试给你看。",
+  "lastWords": "莫为我难过，这条路是我自己选的。",
+  "relations": [
+   {
+    "id": "npc_si_popo",
+    "name": "司婆婆",
+    "rel": "养育",
+    "kind": "near"
+   },
+   {
+    "id": "npc_cunzhang",
+    "name": "村长",
+    "rel": "养育",
+    "kind": "near"
+   },
+   {
+    "id": "npc_jiang_baigui",
+    "name": "江白圭",
+    "rel": "同门",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_ling_yuxiu",
+    "name": "灵毓秀",
+    "rel": "妻子",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_li_yingqiong",
+  "name": "李英琼",
+  "book": "蜀山剑侠传",
+  "main": true,
+  "realm": 8,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "f",
+  "identity": "随父李宁避祸入峨眉的少女，得紫郢剑，峨眉三英之一",
+  "bio": "李宁带着女儿避祸隐居，一路奔向峨眉，这女儿便是她。刚烈疾恶，口直心快，孝顺父亲，为朋友肯掏心。她得长眉真人的紫郢剑，收神雕佛奴与猩猩袁星，是峨眉后辈里风头最盛的一个。",
+  "motto": "怕什么？前头有邪魔，我偏要去会会他。",
+  "lastWords": "爹，我没给你丢脸。",
+  "relations": [
+   {
+    "id": null,
+    "name": "李宁",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_qi_lingyun",
+    "name": "齐灵云",
+    "rel": "同门",
+    "kind": "mid"
+   },
+   {
+    "id": null,
+    "name": "袁星",
+    "rel": "仆从",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_hun_tiandi",
+  "name": "魂天帝",
+  "book": "斗破苍穹",
+  "main": false,
+  "realm": 8,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "魂族族长，魂殿背后真正的主人，布局千年的斗帝级强者",
+  "bio": "魂族之主，潜伏暗处经营千年，魂殿不过是他探出的一只手。八大古族相争，各方势力暗流涌动，十之八九都绕着他的算盘打转。为登最后一步，便是盟友，他也不留余地。",
+  "motto": "棋子落在盘上，是不配问缘由的。",
+  "lastWords": "本座，不甘心啊。",
+  "relations": [
+   {
+    "id": "npc_xiaoyan",
+    "name": "萧炎",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": "npc_guyuan",
+    "name": "古元",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_guyuan",
+  "name": "古元",
+  "book": "斗破苍穹",
+  "main": false,
+  "realm": 7,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "古族族长，古薰儿之父，八大古族之一的领袖",
+  "bio": "古族之主，统领一支远古家族，女儿的天赋与家族的存亡，在他心中一般重。行事沉稳，底牌轻易不亮；对魂族的野心早存戒备，对萧炎，则既审视，又惜才。",
+  "motto": "底牌这东西，不到最后，外人是看不得的。",
+  "lastWords": "族中人，拜托了。",
+  "relations": [
+   {
+    "id": "npc_xunerjia",
+    "name": "古薰儿",
+    "rel": "女儿",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_ziyan",
+  "name": "紫妍",
+  "book": "斗破苍穹",
+  "main": false,
+  "realm": 5,
+  "camp": "san",
+  "qi": "tu",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "太虚古龙之女，常化作少女跟在萧炎身边",
+  "bio": "太虚古龙烛坤之女，龙族天生的力量与傲气，尽数在她身上。化作人形时，贪嘴爱闹，对认定的人全心依赖；一旦动起手来，龙威压下，叫人喘不过气。",
+  "motto": "哼，谁敢欺负他，先过我这一关！",
+  "lastWords": "你们都别吵了，好不好。",
+  "relations": [
+   {
+    "id": null,
+    "name": "烛坤",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_xiaoyan",
+    "name": "萧炎",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_qinglin",
+  "name": "青鳞",
+  "book": "斗破苍穹",
+  "main": false,
+  "realm": 3,
+  "camp": "san",
+  "qi": "mu",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "蛇人与人类混血的少女，早年是侍女，后独当一面",
+  "bio": "身负蛇人与人类两脉之血，幼时谁都能给她脸色看。后来遇上肯把她当人看的人，才慢慢直起腰来。她生一双罕见的异瞳，能慑服蛇形魔兽，胆气也一点点练了出来。",
+  "motto": "让我，让我试试看。",
+  "lastWords": "请替我护好大家。",
+  "relations": [
+   {
+    "id": "npc_meidusha",
+    "name": "美杜莎",
+    "rel": "主人",
+    "kind": "near"
+   },
+   {
+    "id": "npc_xiaoyan",
+    "name": "萧炎",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_ruolin",
+  "name": "若琳",
+  "book": "斗破苍穹",
+  "main": false,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "迦南学院外院导师，带着一批外院学员",
+  "bio": "迦南学院外院导师，带一批初入学的学员，授课认真，待学生一视同仁。她在院中不算耀眼，却是许多新生入门路上，遇见的第一位先生。",
+  "motto": "根基打牢了，再谈别的。",
+  "lastWords": "诸位同学，加把劲。",
+  "relations": []
+ },
+ {
+  "id": "npc_jialiao",
+  "name": "加列奥",
+  "book": "斗破苍穹",
+  "main": false,
+  "realm": 1,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "乌坦城加列家的少爷，与萧家作对",
+  "bio": "乌坦城三大家族之一加列家的少爷，仗着家世，嚣张惯了。见萧家药生意红火，几回想寻萧炎的晦气，却始终占不到便宜，对萧家的怨气，越积越深。",
+  "motto": "乌坦城里，还没人敢驳我的面子。",
+  "lastWords": "我不服，我不服。",
+  "relations": [
+   {
+    "id": null,
+    "name": "加列毕",
+    "rel": "父亲",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_lin_dong",
+  "name": "林动",
+  "book": "武动乾坤",
+  "main": false,
+  "realm": 8,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "青阳镇林氏分家少年，手握祖符，一路修成一界之主",
+  "bio": "青阳镇林家分家的少年，父亲被族中天才打伤，家道中落。他在山洞里拾得一枚来历不明的石符，自此带着符中灵貂，一步步从小镇走向更广阔的天地。性子坚韧，护着亲人，认准的目标，绝不回头。",
+  "motto": "这条路，我林动走定了。",
+  "lastWords": "别为我停下。",
+  "relations": [
+   {
+    "id": "npc_lin_xiao",
+    "name": "林啸",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_lin_langtian",
+    "name": "林琅天",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": "npc_ling_qingzhu",
+    "name": "绫清竹",
+    "rel": "道侣",
+    "kind": "near"
+   },
+   {
+    "id": "npc_ying_huanhuan",
+    "name": "应欢欢",
+    "rel": "道侣",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_lin_hong",
+  "name": "林宏",
+  "book": "武动乾坤",
+  "main": false,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "jian",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "青阳镇林家年轻一辈的头号天才，林动的堂兄",
+  "bio": "林动未起之时，林家年轻一辈里，数他是青阳镇上公认的头一人，同辈唯堂姐林霞可与他一较高下。性子骄傲，对族人却肯担当，见人受欺，多半挺身说话。",
+  "motto": "林家的脸面，由我们来撑。",
+  "lastWords": "族里，就交给你们了。",
+  "relations": [
+   {
+    "id": "npc_lin_dong",
+    "name": "林动",
+    "rel": "兄",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_lin_xia",
+    "name": "林霞",
+    "rel": "姐",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_lin_xia",
+  "name": "林霞",
+  "book": "武动乾坤",
+  "main": false,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "青阳镇林家年轻一辈的少女，林宏的堂姐",
+  "bio": "林家年轻一辈中，仅次于林宏者便是她，长林宏两岁，天赋却被弟弟压过一头。某回在青阳镇交易坊与谢家人起了冲突，林动出面，替林家解了围。",
+  "motto": "林家的人，咽不下这口气。",
+  "lastWords": "你们先走，快。",
+  "relations": [
+   {
+    "id": "npc_lin_hong",
+    "name": "林宏",
+    "rel": "弟",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_lin_dong",
+    "name": "林动",
+    "rel": "弟",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_xie_yingying",
+  "name": "谢盈盈",
+  "book": "武动乾坤",
+  "main": false,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "青阳镇谢家的小姐，谢婷之姐",
+  "bio": "青阳镇谢家的小姐，在镇上年轻一辈中颇有名气，家里人遇事，也爱替她出头。妹妹谢婷曾在交易坊与林家人起过冲突，姐妹二人在镇上，都不是好惹的主。",
+  "motto": "谢家的人，不受外人的气。",
+  "lastWords": "妹妹啊。",
+  "relations": [
+   {
+    "id": null,
+    "name": "谢婷",
+    "rel": "妹",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_ling_qingzhu",
+  "name": "绫清竹",
+  "book": "武动乾坤",
+  "main": false,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "jian",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "九天太清宫年轻一辈天赋最高的弟子，林动的道侣",
+  "bio": "九天太清宫弟子中最出挑的一个，天赋极高，性子清冷，人前从不假以辞色。她与林动的纠葛，起于一场意外，由怨转为牵挂，也是林动前期一路追赶的目标。",
+  "motto": "我的路我自己走，与旁人无涉。",
+  "lastWords": "莫回头。",
+  "relations": [
+   {
+    "id": "npc_lin_dong",
+    "name": "林动",
+    "rel": "道侣",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_ying_huanhuan",
+  "name": "应欢欢",
+  "book": "武动乾坤",
+  "main": false,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "bing",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "道宗宗主之女，远古冰主轮回之身，林动的道侣",
+  "bio": "道宗宗主之女，自小被宠着长大，活泼爱闹，嘴上不肯饶人。与林动一照面便要拌嘴，成了出了名的欢喜冤家；真到危急关头，却比谁都豁得出去。",
+  "motto": "喂，你欠我的账，还没算完呢！",
+  "lastWords": "你可要好好的。",
+  "relations": [
+   {
+    "id": "npc_lin_dong",
+    "name": "林动",
+    "rel": "道侣",
+    "kind": "near"
+   },
+   {
+    "id": null,
+    "name": "应玄子",
+    "rel": "父亲",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_yi_mo_huang",
+  "name": "异魔皇",
+  "book": "武动乾坤",
+  "main": false,
+  "realm": 7,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "异魔一族的魔皇，统领群魔的最大对头",
+  "bio": "异魔一族的至高主宰，麾下拢着大批魔将魔兵，视天玄一界为猎场。他心思深沉，耐性极长，视众生为养料，宁可再等几百年，也要把想要的东西拿到手。",
+  "motto": "这一界，原就是魔族的牧场。",
+  "lastWords": "本皇还会回来的。",
+  "relations": [
+   {
+    "id": "npc_lin_dong",
+    "name": "林动",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_tuo_sen",
+  "name": "拓森",
+  "book": "仙逆",
+  "main": false,
+  "realm": 7,
+  "camp": "mo",
+  "qi": "tu",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "承古神一脉的强者，与王林纠缠到底的劲敌",
+  "bio": "一生都缠在一桩古神传承里的强者，为那份机缘，与王林结下不死不休的梁子。性子沉，话不多，认准的东西，死也要攥到手，被拦便硬碰到底。",
+  "motto": "该是我的，迟早都是我的。",
+  "lastWords": "古神，不该输的。",
+  "relations": [
+   {
+    "id": "npc_wang_lin",
+    "name": "王林",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_tian_yunzi",
+  "name": "天运子",
+  "book": "仙逆",
+  "main": false,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "天运宗宗主，擅推演天机的老谋深算之人",
+  "bio": "天运宗掌门，长于推演天机，人与事在他眼里，皆是盘中棋子。他盯上了王林，不止一回出手算计；笑意里总藏着下一步，便是自家门人，也未必信得过。",
+  "motto": "天机早已写定，只是你还没看到。",
+  "lastWords": "这一步，算漏了。",
+  "relations": [
+   {
+    "id": "npc_wang_lin",
+    "name": "王林",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_huanglong_zhenren",
+  "name": "黄龙真人",
+  "book": "仙逆",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "恒岳派的长辈真人，王林入门时打过交道的人",
+  "bio": "恒岳派管事的长辈，办事不动声色，赏罚分明。王林这批新弟子入门，最先见到的几位前辈中便有他；话不多，规矩却讲得一丝不苟。",
+  "motto": "入了山门，先学规矩，再学本事。",
+  "lastWords": "山门，就交给你们了。",
+  "relations": [
+   {
+    "id": "npc_wang_lin",
+    "name": "王林",
+    "rel": "徒弟",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_hou_yunfei",
+  "name": "侯云飞",
+  "book": "一念永恒",
+  "main": false,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "侯家少爷，侯小妹的哥哥，香云山的弟子",
+  "bio": "侯家少爷，侯小妹之兄，在香云山一脉中算是白小纯的师兄。出身好，眼界高，一身脾气是被家里惯出来的。后来一回失踪，让不少人跟着揪心。",
+  "motto": "我侯家的人，走到哪里都不丢脸。",
+  "lastWords": "家里，别告诉他们。",
+  "relations": [
+   {
+    "id": "npc_hou_xiaomei",
+    "name": "侯小妹",
+    "rel": "妹",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_bai_xiaochun",
+    "name": "白小纯",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_li_qinghou",
+  "name": "李青候",
+  "book": "一念永恒",
+  "main": false,
+  "realm": 4,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "灵溪宗香云山峰主，弟子们尊称李师叔",
+  "bio": "香云山一脉的峰主，弟子们称一声李师叔。他自己亦是别人的徒弟，为人稳重，管门下弟子管得宽，也肯替他们出头，在宗里人缘向来不差。",
+  "motto": "我香云山上，没有谁是白来一趟的。",
+  "lastWords": "香云山，就交给你们了。",
+  "relations": [
+   {
+    "id": "npc_zhou_xinqi",
+    "name": "周心琪",
+    "rel": "徒弟",
+    "kind": "near"
+   },
+   {
+    "id": null,
+    "name": "铁木老祖",
+    "rel": "师父",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_shangguan_tianyou",
+  "name": "上官天佑",
+  "book": "一念永恒",
+  "main": false,
+  "realm": 4,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "南岸选出的天骄，传闻是远古剑修转世",
+  "bio": "南岸选出的天骄，传闻乃一位远古剑修转世。心高气傲，见不得白小纯风头盖过自己，处处暗使绊子；独对周心琪另眼相待，肯替她出头。",
+  "motto": "我才是南岸第一，谁也改不了。",
+  "lastWords": "我，不该输的啊。",
+  "relations": [
+   {
+    "id": "npc_zhou_xinqi",
+    "name": "周心琪",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_bai_xiaochun",
+    "name": "白小纯",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_shensuanzi",
+  "name": "神算子",
+  "book": "一念永恒",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "血溪宗以推算占卜闻名的人，爱面子",
+  "bio": "血溪宗中以推算占卜闻名者，自负得很。洞府被白小纯占了，又当着两宗之人丢尽脸面，自此把这笔账记在心里，偏偏还不得不与对方同行。",
+  "motto": "天机我早算过，是你不肯信。",
+  "lastWords": "这一卦，算错了。",
+  "relations": [
+   {
+    "id": "npc_bai_xiaochun",
+    "name": "白小纯",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_jia_lie",
+  "name": "贾烈",
+  "book": "一念永恒",
+  "main": false,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "huo",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "血溪宗弟子，在选血子的火炼中与白小纯争名额",
+  "bio": "血溪宗弟子，选血子的火炼之中，与白小纯争过同一个名额，狠狠较了一番劲。后来被编入同一支小队，嘴上不服，手上却肯并肩，彼此都认死理。",
+  "motto": "这回我认栽，下回可不会。",
+  "lastWords": "我不曾输给你。",
+  "relations": [
+   {
+    "id": "npc_bai_xiaochun",
+    "name": "白小纯",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_xu_xiaoshan",
+  "name": "许小山",
+  "book": "一念永恒",
+  "main": false,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "血溪宗纨绔弟子，在坠剑一带与白小纯互相算计",
+  "bio": "血溪宗纨绔弟子，在一处剑道秘境中与白小纯互相坑骗，还开过一处炼尸的所在，被白小纯一把炸了。事后反把对方当成朋友，嘴上却死不承认。",
+  "motto": "骗你的，不过，我也被你骗了。",
+  "lastWords": "这回，我亏大了。",
+  "relations": [
+   {
+    "id": "npc_bai_xiaochun",
+    "name": "白小纯",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_juguiwang",
+  "name": "巨鬼王",
+  "book": "一念永恒",
+  "main": false,
+  "realm": 7,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "巨鬼城之主，被尊为天王的半神之身",
+  "bio": "巨鬼城的统治者，鬼族之首，被尊为天王，半神之躯。他与九静王势不两立，数百年不曾缓和。城中说一不二，鬼族上下，无人敢当面顶嘴，亦无人敢背后议论。",
+  "motto": "在这巨鬼城，我便是天。",
+  "lastWords": "九静，你也休想活。",
+  "relations": [
+   {
+    "id": null,
+    "name": "九静王",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_chu_yuyan",
+  "name": "楚玉嫣",
+  "book": "我欲封天",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "bing",
+  "xinxing": "jian",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "出身不凡的女修，孟浩身边的重要女子",
+  "bio": "出身不凡的女修，性子刚烈护短，遇事不肯服软。她与孟浩纠缠多年，嘴上硬，心里早已认了，只是谁也不肯先开口，一拖便是许久。",
+  "motto": "我认定的人，谁都别想动。",
+  "lastWords": "莫哭，我无事。",
+  "relations": [
+   {
+    "id": "npc_meng_hao",
+    "name": "孟浩",
+    "rel": "道侣",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_chen_fan",
+  "name": "陈凡",
+  "book": "我欲封天",
+  "main": false,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "jian",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "孟浩在靠山宗相识的同辈",
+  "bio": "在靠山宗与孟浩结识的同辈，为人直爽，带着不服输的劲头。与孟浩相处多年，由陌生走到并肩，紧要关头分得清轻重，不会拿朋友去换好处。",
+  "motto": "有话便直说，我最不爱绕弯子。",
+  "lastWords": "孟兄，保重了。",
+  "relations": [
+   {
+    "id": "npc_meng_hao",
+    "name": "孟浩",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_zong_jue",
+  "name": "宗倔",
+  "book": "星辰变",
+  "main": false,
+  "realm": 7,
+  "camp": "san",
+  "qi": "lei",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "金翅大鹏鸟，鹏魔岛岛主，海外修真界顶尖强者",
+  "bio": "金翅大鹏出身，鹏魔岛岛主，海外修真界里数一数二的顶尖人物。他早年欠澜叔一份大恩，故而对秦羽多有照应；可一遇破天图这样的重宝，照样下场去抢，不讲情面，只认实力。",
+  "motto": "受过的情，我记着；该抢的东西，我也不让。",
+  "lastWords": "这一翅，折了。",
+  "relations": [
+   {
+    "id": null,
+    "name": "澜叔",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_fang_tian",
+    "name": "方阗",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_fang_tian",
+  "name": "方阗",
+  "book": "星辰变",
+  "main": false,
+  "realm": 7,
+  "camp": "san",
+  "qi": "huo",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "龙族族长，五爪金龙，青龙宫的后台",
+  "bio": "龙族之长，本体五爪金龙，立在青龙宫背后撑腰。他与宗倔一道出手争夺破天图，与秦羽成了对头。身为一族之主，极重族群颜面，出手强横，不容旁人在龙族地界撒野。",
+  "motto": "龙族地界，岂容外人放肆。",
+  "lastWords": "我龙族不灭。",
+  "relations": [
+   {
+    "id": "npc_qing_long",
+    "name": "青龙",
+    "rel": "仆从",
+    "kind": "near"
+   },
+   {
+    "id": "npc_zong_jue",
+    "name": "宗倔",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_hei_yu",
+  "name": "黑羽",
+  "book": "星辰变",
+  "main": false,
+  "realm": 6,
+  "camp": "san",
+  "qi": "lei",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "暗电鹏王之子，变异神兽，秦羽的结义三弟",
+  "bio": "暗电鹏王之子，一只变异的神兽，自小流落凡人界，起初是只黑色的鹰，一路陪在秦羽身边。秦羽唤他小黑；渡劫成功后他才生出灵识，自取名黑羽。话少而忠，认定的人，绝不背弃。",
+  "motto": "大哥去哪，我便去哪。",
+  "lastWords": "大哥，保重。",
+  "relations": [
+   {
+    "id": "npc_qin_yu",
+    "name": "秦羽",
+    "rel": "兄",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_hou_fei",
+    "name": "侯费",
+    "rel": "兄",
+    "kind": "mid"
+   },
+   {
+    "id": null,
+    "name": "方崇",
+    "rel": "父亲",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_san_yan_bi_jing_chan",
+  "name": "三眼碧睛蟾",
+  "book": "星辰变",
+  "main": false,
+  "realm": 4,
+  "camp": "san",
+  "qi": "mu",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "碧水府首领，海底修妖界的老妖",
+  "bio": "碧水府之主，一只三眼老蟾妖，在海底修妖界颇有地位。九煞殿势大之时，他出手帮秦羽牵制过对手。活得久，算得精，宁可守在水府里观望，也不轻易把自己押上去。",
+  "motto": "这潭水深，你想清楚了再下来。",
+  "lastWords": "碧水府，散了。",
+  "relations": [
+   {
+    "id": "npc_qin_yu",
+    "name": "秦羽",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_qing_long",
+    "name": "青龙",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_yan_mo",
+  "name": "延墨",
+  "book": "星辰变",
+  "main": false,
+  "realm": 4,
+  "camp": "san",
+  "qi": "bing",
+  "xinxing": "jian",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "黑龙城的统治者，持有第九把玉剑的黑龙",
+  "bio": "龙族出身，黑龙城之主，手握第九把玉剑。他随秦羽一道探过九剑仙府，并出手击杀九煞殿的狄龙。与秦羽并无仇怨，只在自己要的东西上，寸步不让。",
+  "motto": "东西各取所需，不必多言。",
+  "lastWords": "这座城，交给你了。",
+  "relations": [
+   {
+    "id": "npc_qin_yu",
+    "name": "秦羽",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_di_long",
+    "name": "狄龙",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_ao_feng",
+  "name": "敖奉",
+  "book": "星辰变",
+  "main": false,
+  "realm": 4,
+  "camp": "san",
+  "qi": "bing",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "龙族使者，来到凡人界争夺破天图",
+  "bio": "龙族派下的使者，冲着破天图而来。身份尊贵，自视甚高，视凡人界的修士如蝼蚁。拍卖与争夺之间，他与仙界、魔界、妖界的使者各取所需，也盯上了秦羽手里的宝物。",
+  "motto": "小小凡人界，也敢拦我？",
+  "lastWords": "怎会败在傀儡手里。",
+  "relations": [
+   {
+    "id": "npc_qin_yu",
+    "name": "秦羽",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_xiang_yang",
+  "name": "项央",
+  "book": "星辰变",
+  "main": false,
+  "realm": 3,
+  "camp": "mo",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "楚王朝的统治者，元婴期修士",
+  "bio": "楚王朝实际掌权之人，修为已至元婴期，在凡人界也算一方强手。他与秦家有世仇，处处压着镇东王一系；心里只有权位，容不下任何可能威胁楚朝的人。",
+  "motto": "秦家这点家底，我一抬手便能抹去。",
+  "lastWords": "没想到，栽在你们手里。",
+  "relations": [
+   {
+    "id": "npc_qin_de",
+    "name": "秦德",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": "npc_qin_yu",
+    "name": "秦羽",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_di_long",
+  "name": "狄龙",
+  "book": "星辰变",
+  "main": false,
+  "realm": 3,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "九煞殿首领之一，紫煞蛟龙",
+  "bio": "九煞殿头领之一，本体紫煞蛟龙，行事狠辣，向来以为凡人界的人不配同他讲规矩。他与秦羽结了梁子，又与黑龙延墨有过节，九煞殿的势力，便在这些争斗里一路走了下坡。",
+  "motto": "谁挡我的路，谁便得死！",
+  "lastWords": "黑龙，你，你！",
+  "relations": [
+   {
+    "id": "npc_yan_mo",
+    "name": "延墨",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": "npc_qin_yu",
+    "name": "秦羽",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_feng_yu_zi",
+  "name": "风玉子",
+  "book": "星辰变",
+  "main": false,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "秦羽的大伯，修炼者，早期秦家的靠山",
+  "bio": "秦家早年的一座靠山，秦羽的大伯。他是修炼之人，刚踏入金丹，放在凡人界已够称一声上仙。秦家能在朝堂上立得住，多半靠这样一位修行人在背后撑着；他也肯护着家中晚辈。",
+  "motto": "秦家的事，我不会袖手旁观。",
+  "lastWords": "秦家，拜托了。",
+  "relations": [
+   {
+    "id": "npc_qin_yu",
+    "name": "秦羽",
+    "rel": "侄子",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_qin_de",
+  "name": "秦德",
+  "book": "星辰变",
+  "main": false,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "jian",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "大楚镇东王，秦羽之父，一心推翻王朝",
+  "bio": "大楚镇东王，秦羽之父。妻子被楚皇害死后，他一心复仇，要把王朝推翻，忙得无暇多顾儿子。后来与秦羽联手，才一步步打下秦王朝的基业。",
+  "motto": "这笔账，我非讨回不可。",
+  "lastWords": "秦家，就靠你们了。",
+  "relations": [
+   {
+    "id": "npc_qin_yu",
+    "name": "秦羽",
+    "rel": "儿子",
+    "kind": "near"
+   },
+   {
+    "id": "npc_xiang_yang",
+    "name": "项央",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_lian_chong",
+  "name": "连冲",
+  "book": "星辰变",
+  "main": false,
+  "realm": 1,
+  "camp": "san",
+  "qi": "lei",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "鹏魔岛二岛主之子，秦羽曾救他一命",
+  "bio": "鹏魔岛二岛主之子，年纪不大，曾蒙秦羽救过一命。他领着秦羽回到鹏魔岛，岛主宗倔与秦羽的来往，便由此而起。心性单纯，记恩，自知本事有限，故而格外珍惜这份情分。",
+  "motto": "你救过我的命，这份情我得还。",
+  "lastWords": "岛上，拜托了。",
+  "relations": [
+   {
+    "id": null,
+    "name": "扈宜",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_qin_yu",
+    "name": "秦羽",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_mo_qilin",
+  "name": "墨麒麟",
+  "book": "星辰变",
+  "main": false,
+  "realm": 1,
+  "camp": "san",
+  "qi": "tu",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "秦羽用灵兽圈降服的灵兽，守护秦王朝",
+  "bio": "一头被秦羽以灵兽圈收服的麒麟，后来留在秦王朝，替秦家守着这片基业。它不爱主动争斗，性子沉稳，只要家园安稳，便肯一直守下去；认定了的地方，轻易不肯离开。",
+  "motto": "此地，我替你守着。",
+  "lastWords": "主人保重。",
+  "relations": [
+   {
+    "id": "npc_qin_yu",
+    "name": "秦羽",
+    "rel": "主人",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_yan_xu_zhen_ren",
+  "name": "言绪真人",
+  "book": "星辰变",
+  "main": false,
+  "realm": 4,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "蓬莱仙域清虚观之首，修仙势力的代表",
+  "bio": "清虚观观主，代表修仙一派。争夺破天图的风波里，清虚观得了图，也因此被秦羽记恨，一把火烧了道观。他讲究体面，却肯为重宝不惜出手。",
+  "motto": "天下重宝，向来是有德者居之。",
+  "lastWords": "清虚观，毁于一旦。",
+  "relations": [
+   {
+    "id": "npc_qin_yu",
+    "name": "秦羽",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_ji_ning",
+  "name": "纪宁",
+  "book": "莽荒纪",
+  "main": false,
+  "realm": 8,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "纪氏西府之子，黑白学宫弟子，一生修剑",
+  "bio": "死后在地府不曾喝孟婆汤，投胎纪氏西府，带着前世的记忆长大。他出身一族之后，早年在黑白学宫被人看轻，凭一手剑术，在论道殿一战成名。家人遭少炎氏灭门，他独自报了仇，此后一路修剑，守着要护的人。",
+  "motto": "有剑在手，该护的人，我护得住。",
+  "lastWords": "师姐啊。",
+  "relations": [
+   {
+    "id": "npc_ji_yi_chuan",
+    "name": "纪一川",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_yu_chi_xue",
+    "name": "尉迟雪",
+    "rel": "母亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_yu_wei",
+    "name": "余薇",
+    "rel": "道侣",
+    "kind": "near"
+   },
+   {
+    "id": "npc_mu_zi_shuo",
+    "name": "木子朔",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_yu_chi_xue",
+  "name": "尉迟雪",
+  "book": "莽荒纪",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "bing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "纪一川之妻，纪宁的母亲，尉迟氏后人",
+  "bio": "纪宁之母，出身尉迟氏，嫁入纪氏西府，与丈夫一同撑着儿子修行。性子温和而坚韧，平日话少，却总在孩子最需要的时候守在身边。",
+  "motto": "你要走的路，娘不拦着。",
+  "lastWords": "宁儿啊。",
+  "relations": [
+   {
+    "id": "npc_ji_yi_chuan",
+    "name": "纪一川",
+    "rel": "丈夫",
+    "kind": "near"
+   },
+   {
+    "id": "npc_ji_ning",
+    "name": "纪宁",
+    "rel": "儿子",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_yu_wei",
+  "name": "余薇",
+  "book": "莽荒纪",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "bing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "黑白学宫的师姐，纪宁的道侣",
+  "bio": "黑白学宫旧弟子，纪宁的师姐，气质清冷。与纪宁相识于学宫，同闯险境，后结为道侣，生下女儿明月。她身后另有来历，心头始终有所拉扯。",
+  "motto": "师弟，且走在我身后。",
+  "lastWords": "莫要回头。",
+  "relations": [
+   {
+    "id": "npc_ji_ning",
+    "name": "纪宁",
+    "rel": "道侣",
+    "kind": "near"
+   },
+   {
+    "id": null,
+    "name": "明月",
+    "rel": "女儿",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_mu_zi_shuo",
+  "name": "木子朔",
+  "book": "莽荒纪",
+  "main": false,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "黑白学宫同窗，纪宁的生死之交",
+  "bio": "黑白学宫同窗，与纪宁一道闯过巫江仙府，患难与共。性子开朗，嘴上爱闹，重情重义，是纪宁在学宫里最信得过的朋友之一；纪宁亦肯为他舍命相救。",
+  "motto": "兄弟，这一趟，我陪你闯。",
+  "lastWords": "你，快走！",
+  "relations": [
+   {
+    "id": "npc_ji_ning",
+    "name": "纪宁",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_jiu_lian",
+  "name": "九莲",
+  "book": "莽荒纪",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "纪宁早年的同伴，与他有过一段感情",
+  "bio": "心思细腻的女子，与纪宁有过一段没能走到头的情。她与余薇的际遇恰成对照，两人对纪宁的心意一明一暗，而她自己的选择，又为这段情分添了许多波折。",
+  "motto": "你要的，我都替你备下了。",
+  "lastWords": "对不住了。",
+  "relations": [
+   {
+    "id": "npc_ji_ning",
+    "name": "纪宁",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_yu_wei",
+    "name": "余薇",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_qiu_ye",
+  "name": "秋叶",
+  "book": "莽荒纪",
+  "main": false,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "纪宁早年身边的侍女，服侍起居",
+  "bio": "纪宁身边的侍女，十分仰慕他，做事细心，嘴上却不多说。她与孔秀一样，是纪宁早年身边的伙伴，平日跟前跟后，打点琐事；他被人为难时，也悄悄替他留意动静。",
+  "motto": "公子的事，奴婢都记着呢。",
+  "lastWords": "公子啊。",
+  "relations": [
+   {
+    "id": "npc_ji_ning",
+    "name": "纪宁",
+    "rel": "主人",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_ji_nong",
+  "name": "纪农",
+  "book": "莽荒纪",
+  "main": false,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "纪宁的发小，因嫉恨暗算同伴",
+  "bio": "纪宁自小一起长大的发小，后来眼见纪宁一路强过自己，心中生出嫉恨，暗中设计算计他。他本非天生的恶人，只是被自己的不甘，一步步推到了对面。",
+  "motto": "凭什么，样样都是你比我强？",
+  "lastWords": "我，不甘心啊。",
+  "relations": [
+   {
+    "id": "npc_ji_ning",
+    "name": "纪宁",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_kong_qing",
+  "name": "空青",
+  "book": "莽荒纪",
+  "main": false,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "纪一川的灵兽，精通阵法的灵蛇",
+  "bio": "一条精通阵法的灵蛇，本是纪一川的灵兽，原主人临终前，将它托付给了纪宁。性子安静，聪明，不爱出声；跟了纪宁之后，常替他看明阵法关口，是个极靠得住的帮手。",
+  "motto": "路，我替你看过了。",
+  "lastWords": "主人啊。",
+  "relations": [
+   {
+    "id": "npc_ji_yi_chuan",
+    "name": "纪一川",
+    "rel": "主人",
+    "kind": "near"
+   },
+   {
+    "id": "npc_ji_ning",
+    "name": "纪宁",
+    "rel": "主人",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_san_shou_dao_ren",
+  "name": "三寿道人",
+  "book": "莽荒纪",
+  "main": false,
+  "realm": 5,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "留下摘星府珍宝库的前辈高人",
+  "bio": "一位前辈高人，留下一座摘星府，与满库珍宝。后来者承了他的遗泽，便能在同阶之中，得到远胜旁人的法宝。好处尽数留给后人，自己却不留名姓。",
+  "motto": "东西给了你，路要自己走。",
+  "lastWords": "府，交给你了。",
+  "relations": [
+   {
+    "id": "npc_ji_ning",
+    "name": "纪宁",
+    "rel": "徒弟",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_ma_liang",
+  "name": "马良",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 8,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "仙界九元观九元道祖的嫡系弟子，血祭生灵炼玺的真仙",
+  "bio": "仙界九元观出身，九元道祖的嫡系弟子，修为已入真仙。他降临灵界，为炼万灵血玺，不惜再度血祭多国数以亿计的生灵，逼得灵界四十余位大乘修士联手围剿。行事冷酷，视生灵如耗材。",
+  "motto": "凡人的命，原本就是拿来用的。",
+  "lastWords": "不可能，我是九元观的人啊。",
+  "relations": [
+   {
+    "id": null,
+    "name": "九元道祖",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_yuan_cha",
+  "name": "元刹圣祖",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 7,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "魔界圣祖，名列魔界前五的大乘魔修",
+  "bio": "魔界圣祖，数一数二，名列前五，修为已至大乘。他分出一缕魂降临人界，借秘术硬生生将这具分身提至炼虚层次，昆吾山一战，压得多位元婴后期修士抬不起头。",
+  "motto": "谁拦我的路，谁便化成灰。",
+  "lastWords": "这，怎么可能。",
+  "relations": [
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_nie_pan",
+  "name": "涅槃始祖",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 7,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "魔界三大始祖之一，修梵圣真魔功",
+  "bio": "魔界三大始祖之一，修梵圣真魔功。早年硬接螟虫之母一击，元气大伤，自此沉睡，只遣金、银、铜三具化身替他在外行事。他的伴侣当年死于灵界大乘修士之手，故而对灵界之人恨意极深。",
+  "motto": "灵界欠我的债，我一笔一笔收。",
+  "lastWords": "本体，尚未醒来。",
+  "relations": [
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_ao_xiao",
+  "name": "敖啸",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 7,
+  "camp": "zheng",
+  "qi": "mo",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "灵界妖族唯一的大乘修士，银月狼族的老祖",
+  "bio": "灵界妖族中唯一的大乘修士，本体银月狼族，是银月的祖父。他庇护族人，向来沉稳威严；为助孙女摆脱忘情诀的反噬，亲手为她自创了一门神念秘术。",
+  "motto": "妖族的路，由我替后辈走稳。",
+  "lastWords": "族里的孩子，就交给你了。",
+  "relations": [
+   {
+    "id": "npc_yin_yue",
+    "name": "银月",
+    "rel": "孙女",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_qing_yuanzi",
+  "name": "青元子",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 7,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "jian",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "青元剑诀的创立者，融合长元族元神的剑修大乘",
+  "bio": "青元剑诀的创立者，炼虚期便能越阶对抗合体修士，名声早早传开。后来融合一名长元族修士的元神，一举突破大乘。他认元瑶作义女，对她多有照拂。",
+  "motto": "剑不在多，一剑便够。",
+  "lastWords": "这一剑，还没出完。",
+  "relations": [
+   {
+    "id": null,
+    "name": "元瑶",
+    "rel": "女儿",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_bing_feng",
+  "name": "冰凤",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 7,
+  "camp": "san",
+  "qi": "bing",
+  "xinxing": "jian",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "人界冰海之主，本体为冰凤，修至大乘巅峰",
+  "bio": "人界冰海之主，本体冰凤，在妖族中地位极高。她与韩立相识于人界，此后牵扯不断；到了灵界，还曾在韩立身上下过禁制，令他一度修为尽失。性子清冷高傲，不肯依附他人。",
+  "motto": "这片冰海，从来只我一人说了算。",
+  "lastWords": "冰，化了。",
+  "relations": [
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_xiang_zhili",
+  "name": "向之礼",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 5,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "人界化神老怪，深藏不露，战力数一数二",
+  "bio": "人界化神修士中，实力数一数二的一位，平日几乎不出手，一向敛着气息。他是动画里头一个出场的化神，曾向韩立提议组队，被拒。知晓此界灵气将尽，一直在盘算如何去往上界。",
+  "motto": "这方天地，已经容不下我们这些人了。",
+  "lastWords": "上界啊。",
+  "relations": [
+   {
+    "id": "npc_feng_laoguai",
+    "name": "风老怪",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_hu_laomo",
+    "name": "呼老魔",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_che_laoyao",
+  "name": "车老妖",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 5,
+  "camp": "san",
+  "qi": "tu",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "万妖谷谷主，古妖血脉，真身被封，以化身行事",
+  "bio": "万妖谷谷主，血脉承自上古妖族，真身遭封，平日仅以一具化身行走人界。实力介于元婴后期与化神之间，在人界篇里算得上前几位的狠角色。性子霸道，从不服人。",
+  "motto": "万妖谷里，我的话便是天。",
+  "lastWords": "真身，真身还没。",
+  "relations": []
+ },
+ {
+  "id": "npc_feng_laoguai",
+  "name": "风老怪",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 4,
+  "camp": "san",
+  "qi": "lei",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "人界化神初期的老怪，行事隐蔽，少有实战",
+  "bio": "人界化神初期的老修士，一向独来独往，行事隐蔽，几乎没留下出手的记录，外人摸不清他的底细。他与向之礼、呼老魔都清楚人界已无前路，一直在为离开此界暗作筹备。",
+  "motto": "老夫逍遥了一世，不信这天地困得住我。",
+  "lastWords": "风，停了。",
+  "relations": [
+   {
+    "id": "npc_xiang_zhili",
+    "name": "向之礼",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_hu_laomo",
+    "name": "呼老魔",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_hu_laomo",
+  "name": "呼老魔",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 4,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "魔道化神老怪，本名呼庆雷",
+  "bio": "魔道化神老怪，本名呼庆雷，一生杀人如麻，多年来为正道所忌惮。他与向之礼、风老怪暗中同路，打算冒险离开此界。出手狠辣，不分正邪。",
+  "motto": "谁阻我，不论正邪，一概打杀。",
+  "lastWords": "这不可能，不可能啊。",
+  "relations": [
+   {
+    "id": "npc_xiang_zhili",
+    "name": "向之礼",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_feng_laoguai",
+    "name": "风老怪",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_ti_hun",
+  "name": "啼魂",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 5,
+  "camp": "san",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "f",
+  "identity": "韩立的灵宠啼魂兽，擅长吞噬魂魄",
+  "bio": "一头专吞魂魄的灵兽，鬼修魔修见了她最怕。早在人界便跟着韩立，认主极清；遇上强敌，一口便咬下对方神魂。后来能化作人形，性情桀骜。",
+  "motto": "主人，让我把他吃了。",
+  "lastWords": "主人，当心。",
+  "relations": [
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "主人",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_liu_yu",
+  "name": "柳玉",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "mu",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "御灵宗出身，韩立在人界收的大弟子",
+  "bio": "御灵宗出身，后来成了韩立在人界收下的头一个徒弟。做事谨慎，心思不外露，师父的吩咐，说一不二。修为稳稳走到结丹大圆满，没能再进一步。",
+  "motto": "师父交代下来的事，弟子不敢怠慢。",
+  "lastWords": "师父，保重。",
+  "relations": [
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "师父",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_wan_tianming",
+  "name": "万天明",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "乱星海正道一方的领袖，以儒门功法见长",
+  "bio": "乱星海正道一方的领袖，凭一门儒门功法立身，所引天雷能克魔功，在正道中极有号召力。行事谨慎，必要时也肯下狠手。与魔道几位大魔头，纠缠多年。",
+  "motto": "想立规矩，总得有人先站出来。",
+  "lastWords": "没想到啊。",
+  "relations": [
+   {
+    "id": "npc_liudao_jisheng",
+    "name": "六道极圣",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_man_huzi",
+  "name": "蛮胡子",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 3,
+  "camp": "mo",
+  "qi": "tu",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "乱星海魔道散修之首，托天魔功防御惊人",
+  "bio": "乱星海魔道散修之首，所修托天魔功，防御极强，极难杀死。性子蛮横，直来直去。与韩立既有仇，也有交易，彼此各讲各的信用。",
+  "motto": "这买卖公平，成不成，你说了算。",
+  "lastWords": "痛快啊。",
+  "relations": [
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_ling_xiaofeng",
+  "name": "凌啸风",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "lei",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "星宫实际掌权人，天星双圣之一，修元磁神光",
+  "bio": "星宫实际掌权之人，天灵根，修元磁神光，元婴后期的顶尖修士，独自一人也足以立得住脚。与温青并称天星双圣，膝下女儿凌玉灵，最是他看重的人。",
+  "motto": "星宫立得稳，海上方得太平。",
+  "lastWords": "玉灵啊。",
+  "relations": [
+   {
+    "id": "npc_wen_qing",
+    "name": "温青",
+    "rel": "道侣",
+    "kind": "near"
+   },
+   {
+    "id": "npc_ling_yuling",
+    "name": "凌玉灵",
+    "rel": "女儿",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_wen_qing",
+  "name": "温青",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "天星双圣之一，单属性天灵根，身法极快的剑修",
+  "bio": "天星双圣之一，天灵根，且是单一灵根，身法极快。她与凌啸风结为道侣，女儿凌玉灵，自己又是六道极圣的亲妹妹，夹在正魔两边，处境并不轻松。",
+  "motto": "该动手时，我绝不退。",
+  "lastWords": "啸风啊。",
+  "relations": [
+   {
+    "id": "npc_ling_xiaofeng",
+    "name": "凌啸风",
+    "rel": "丈夫",
+    "kind": "near"
+   },
+   {
+    "id": "npc_liudao_jisheng",
+    "name": "六道极圣",
+    "rel": "兄",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_ling_yuling",
+    "name": "凌玉灵",
+    "rel": "女儿",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_jin_jiaowang",
+  "name": "金蛟王",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 3,
+  "camp": "san",
+  "qi": "tu",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "乱星海外海妖兽之王，十级妖兽，金属性灵根",
+  "bio": "乱星海外海的妖兽之王，十级妖兽，堪比元婴后期的人族大修士。金系灵根，一身鳞甲极难破开，曾掀起兽潮。它从旧王雷鹏手中夺了王位，对人族并无善意。",
+  "motto": "此海之上，当由我妖族做主。",
+  "lastWords": "我的蛟丹啊。",
+  "relations": [
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_wan_xiaoshan",
+  "name": "万小山",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 0,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "枯崖山万家子弟，与韩立在修士聚会上结识的散修",
+  "bio": "枯崖山万家子弟，修为不高，爱凑热闹，与青纹、陈巧倩等人一道，在修士聚会上结识了韩立。算不得什么大人物，只是韩立早年遇见的那类寻常同辈修士。",
+  "motto": "出门在外，彼此照应着才好。",
+  "lastWords": "我还想，回家啊。",
+  "relations": [
+   {
+    "id": "npc_chen_qiaoqian",
+    "name": "陈巧倩",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_yan_ruyan",
+  "name": "燕如嫣",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "mu",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "燕翎堡堡主之女，王蝉想借她联姻",
+  "bio": "燕翎堡堡主之女，被病痛缠了许久。王蝉出面替她医治，真正的用意，是与燕家结下姻亲。她性子温顺，被家人捧在手心，对身边这些算计几乎一无所知。",
+  "motto": "能活下来，已经很知足了。",
+  "lastWords": "爹，爹啊。",
+  "relations": [
+   {
+    "id": "npc_wang_chan",
+    "name": "王蝉",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_ma_shibo",
+  "name": "马师伯",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "mu",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "黄枫谷百药园的管事前辈，韩立入宗后的第一位引路人",
+  "bio": "黄枫谷百药园里管种药的老修士，韩立入门后，最先跟的便是他。他领着韩立认药、种药，给了这个出身寻常的少年一处落脚地，脾气温和，话不多。",
+  "motto": "药须慢慢种，人也须慢慢养。",
+  "lastWords": "园子，交给你了。",
+  "relations": [
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "徒弟",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_zhong_weiniang",
+  "name": "钟卫娘",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "李化元门下的七师姐，十六岁筑基的天才",
+  "bio": "黄枫谷李化元门下的七师姐，十六岁便已筑基，天赋出众。与陈巧倩是要好的姐妹，与刘靖有一段情。重情重诺，答应下的事，再难也要设法办到。",
+  "motto": "答应下的事，我一定办到。",
+  "lastWords": "带他，回家吧。",
+  "relations": [
+   {
+    "id": "npc_li_huayuan",
+    "name": "李化元",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_liu_jing",
+    "name": "刘靖",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_chen_qiaoqian",
+    "name": "陈巧倩",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_liu_jing",
+  "name": "刘靖",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "刘氏家族子弟，黄枫谷弟子，与钟卫娘有情",
+  "bio": "刘氏家族出身的黄枫谷弟子，与钟卫娘情意相投，行事磊落，肯为同门出头。算不得大人物，却是黄枫谷这一代弟子里叫人记得住的一个。",
+  "motto": "同门有难，我不能袖手看着。",
+  "lastWords": "卫娘啊。",
+  "relations": [
+   {
+    "id": "npc_zhong_weiniang",
+    "name": "钟卫娘",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_tian_buque",
+  "name": "田不缺",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 1,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "合欢宗宗主的二儿子，修玄月吸阴功的魔道公子",
+  "bio": "合欢宗宗主的次子，修玄月吸阴功，行事轻浮阴险。燕翎堡夺宝大会上，他对董萱儿施展迷魂术，被韩立识破，坏了好事，从此结怨。",
+  "motto": "美人嘛，自然是用来疼的。",
+  "lastWords": "你，你敢坏我的事！",
+  "relations": [
+   {
+    "id": "npc_dong_xuaner",
+    "name": "董萱儿",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_wang_chan",
+  "name": "王蝉",
+  "book": "凡人修仙传",
+  "main": false,
+  "realm": 1,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "鬼灵门少主，心狠手辣，施血灵大法",
+  "bio": "魔道鬼灵门少主，行事诡谲，手段阴狠。他对董萱儿动过心思，又想借替燕如嫣治病，与燕翎堡结下联姻，并在婚宴上施展过鬼灵门的血灵大法。",
+  "motto": "在鬼灵门的地界，你能逃到哪里去？",
+  "lastWords": "我不甘啊。",
+  "relations": [
+   {
+    "id": "npc_yan_ruyan",
+    "name": "燕如嫣",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_han_li",
+    "name": "韩立",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_ruan_qiong",
+  "name": "阮邛",
+  "book": "剑来",
+  "main": false,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "jian",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "龙泉剑宗开山祖师，兵家出身的大铸剑师",
+  "bio": "早年因故离开中原，在小镇山头开宗立派，铸剑传剑，皆极严苛。他脾气硬，不讲情面，收徒只看眼缘，护起短来极凶，便是书院的圣人，也敢当面顶撞。",
+  "motto": "剑好不好，打一场便知。",
+  "lastWords": "我这宗门，谁也不许动。",
+  "relations": [
+   {
+    "id": "npc_liu_yang_yang",
+    "name": "刘羡阳",
+    "rel": "徒弟",
+    "kind": "near"
+   },
+   {
+    "id": null,
+    "name": "阮秀",
+    "rel": "女儿",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_cui_dong_shan",
+  "name": "崔东山",
+  "book": "剑来",
+  "main": false,
+  "realm": 6,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "文圣首徒崔瀺的另一重身份，谋算一世的国师",
+  "bio": "崔瀺与东山，原是同一人的两副面孔：前者是大骊国师，一手谋划整个天下的棋局；后者是人前嬉笑怒骂的少年，装疯卖傻之余，替师弟铺路。他最擅算人心，也最舍得赌上自己。",
+  "motto": "先生说得对，学生再想想。",
+  "lastWords": "这盘棋，到我这儿下完了。",
+  "relations": [
+   {
+    "id": "npc_chen_ping_an",
+    "name": "陈平安",
+    "rel": "师弟",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_zuo_you",
+    "name": "左右",
+    "rel": "师弟",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_qi_jing_chun",
+    "name": "齐静春",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_chen_qing_du",
+  "name": "陈清都",
+  "book": "剑来",
+  "main": false,
+  "realm": 7,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "jian",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "剑气长城的老大剑仙，守城万年的剑修之首",
+  "bio": "剑气长城的剑修之首，辈分最高。脾气古怪，喜怒无常，待晚辈却比谁都护短。他孤身一人一柄剑，镇着长城之外最凶的东西，无人敢当面与他讲价。",
+  "motto": "小辈，让我瞧瞧你的剑。",
+  "lastWords": "把这座城守住。",
+  "relations": [
+   {
+    "id": "npc_ning_yao",
+    "name": "宁姚",
+    "rel": "晚辈",
+    "kind": "far"
+   },
+   {
+    "id": "npc_a_liang",
+    "name": "阿良",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_ma_ku_xuan",
+  "name": "马苦玄",
+  "book": "剑来",
+  "main": false,
+  "realm": 3,
+  "camp": "mo",
+  "qi": "lei",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "小镇福禄街的天才少年，处处与陈平安较劲",
+  "bio": "小镇出身，自幼聪明而傲，被人人视作未来之星，也始终把陈平安当作必须压过去的对手。他不择手段，认定自己才是该走到最高处的人。",
+  "motto": "凭什么，次次都是你？",
+  "lastWords": "我不服气。",
+  "relations": [
+   {
+    "id": "npc_chen_ping_an",
+    "name": "陈平安",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_mu_chen",
+  "name": "牧尘",
+  "book": "大主宰",
+  "main": false,
+  "realm": 8,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "北灵境牧域少主，牧府之主，为大千位面守护者之一",
+  "bio": "生于北灵境牧域，天生灵路被封，自幼遭人轻视。母亲被迫离开，他立志要将她找回来。灵路上结识洛璃，一路修炼成长，终至天下舞台中央，守护着自己人，也守护着整个大千。",
+  "motto": "一路辛苦，却也值得。",
+  "lastWords": "我说的，记着。",
+  "relations": [
+   {
+    "id": "npc_luo_li",
+    "name": "洛璃",
+    "rel": "妻子",
+    "kind": "near"
+   },
+   {
+    "id": "npc_mu_feng",
+    "name": "牧锋",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_qing_yan_jing",
+    "name": "清衍静",
+    "rel": "母亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_jiu_you",
+    "name": "九幽",
+    "rel": "主仆",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_mu_feng",
+  "name": "牧锋",
+  "book": "大主宰",
+  "main": false,
+  "realm": 4,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "牧域之主，牧尘的父亲，独自将儿子养大",
+  "bio": "一域之主，守着牧域，守着儿子，也守着一段没能说出口的往事。性子沉稳，话少，对儿子要求极严，心里却始终牵挂，总在暗中默默替他铺路。",
+  "motto": "儿子，只管往前走，莫回头。",
+  "lastWords": "莫让他受苦。",
+  "relations": [
+   {
+    "id": "npc_mu_chen",
+    "name": "牧尘",
+    "rel": "儿子",
+    "kind": "near"
+   },
+   {
+    "id": "npc_qing_yan_jing",
+    "name": "清衍静",
+    "rel": "妻子",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_qing_yan_jing",
+  "name": "清衍静",
+  "book": "大主宰",
+  "main": false,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "浮屠古族圣女，牧尘的母亲，后任浮屠古族大长老",
+  "bio": "浮屠古族出身，曾蒙牧锋救命，与他相爱；生下牧尘后被族人带回，被迫与家人分离。性子温柔而坚韧，一直牵挂着儿子，后来在族中担起了重任。",
+  "motto": "我儿，娘在这儿呢。",
+  "lastWords": "替我照顾好他。",
+  "relations": [
+   {
+    "id": "npc_mu_chen",
+    "name": "牧尘",
+    "rel": "儿子",
+    "kind": "near"
+   },
+   {
+    "id": "npc_mu_feng",
+    "name": "牧锋",
+    "rel": "丈夫",
+    "kind": "near"
+   },
+   {
+    "id": "npc_ling_xi",
+    "name": "灵溪",
+    "rel": "养女",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_ling_xi",
+  "name": "灵溪",
+  "book": "大主宰",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "北苍灵院长老，与清衍静是养母女",
+  "bio": "北苍灵院的长老，性子清静，行事稳妥，对晚辈多有照拂。她与清衍静有一段养母女的情分，后来跟在牧尘身边，一同守着牧府。",
+  "motto": "有我在，你们不必怕。",
+  "lastWords": "不必管我。",
+  "relations": [
+   {
+    "id": "npc_qing_yan_jing",
+    "name": "清衍静",
+    "rel": "养母",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_man_tuo_luo",
+  "name": "曼陀罗",
+  "book": "大主宰",
+  "main": false,
+  "realm": 5,
+  "camp": "san",
+  "qi": "mu",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "大罗天域之主，早年是大罗金池底的小女孩",
+  "bio": "早年在大罗金池底与牧尘相遇，那时只是个小女孩模样，后来长成一方天域之主。她与牧府一方走得很近，护朋友护得紧，对敌人却不留情。",
+  "motto": "你们谁也别想欺负他。",
+  "lastWords": "多谢你们。",
+  "relations": [
+   {
+    "id": "npc_mu_chen",
+    "name": "牧尘",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_fu_tu_xuan",
+  "name": "浮屠玄",
+  "book": "大主宰",
+  "main": false,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "fo",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "原浮屠古族大长老，后将位置让给清衍静",
+  "bio": "浮屠古族老一辈的强者，守着族中规矩，也看着族人兴衰。他终将大长老之位让给清衍静，又为族中重回正轨出过力，是个讲规矩、有分寸的老人。",
+  "motto": "族中的事，不妨慢慢谈。",
+  "lastWords": "族人，便托付给你们了。",
+  "relations": [
+   {
+    "id": "npc_qing_yan_jing",
+    "name": "清衍静",
+    "rel": "同族",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_liu_jing_shan",
+  "name": "柳惊山",
+  "book": "大主宰",
+  "main": false,
+  "realm": 4,
+  "camp": "mo",
+  "qi": "tu",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "柳域一方强者，与牧尘一方结下大仇",
+  "bio": "柳域出身，在一域之中说一不二，脾气暴躁，护短过头，不把外人放在眼里。他与牧尘一方结下仇怨，整个柳域都被牵进这场冲突，局势越闹越大。",
+  "motto": "谁敢动我柳域，我先劈了他！",
+  "lastWords": "柳域啊。",
+  "relations": [
+   {
+    "id": "npc_mu_chen",
+    "name": "牧尘",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_tian_xie_shen",
+  "name": "天邪神",
+  "book": "大主宰",
+  "main": false,
+  "realm": 7,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "域外邪族领袖，圣魔族出身，大千位面最大的外敌",
+  "bio": "率域外邪族入侵大千位面，心机深沉，手段残忍，从不亲自涉险。他与麾下众多天魔帝合谋，视整个大千为猎场，一步步蚕食各族之力，要将这片天地据为己有。",
+  "motto": "这方天地，是时候换个主人。",
+  "lastWords": "这不可能。",
+  "relations": [
+   {
+    "id": "npc_mu_chen",
+    "name": "牧尘",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_mo_he_tian",
+  "name": "摩诃天",
+  "book": "大主宰",
+  "main": false,
+  "realm": 6,
+  "camp": "mo",
+  "qi": "tu",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "摩诃古族强者，与浮屠族、牧府对立",
+  "bio": "摩诃古族出身，一身蛮力，极为傲气，视浮屠古族为对手，对牧府敌意极重。行事强横，惯以力压人，在古族之中也是令人忌惮的强者，不肯服输，亦不肯低头。",
+  "motto": "谁想与我摩诃族争，只管来！",
+  "lastWords": "我不甘心！",
+  "relations": [
+   {
+    "id": "npc_mu_chen",
+    "name": "牧尘",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_qin_tian",
+  "name": "秦天",
+  "book": "大主宰",
+  "main": false,
+  "realm": 6,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "大千宫宫主，大千位面的一方领袖",
+  "bio": "大千宫之主，执掌大千位面里的一方势力。行事先顾大局，不爱逞个人之勇；邪族入侵时，站在守护大千的一边，是位叫人放心托付的领袖，话不多，却很有分量。",
+  "motto": "以大局为重，勿要意气用事。",
+  "lastWords": "把大千守住。",
+  "relations": [
+   {
+    "id": "npc_mu_chen",
+    "name": "牧尘",
+    "rel": "旧识",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_tufu",
+  "name": "屠夫",
+  "book": "牧神记",
+  "main": false,
+  "realm": 5,
+  "camp": "san",
+  "qi": "jian",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "残老村的屠夫，刀法霸道，多次追杀魔族",
+  "bio": "残老村九老之一，一把刀又重又快，是村里出了名的狠角色。性子直，脾气暴，对魔族下手从不留情，追杀起来不死不休。对村里那孩子，却肯弯下腰来，一招一式教他刀法。",
+  "motto": "要打就别废话，把刀拿出来。",
+  "lastWords": "这一刀，我还没砍够。",
+  "relations": [
+   {
+    "id": "npc_qin_mu",
+    "name": "秦牧",
+    "rel": "徒弟",
+    "kind": "near"
+   },
+   {
+    "id": "npc_cunzhang",
+    "name": "村长",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_si_popo",
+    "name": "司婆婆",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_yanfengdi",
+  "name": "延丰帝",
+  "book": "牧神记",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "延康国皇帝，灵毓秀之父，把九龙帝王功推演到极致",
+  "bio": "延康皇帝，天资横溢，将九龙帝王功推演至极致。他重用国师，一力支持变法，心里装的是社稷。太学院里崭露头角的秦牧，被他直接收为天子门生。城府深，轻易不露喜怒。",
+  "motto": "朕看人，从来不曾走眼。",
+  "lastWords": "江山，托付你们了。",
+  "relations": [
+   {
+    "id": "npc_ling_yuxiu",
+    "name": "灵毓秀",
+    "rel": "女儿",
+    "kind": "near"
+   },
+   {
+    "id": "npc_jiang_baigui",
+    "name": "江白圭",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_qin_mu",
+    "name": "秦牧",
+    "rel": "徒弟",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_long_qilin",
+  "name": "龙麒麟",
+  "book": "牧神记",
+  "main": false,
+  "realm": 3,
+  "camp": "san",
+  "qi": "tu",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "秦牧的坐骑，一头龙麒麟，多次载着秦牧脱险",
+  "bio": "一头神骏异兽，血脉中龙与麒麟兼有。随秦牧东奔西走，每逢险境，都由它载人脱身。脾气傲，嘴上不饶人，真到紧要关头，却从不丢下主人。",
+  "motto": "上来，坐稳了，可别掉下去。",
+  "lastWords": "主人，只管往前，莫停。",
+  "relations": [
+   {
+    "id": "npc_qin_mu",
+    "name": "秦牧",
+    "rel": "主人",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_lingyun_daoren",
+  "name": "凌云道人",
+  "book": "牧神记",
+  "main": false,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "lei",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "太学院国子监，纯阳殿殿主，朝廷四品，被入学考的秦牧击飞",
+  "bio": "执掌太学院纯阳殿，兼国子监，官居四品，修为不弱，自负亦深。新生入学考，他亲自下场，反被秦牧一击飞出，成了全院笑谈；秦牧却由此被皇帝收为天子门生。",
+  "motto": "来，先让你三招。",
+  "lastWords": "想不到，栽在一个孩子手里。",
+  "relations": [
+   {
+    "id": "npc_qin_mu",
+    "name": "秦牧",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_bashan_jijiu",
+    "name": "霸山祭酒",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_bashan_jijiu",
+  "name": "霸山祭酒",
+  "book": "牧神记",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "jian",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "太学院的祭酒，看中秦牧、越青虹等六人，要选为备选太学博士",
+  "bio": "太学院管事的祭酒，学生的品性与天资，他都看得极准。入学之后，先后看中秦牧、越青虹等六人，打算选作备选太学博士。办事认死理，遇上好苗子，肯下力气相护。",
+  "motto": "这几个孩子，我保下了。",
+  "lastWords": "学院，便托付你们了。",
+  "relations": [
+   {
+    "id": "npc_qin_mu",
+    "name": "秦牧",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_lingyun_daoren",
+    "name": "凌云道人",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_wei_yong",
+  "name": "卫墉",
+  "book": "牧神记",
+  "main": false,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "与秦牧结伴进京、拜入太学院的少年",
+  "bio": "他与秦牧结伴一路进京，两人又一同考进太学院。出身寻常，练气才刚入门，胜在老实本分，肯下苦功，是秦牧入学之初结识的头一批同窗，两人说话投缘。",
+  "motto": "兄弟，等我一等，别走得太快。",
+  "lastWords": "你们保重了。",
+  "relations": [
+   {
+    "id": "npc_qin_mu",
+    "name": "秦牧",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_fu_yuanqing",
+  "name": "辅元清",
+  "book": "牧神记",
+  "main": false,
+  "realm": 1,
+  "camp": "mo",
+  "qi": "mu",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "玉面毒王的徒弟，背叛师父转投国师",
+  "bio": "自玉面毒王处学毒的年轻人，指尖沾毒，心里更善算计。他在师父门下本就不安分，终是背了师父，转投国师，只图攀上一棵更大的树。",
+  "motto": "毒亦是学问，你不懂。",
+  "lastWords": "跟着谁，都是一样。",
+  "relations": [
+   {
+    "id": null,
+    "name": "玉面毒王",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_jiang_baigui",
+    "name": "江白圭",
+    "rel": "主人",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_si_yunxiang",
+  "name": "司芸香",
+  "book": "牧神记",
+  "main": false,
+  "realm": 1,
+  "camp": "mo",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "f",
+  "identity": "以太学院弟子身份掩护、暗中替天魔教办事的少女",
+  "bio": "明面上是太学院里一个安静本分的女弟子，暗地里却替天魔教传话办事。她与天魔教的少年祖师，像是有些牵连；平日言行都藏着三分，叫人看不透。",
+  "motto": "我不过一个读书人。",
+  "lastWords": "这条命，还与教里。",
+  "relations": [
+   {
+    "id": "npc_qin_mu",
+    "name": "秦牧",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_chen_changsheng",
+  "name": "陈长生",
+  "book": "择天记",
+  "main": false,
+  "realm": 8,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "国教学院的第一位学生，师从计道人，带婚约进京",
+  "bio": "十四岁的孤儿，为治病改命，辞别师父，携一纸婚约到了神都。他在国教学院里收下朋友与弟子，一路读书悟道，由无人看好，走到举世瞩目。性子安静，认定的事便慢慢走，不肯认输。",
+  "motto": "路再慢，我也要把它走完。",
+  "lastWords": "这书，我已替你们读完了。",
+  "relations": [
+   {
+    "id": "npc_shang_xingzhou",
+    "name": "商行舟",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_xu_yourong",
+    "name": "徐有容",
+    "rel": "道侣",
+    "kind": "near"
+   },
+   {
+    "id": "npc_tang_sanshiliu",
+    "name": "唐三十六",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_luoluo",
+    "name": "落落",
+    "rel": "徒弟",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_tianhai_shenghou",
+  "name": "天海圣后",
+  "book": "择天记",
+  "main": false,
+  "realm": 6,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "f",
+  "identity": "天海幽雪，人称圣后，五圣人之一，执掌大周朝政",
+  "bio": "天海家出身，大周权柄尽握于她一手，被尊为圣后，亦是五圣人之一。她用人狠，手下有周通这样的鹰犬，便是亲族的命运，也被她算进了棋局。",
+  "motto": "这天下，哪一步不在本宫算计之中。",
+  "lastWords": "棋局到头，总要有人来收。",
+  "relations": [
+   {
+    "id": null,
+    "name": "平国公主",
+    "rel": "女儿",
+    "kind": "near"
+   },
+   {
+    "id": null,
+    "name": "周通",
+    "rel": "仆从",
+    "kind": "near"
+   },
+   {
+    "id": "npc_shang_xingzhou",
+    "name": "商行舟",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_gou_hanshi",
+  "name": "苟寒食",
+  "book": "择天记",
+  "main": false,
+  "realm": 4,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "jian",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "神国七律的第二律，聚星巅峰境",
+  "bio": "神国七律排行第二，聚星境巅峰，同辈中少有人能压过他。为人规矩严谨，向来敬重强者；遇上值得一战的对手，总要先问个清楚，再出手分高下。",
+  "motto": "来，让我瞧瞧你的剑。",
+  "lastWords": "这一剑，已然够了。",
+  "relations": [
+   {
+    "id": "npc_qiushan_jun",
+    "name": "秋山君",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_xin_jiaoshi",
+  "name": "辛教士",
+  "book": "择天记",
+  "main": false,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "国教学院的老教士，想让学院重新运转起来",
+  "bio": "国教学院的一位老教士，学院荒废多年，他仍守在这里。陈长生来后，他同意让学院重新运转，却也深知其中不易，凡事都叮嘱要一步一步来。",
+  "motto": "慢慢来，学院终会重新开起来的。",
+  "lastWords": "学院，便托付给你们了。",
+  "relations": [
+   {
+    "id": "npc_chen_changsheng",
+    "name": "陈长生",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_ye_xingqing",
+  "name": "野兴庆",
+  "book": "择天记",
+  "main": false,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "jian",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "别家仆人，服侍别天心",
+  "bio": "别家老仆，常年随侍别天心左右，沉默忠诚，主人家的大小事务了然于胸，却从不多嘴半句。身上有一手拿得出手的功夫，遇事先挡在主人身前，宁可自己挨伤。",
+  "motto": "主人家的事，老仆不多问。",
+  "lastWords": "少爷，保重啊。",
+  "relations": [
+   {
+    "id": null,
+    "name": "别天心",
+    "rel": "主人",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_fang_han",
+  "name": "方寒",
+  "book": "永生",
+  "main": false,
+  "realm": 8,
+  "camp": "san",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "方家养马家奴出身，靠九窍金丹一路修成羽化门风头最盛的弟子",
+  "bio": "龙渊省方家养马的奴才，因偷看内府练武，动了心思。路上撞见被追杀的白海禅，得了九窍金丹与一幅蛟伏黄泉图，由肉身一路练进神通。进羽化门后步步向上，报仇不隔夜，恩怨记得极清，认准的事，绝不低头。",
+  "motto": "十年之约，我等你来取。",
+  "lastWords": "这条路，我尚未走完。",
+  "relations": [
+   {
+    "id": "npc_bai_haichan",
+    "name": "白海禅",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_fang_qingxue",
+    "name": "方清雪",
+    "rel": "主人",
+    "kind": "near"
+   },
+   {
+    "id": "npc_long_xuan",
+    "name": "龙萱",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_yan",
+    "name": "阎",
+    "rel": "仆从",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_feng_baiyu",
+  "name": "风白羽",
+  "book": "永生",
+  "main": false,
+  "realm": 7,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "羽化门掌教至尊，长生秘境的万古巨头",
+  "bio": "羽化门掌教，门中几乎无人见过他真容，连真名也少有人知。修到长生秘境，活了三千多年，与几位魔神、妖神多番交手，彼此知根知底。门下弟子得了机缘，他乐见羽化门兴盛；手中一条战神鞭，压得住四方。",
+  "motto": "想杀我？先掂掂你们够不够分量。",
+  "lastWords": "羽化门，绝不能断送在我手里。",
+  "relations": [
+   {
+    "id": null,
+    "name": "九阴魔神",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": null,
+    "name": "九阳魔神",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": "npc_hua_tiandu",
+    "name": "华天都",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_yan_shuiyi",
+  "name": "烟水一",
+  "book": "永生",
+  "main": false,
+  "realm": 6,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "jian",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "太一门第一真传，名次压过华天都的天才女修",
+  "bio": "太一门第一真传，早早修至神通十重，长生候补榜上，名次压过华天都。三百年前被天绝魔宗的长老以魔阵困了三天三夜，她凭神通撕开阵法脱身，还毁去对方几件法宝，一战成名。太上长老把她许给了华天都。",
+  "motto": "分胜负之前，先把话讲清楚。",
+  "lastWords": "水不会断的。",
+  "relations": [
+   {
+    "id": "npc_hua_tiandu",
+    "name": "华天都",
+    "rel": "道侣",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_jia_lan",
+  "name": "珈蓝",
+  "book": "永生",
+  "main": false,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "羽化门珈蓝峰之主，五大真传之一，珈蓝会的大师姐",
+  "bio": "羽化门五大真传之一，人称「西珈蓝」，是珈蓝会的大师姐，此会乃门中最大的女弟子团体。她大方，肯护后辈，一句话便能让华天都放过落难的方寒，还送过他三口灵器飞剑，劝他莫要硬碰硬，先把路走长。",
+  "motto": "莫逞强，路还长，先活着要紧。",
+  "lastWords": "姑娘们，替我照看着。",
+  "relations": [
+   {
+    "id": "npc_fang_han",
+    "name": "方寒",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_hong_yi",
+    "name": "红怡",
+    "rel": "同门",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_hua_tiandu",
+    "name": "华天都",
+    "rel": "同门",
+    "kind": "mid"
+   },
+   {
+    "id": null,
+    "name": "灵霄",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_ying_tianqing",
+  "name": "应天情",
+  "book": "永生",
+  "main": false,
+  "realm": 5,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "先天魔宗少主，人称魔帅，魔道里千年难得的天才",
+  "bio": "先天魔宗宗主之子，人称魔帅。早早渡过神通八重的风火大劫，炼成天地法相与魔门元神，出身与神通都压人一头。他对方清雪另眼相看，为她与妖神动手一事不悦；行事强势自负，却也肯耐着性子等人。",
+  "motto": "清雪的事，便是我的事。",
+  "lastWords": "输的是我，输给了我自己。",
+  "relations": [
+   {
+    "id": "npc_fang_qingxue",
+    "name": "方清雪",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": null,
+    "name": "先天大帝",
+    "rel": "父亲",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_jin_rilie",
+  "name": "金日烈",
+  "book": "永生",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "huo",
+  "xinxing": "kuang",
+  "dong": -1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "羽化门大长老，号烈阳子，碧焰峰真传金石台之父",
+  "bio": "羽化门大长老，道号烈阳子，碧焰、紫焰、白焰几路火法并用，道术造诣高明，门中地位压过一般真传。他护儿子金石台护得极紧，儿子一吃亏，头一个站出来要说法，亲自带人去了天刑台。",
+  "motto": "我儿的事，便是羽化门的事。",
+  "lastWords": "石台，快些走。",
+  "relations": [
+   {
+    "id": "npc_jin_shitai",
+    "name": "金石台",
+    "rel": "儿子",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_meng_shaobai",
+  "name": "孟少白",
+  "book": "永生",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "羽化门小神童，得五行灵根，十二岁修到神通六重",
+  "bio": "羽化门出了名的天才少年，十二岁便修至神通六重、归一境巅峰，人称小神仙。他得过五行灵根，常年在外游历，闯过蛮荒神庙还安然而出，放话不修成金丹绝不回山门。待他回来，注定要与方寒碰上一碰。",
+  "motto": "未成金丹，我不回山门。",
+  "lastWords": "五行，尚不够。",
+  "relations": [
+   {
+    "id": "npc_fang_han",
+    "name": "方寒",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_jin_shitai",
+  "name": "金石台",
+  "book": "永生",
+  "main": false,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "huo",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "羽化门碧焰峰真传，大长老金日烈之子，仗父势横行",
+  "bio": "碧焰峰真传弟子，烈阳子金日烈之子。凭丹药冲进神通秘境，碧焰七修芒与狼烟法球是他的看家本事。仗着父亲与师门的势力，连手下外门弟子也跟着横，与方清雪结下死仇，一吃亏便喊长老做主。",
+  "motto": "你可知我爹是谁？",
+  "lastWords": "爹，快救我。",
+  "relations": [
+   {
+    "id": "npc_jin_rilie",
+    "name": "金日烈",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_fang_qingxue",
+    "name": "方清雪",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_bai_haichan",
+  "name": "白海禅",
+  "book": "永生",
+  "main": false,
+  "realm": 1,
+  "camp": "san",
+  "qi": "tu",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "群星门弟子，得九窍金丹与蛟伏黄泉图后被追杀的肉身高手",
+  "bio": "群星门出身，在黄泉山古墓里得了九窍金丹与蛟伏黄泉图，消息走漏，一路遭人追杀。肉身练到十重神变，赤手便能撕开数百人的包围。他挑中方寒，收作名义上的徒弟，逼他混进羽化门偷经书，还要他去杀方清雪。",
+  "motto": "唯有不安分的人，才配拿我这枚金丹。",
+  "lastWords": "那图，莫落到他们手里。",
+  "relations": [
+   {
+    "id": "npc_fang_han",
+    "name": "方寒",
+    "rel": "徒弟",
+    "kind": "near"
+   },
+   {
+    "id": "npc_fang_qingxue",
+    "name": "方清雪",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": null,
+    "name": "方泽山",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_yan",
+  "name": "阎",
+  "book": "永生",
+  "main": false,
+  "realm": 1,
+  "camp": "san",
+  "qi": "bing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "蛟伏黄泉图里的蛟龙之灵，寄居方寒识海的怪胎",
+  "bio": "蛰伏于蛟伏黄泉图中的蛟龙之灵，只肯称自己「阎」一个字。力量被封，须借方寒的身体与法力才使得出手段，平日在他心里提点、盘算，替他看清对手的底细。性子阴，话不多，是个会算账的伙伴。",
+  "motto": "听我的，你才熬得过今晚。",
+  "lastWords": "图在你身上，莫要丢了。",
+  "relations": [
+   {
+    "id": "npc_fang_han",
+    "name": "方寒",
+    "rel": "主人",
+    "kind": "near"
+   },
+   {
+    "id": "npc_bai_haichan",
+    "name": "白海禅",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_li_qiang",
+  "name": "李强",
+  "book": "飘邈之旅",
+  "main": false,
+  "realm": 8,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "地球商人出身，被傅山带上修真路的主角",
+  "bio": "身家千万的商人，被女友与好友背叛，动手伤了人，遇上傅山，被带上修真路。传送阵中遭人搅局，独自落到陌生星球，在黑狱里带上千囚徒冲了出来，又替人解了战争之危。性子豪爽，出手不心疼法宝，对朋友掏心掏肺。",
+  "motto": "朋友的事，便是我自己的事。",
+  "lastWords": "兄弟们，莫怕。",
+  "relations": [
+   {
+    "id": "npc_fu_shan",
+    "name": "傅山",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_mo_huaiyuan",
+    "name": "莫怀远",
+    "rel": "兄",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_ling_baihui",
+    "name": "灵百慧",
+    "rel": "妹",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_na_shan",
+    "name": "纳善",
+    "rel": "徒弟",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_fu_shan",
+  "name": "傅山",
+  "book": "飘邈之旅",
+  "main": false,
+  "realm": 7,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "西汉年间的修真者，重玄派核心弟子，李强的领路人",
+  "bio": "西汉年间的修真者，被带到封缘星修行。后来回到地球，要寻一个能与紫炎星之力相合的人，挑中了走投无路的李强，带他筑基，领他踏上星空旅程。洒脱而重情义，早年常默默给李强送宝，出手相助。",
+  "motto": "路我已替你指明，往后你自己走。",
+  "lastWords": "你自己，好好走。",
+  "relations": [
+   {
+    "id": "npc_li_qiang",
+    "name": "李强",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_hou_pijing",
+  "name": "侯霹净",
+  "book": "飘邈之旅",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "故宋国皇室第一宗亲，封大智威圣亲王的修真者",
+  "bio": "原名赵岳，师尊赐名侯霹净；年轻时为修真让出皇位，被封为皇室第一宗亲、大智威圣亲王。李强去皇城的路上与他结识，进了城才知他的身份。性子随和，有亲王气度，却不摆架子。",
+  "motto": "我这亲王，并不靠身份吃饭。",
+  "lastWords": "诸位，替我护住故宋国。",
+  "relations": [
+   {
+    "id": "npc_li_qiang",
+    "name": "李强",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": null,
+    "name": "梅晶晶",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_yun_yu",
+  "name": "云钰",
+  "book": "飘邈之旅",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "bing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "慧蘅宫弟子，纯阴之体，与李强有一段感情线",
+  "bio": "慧蘅宫门下，纯阴之体，已是元婴修为。莫怀远为救李强，曾借她的元婴，梳理李强体内的元婴小宇宙。她与李强之间另有一条情线，书中写得含蓄。性情温婉，肯为人出力。",
+  "motto": "只要帮得上忙，我愿意。",
+  "lastWords": "替我向他说一声。",
+  "relations": [
+   {
+    "id": "npc_li_qiang",
+    "name": "李强",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_ling_baihui",
+    "name": "灵百慧",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_mo_huaiyuan",
+  "name": "莫怀远",
+  "book": "飘邈之旅",
+  "main": false,
+  "realm": 4,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "李强结拜的大哥，潜藏修为的元婴修士",
+  "bio": "李强与琦君煞的大哥，平日潜藏修为，以元婴之形现身。有一回肉身毁灭，靠李强相助才重新立起，对李强既有救命之恩，也有结义之情。为救李强，他借云钰的元婴梳理李强的元婴小宇宙，与慧蘅宫先祖广慧亦有不寻常的牵连。",
+  "motto": "你只管往前走，我替你守着。",
+  "lastWords": "兄弟，这条路，你去走吧。",
+  "relations": [
+   {
+    "id": "npc_li_qiang",
+    "name": "李强",
+    "rel": "弟",
+    "kind": "mid"
+   },
+   {
+    "id": null,
+    "name": "琦君煞",
+    "rel": "弟",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_yun_yu",
+    "name": "云钰",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_dan_boyu",
+  "name": "澹博禹",
+  "book": "飘邈之旅",
+  "main": false,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "霖明星雪龙城修真者，得李强传法后创立封缘派",
+  "bio": "霖明星雪龙城的修真者，蒙李强传授修真法门，与妻子英慧、妻妹英艳、百苍老等人一道创立封缘派；后来封缘派成了奇龙城的修真大派之一。他认真重义，深知自己的路是李强给的。",
+  "motto": "没有恩人，便没有今日的我们。",
+  "lastWords": "封缘派，莫要散了。",
+  "relations": [
+   {
+    "id": "npc_li_qiang",
+    "name": "李强",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": null,
+    "name": "英慧",
+    "rel": "妻子",
+    "kind": "near"
+   },
+   {
+    "id": "npc_bai_canglao",
+    "name": "百苍老",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_bai_canglao",
+  "name": "百苍老",
+  "book": "飘邈之旅",
+  "main": false,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "霖明星奇龙城的老人，为儿子修真奉献一生，后得李强传法",
+  "bio": "霖明星奇龙城的老人，毕生心力都奉给了儿子修真的事业。后来得李强传授修真法门，成了奇龙城封缘派里的高手。他对儿子百盛真的心思，几乎全落在修真上；对李强，则满怀感激。",
+  "motto": "我这把年纪，什么也不图了。",
+  "lastWords": "盛真，我那一步，你替我多走。",
+  "relations": [
+   {
+    "id": "npc_bai_shengzhen",
+    "name": "百盛真",
+    "rel": "儿子",
+    "kind": "near"
+   },
+   {
+    "id": "npc_li_qiang",
+    "name": "李强",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_dan_boyu",
+    "name": "澹博禹",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_bai_shengzhen",
+  "name": "百盛真",
+  "book": "飘邈之旅",
+  "main": false,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "百苍老之子，随李强到封缘星重玄派修真的年轻人",
+  "bio": "百苍老之子，霖明星奇龙城人。后来随李强到封缘星的重玄派修真，是封缘星上从零起步的年轻修士，一面练功，一面跟着李强见世面；天赋不算出众，胜在肯下苦功。",
+  "motto": "我慢些不要紧，我一定练。",
+  "lastWords": "爹，儿子没丢脸。",
+  "relations": [
+   {
+    "id": "npc_bai_canglao",
+    "name": "百苍老",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_li_qiang",
+    "name": "李强",
+    "rel": "师父",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_zhao_hao",
+  "name": "赵豪",
+  "book": "飘邈之旅",
+  "main": false,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "李强在天庭星初期的同伴，后来的弟子",
+  "bio": "李强初落天庭星时结识的同伴，是个敢打敢拼的汉子。屠城的黑旗军杀来，他与李强并肩，把对方打了回去。后来拜入李强门下修真，在一众弟子中属较早的一批。",
+  "motto": "跟你干，我不怕。",
+  "lastWords": "老大，这仇替我报。",
+  "relations": [
+   {
+    "id": "npc_li_qiang",
+    "name": "李强",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": "npc_na_shan",
+    "name": "纳善",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_na_shan",
+  "name": "纳善",
+  "book": "飘邈之旅",
+  "main": false,
+  "realm": 1,
+  "camp": "san",
+  "qi": "tu",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "黑狱一区的老大，后来拜李强为师的修真者",
+  "bio": "很早便被抓进黑狱，成了黑狱里一区的老大，性子直，爱讲义气。李强带着囚徒冲出黑狱，他追随李强修真，更拜李强为师，嘴上却仍一口一个「老大」。",
+  "motto": "老大怎么说，我便怎么干。",
+  "lastWords": "老大，你多保重。",
+  "relations": [
+   {
+    "id": "npc_li_qiang",
+    "name": "李强",
+    "rel": "师父",
+    "kind": "near"
+   },
+   {
+    "id": null,
+    "name": "坦歌",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_zhao_hao",
+    "name": "赵豪",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_ling_baihui",
+  "name": "灵百慧",
+  "book": "飘邈之旅",
+  "main": false,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "慧蘅宫高手，有名的才女，被李强认作义妹",
+  "bio": "慧蘅宫的高手，远近闻名的才女，修成妖仙，曾被佛宗禁制在凌源星翰漠原，是被关押的七大修真高手之一。李强认她作妹妹，她待这位兄长，既敬且赖。行事端雅，心思细腻。",
+  "motto": "哥哥说了算，我信哥哥。",
+  "lastWords": "替我谢谢哥哥。",
+  "relations": [
+   {
+    "id": "npc_li_qiang",
+    "name": "李强",
+    "rel": "兄",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_yun_yu",
+    "name": "云钰",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_meng_yaying",
+  "name": "蒙涯婴",
+  "book": "飘邈之旅",
+  "main": false,
+  "realm": 4,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "乾岩星寂阳派掌门，被大炎神兽逼得举派迁徙",
+  "bio": "乾岩星寂阳派掌门，被大炎神兽逼得不得不带着整个门派迁往他星。李强与她相识之后，为她炼了一口「大炎」剑，解了她的急难。为人稳重，对门下弟子极有担当。",
+  "motto": "门派在，人便在。",
+  "lastWords": "寂阳派，不可散。",
+  "relations": [
+   {
+    "id": "npc_li_qiang",
+    "name": "李强",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_ji_haoyue",
+  "name": "姬皓月",
+  "book": "遮天",
+  "main": false,
+  "realm": 6,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "姬家七公子，稀世神体，北斗同辈里的顶尖人物",
+  "bio": "姬家这一代最出色的人物，二十岁便凭神体闯出名号，同辈几无敌手，与华云飞也只差一线。护家人极紧，对外人傲气十足；孔雀王的大弟子追杀过他，他亦不曾低头。",
+  "motto": "同辈之中，我从不低头，也无须低头。",
+  "lastWords": "紫月，你保重。",
+  "relations": [
+   {
+    "id": "npc_ji_ziyue",
+    "name": "姬紫月",
+    "rel": "妹",
+    "kind": "mid"
+   },
+   {
+    "id": null,
+    "name": "孔腾",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": "npc_hua_yunfei",
+    "name": "华云飞",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_hua_yunfei",
+  "name": "华云飞",
+  "book": "遮天",
+  "main": false,
+  "realm": 4,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "太玄门星峰之主的幼孙，狠人一脉吞天魔功传人",
+  "bio": "太玄门星峰之主的幼孙，年幼时被狠人一脉看中，修吞天魔功与凤凰劫，一手琴也弹得好。外表淡泊，骨子里阴狠，曾派人追杀姬紫月，与叶凡几番交手，始终想将他踩在脚下。",
+  "motto": "你争的，我皆不争，只等你自己走进来。",
+  "lastWords": "原来，我不过是一枚弃子。",
+  "relations": [
+   {
+    "id": "npc_ye_fan",
+    "name": "叶凡",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": "npc_li_xiaoman",
+    "name": "李小曼",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_chen_feng_xf",
+    "name": "陈风",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_lin_jia",
+  "name": "林佳",
+  "book": "遮天",
+  "main": false,
+  "realm": 0,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "叶凡的大学同学，到北斗后拜入烟霞洞天",
+  "bio": "叶凡的同学，精明，会看人下菜碟，势利而有分寸，从不做过头的事。被带到北斗后，拜入烟霞洞天，全凭自己一番盘算，在陌生世界里站稳了脚跟。",
+  "motto": "先看风向哪边吹，再定站哪一边。",
+  "lastWords": "早知如此，就不站那边了。",
+  "relations": [
+   {
+    "id": "npc_ye_fan",
+    "name": "叶凡",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_chen_feng",
+  "name": "陈枫",
+  "book": "遮天",
+  "main": false,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "玉鼎洞天弟子，爱欺负同门，与韩飞羽交好",
+  "bio": "玉鼎洞天弟子，仗着人多势众，欺负新来的张文昌，与韩飞羽走得近。围攻叶凡时被打得狼狈，转头又挑唆姐姐去追杀对方，心胸如何，可见一斑。",
+  "motto": "人多势众之时，我最敢开口。",
+  "lastWords": "姐，快救我。",
+  "relations": [
+   {
+    "id": null,
+    "name": "陈玉",
+    "rel": "姐",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_ye_fan",
+    "name": "叶凡",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": null,
+    "name": "韩飞羽",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_chen_feng_xf",
+  "name": "陈风",
+  "book": "遮天",
+  "main": false,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "太玄门星峰弟子，北斗七星为本命神星，擅星河十二剑",
+  "bio": "太玄门星峰弟子，年方二十，以北斗七星为本命神星，擅星河十二剑。为师兄弟出头，主动找叶凡较量，气盛得很，便是输了，也要讨个说法。",
+  "motto": "师兄弟被人欺了，轮不到旁人开口。",
+  "lastWords": "这一剑，我不服。",
+  "relations": [
+   {
+    "id": "npc_ye_fan",
+    "name": "叶凡",
+    "rel": "死敌",
+    "kind": "foe"
+   },
+   {
+    "id": "npc_hua_yunfei",
+    "name": "华云飞",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_jiang_yifei",
+  "name": "姜逸飞",
+  "book": "遮天",
+  "main": false,
+  "realm": 4,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "姜家直系，二十四岁，率人寻找姜哲一脉",
+  "bio": "姜家直系子弟，沉稳儒雅，奉命外出，寻访流落在外的姜哲一脉。办事稳妥，待人有礼，族中对他寄予厚望。平日话少，却总把族人的安危摆在最前。",
+  "motto": "族人流落在外，我们总要接回来。",
+  "lastWords": "替我告知族里。",
+  "relations": []
+ },
+ {
+  "id": "npc_an_miaoyi",
+  "name": "安妙依",
+  "book": "遮天",
+  "main": false,
+  "realm": 3,
+  "camp": "san",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "妙欲庵传人，勾魂摄魄的魅惑功夫出了名",
+  "bio": "妙欲庵这一代的传人，勾魂摄魄的功夫，叫不少修士栽了跟头。她行事自有章法，外表温婉，心中算盘却拨得极细，从不吃亏。世人多当她只是个撩人的角色，大抵吃过亏，才知并非如此。",
+  "motto": "你肯看我这一眼，便已输了一半。",
+  "lastWords": "这一回，是我看走了眼。",
+  "relations": []
+ },
+ {
+  "id": "npc_yao_xi",
+  "name": "姚曦",
+  "book": "遮天",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "摇光圣地圣女，谨慎且有心机",
+  "bio": "摇光圣地的圣女，办事滴水不漏，凡事先算利弊，圣地的规矩背得极熟，也最清楚规矩可以怎样绕开。她奉命要把叶凡控在手里，反被对方占了上风，却并未因此乱了阵脚。",
+  "motto": "先问值与不值，再定做与不做。",
+  "lastWords": "圣地不会放过你的。",
+  "relations": [
+   {
+    "id": "npc_yaoguang_shengzi",
+    "name": "摇光圣子",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_kongque_wang",
+  "name": "孔雀王",
+  "book": "遮天",
+  "main": false,
+  "realm": 6,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "妖族大能，八百年前横扫东荒南域，护着青帝后人",
+  "bio": "八百年前横扫东荒南域的妖族大能，曾替颜如玉出头，与青蛟王联手，对抗姬家与摇光圣主，末了带着妖族向北迁去。性子豪烈，义气极重，认定的人，一定护到底。",
+  "motto": "东荒南域之上，谁想拦我，先掂一掂自己的分量。",
+  "lastWords": "妖族，向北走。",
+  "relations": [
+   {
+    "id": null,
+    "name": "青蛟王",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": null,
+    "name": "赤龙道人",
+    "rel": "兄",
+    "kind": "mid"
+   },
+   {
+    "id": null,
+    "name": "孔腾",
+    "rel": "徒弟",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_shi_guan_wang",
+  "name": "十冠王",
+  "book": "完美世界",
+  "main": false,
+  "realm": 5,
+  "camp": "san",
+  "qi": "qing",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "仙古遗地的古代怪胎，十次夺冠仙古秘境",
+  "bio": "自仙古遗地走出的古代怪胎之一，在仙古秘境里十度夺冠，因而得名。他掌握完整的真龙宝术，傲气十足，本事也撑得起这份傲气。边荒大战中，他站在石昊一边。",
+  "motto": "十度夺冠，不过是我的底子。",
+  "lastWords": "这口气，我不服。",
+  "relations": [
+   {
+    "id": "npc_shi_hao",
+    "name": "石昊",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_mu_yan",
+  "name": "慕炎",
+  "book": "完美世界",
+  "main": false,
+  "realm": 4,
+  "camp": "zheng",
+  "qi": "lei",
+  "xinxing": "kuang",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "补天阁的雷道老祖，绝技十星贯日",
+  "bio": "补天阁里年岁最高的几位老祖之一，走雷道，绝技十星贯日。他在阁中地位极高，说话无人敢驳，是阁里压阵的底牌之一；年轻弟子见了他，连大气也不敢出。",
+  "motto": "阁中有我在，轮不到后辈胡闹。",
+  "lastWords": "雷声，散了。",
+  "relations": []
+ },
+ {
+  "id": "npc_liu_lao",
+  "name": "柳老",
+  "book": "完美世界",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "补天阁老祖之一，绝技金鹏翅",
+  "bio": "补天阁老祖之一，绝技金鹏翅，身法与速度堪称一绝。平日深居简出，阁里的闲事一概不问，出了大事才肯露面。说话慢，出手却极快，几位晚辈见了他，都要怵上一分。",
+  "motto": "老骨头还飞得动，不必替我担心。",
+  "lastWords": "这翅，折了。",
+  "relations": []
+ },
+ {
+  "id": "npc_yu_feng",
+  "name": "雨枫",
+  "book": "完美世界",
+  "main": false,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "lei",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "补天阁精英弟子，雨族出身，能引动雷电",
+  "bio": "补天阁精英弟子，出自雨族，天生能引动雷电之力，同辈中名列前茅。出身带来的傲气不小，对外来的挑战者寸步不让，护着自己的妹妹，却是真心实意。",
+  "motto": "雷霆所落，不留余地。",
+  "lastWords": "这雷，终究是散了。",
+  "relations": [
+   {
+    "id": "npc_yu_lin",
+    "name": "雨琳",
+    "rel": "妹",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_yu_lin",
+  "name": "雨琳",
+  "book": "完美世界",
+  "main": false,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "lei",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "补天阁弟子，雨枫之妹",
+  "bio": "雨族出身的少女，雨枫之妹，随兄长在补天阁修行。资质不差，离能撑起一方还远，遇事总习惯躲在兄长身后，只是心里并不服气，暗暗较着劲。",
+  "motto": "有哥哥在前头，我便不怕。",
+  "lastWords": "哥哥，快走！",
+  "relations": [
+   {
+    "id": "npc_yu_feng",
+    "name": "雨枫",
+    "rel": "兄",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_lin_mu",
+  "name": "林木",
+  "book": "完美世界",
+  "main": false,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "huo",
+  "xinxing": "jian",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "补天阁翘楚，修一门燃血爆发的秘术",
+  "bio": "补天阁翘楚，年轻一辈中名列前茅，修一门燃烧精血以换爆发的秘术。做事果决，把阁中荣辱看得比命还重，同辈都敬他三分，也怕他三分。",
+  "motto": "阁中的事，轮到我头上，我必顶上去。",
+  "lastWords": "阁，还在吗？",
+  "relations": []
+ },
+ {
+  "id": "npc_tuoba_chuan",
+  "name": "拓跋川",
+  "book": "完美世界",
+  "main": false,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "逐鹿书院弟子，远赴补天阁挑战石昊",
+  "bio": "逐鹿书院弟子，听闻石昊的名头，便一路赶到补天阁挑战。自信能打，书院同辈几无对手，一试之下才知山外有山，回去后反倒更加刻苦。",
+  "motto": "名头再大，也要亲手试过才知。",
+  "lastWords": "这一败，我记下了。",
+  "relations": [
+   {
+    "id": "npc_shi_hao",
+    "name": "石昊",
+    "rel": "死敌",
+    "kind": "foe"
+   }
+  ]
+ },
+ {
+  "id": "npc_xiao_tian",
+  "name": "萧天",
+  "book": "完美世界",
+  "main": false,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "荒域萧族第一天才，一夜收集十六块补天石",
+  "bio": "荒域萧族第一天才，在山林中一夜征战，收齐十六块补天石，因此得了个头角峥嵘的名号。年纪不大，傲气不小，在百断山里，与石昊几番打过交道。",
+  "motto": "萧族第一之名，不是白叫的。",
+  "lastWords": "后脑，疼得很。",
+  "relations": [
+   {
+    "id": "npc_shi_hao",
+    "name": "石昊",
+    "rel": "旧友",
+    "kind": "far"
+   }
+  ]
+ },
+ {
+  "id": "npc_zhou_yuhao",
+  "name": "周宇豪",
+  "book": "完美世界",
+  "main": false,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "gui",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "补天阁弟子，爱拿资历压人",
+  "bio": "补天阁弟子，惯以资历压人，曾联合旁人排挤同门石清风。有几分小聪明，只是用错了地方，遇事先看自己的得失，真有强敌来了，跑得比谁都快。",
+  "motto": "照规矩办，规矩是我定的。",
+  "lastWords": "此事，别传出去。",
+  "relations": []
+ },
+ {
+  "id": "npc_shi_huzi",
+  "name": "石虎子",
+  "book": "完美世界",
+  "main": false,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "石村少年，石林虎之子",
+  "bio": "石村里长大的孩子，林虎之子，自小跟着村里大人打熬气血，爱跟在石昊身后跑。憨直爱闹，吃得多，长得快，打架从不退，输了也笑嘻嘻。",
+  "motto": "石村的孩子，摔不怕。",
+  "lastWords": "爹，快逃！",
+  "relations": [
+   {
+    "id": null,
+    "name": "石林虎",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_shi_hao",
+    "name": "石昊",
+    "rel": "旧友",
+    "kind": "far"
+   },
+   {
+    "id": "npc_shi_huniu",
+    "name": "石虎妞",
+    "rel": "妹",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_shi_huniu",
+  "name": "石虎妞",
+  "book": "完美世界",
+  "main": false,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "ren",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "石村少女，石林虎之女",
+  "bio": "石村里长大的孩子，林虎之女，与村里孩子一同打熬气血。性子泼辣，嘴上不饶人，与石昊这样的伙伴很亲；村里有人受欺，她头一个冲上去。",
+  "motto": "村里的事，我也帮得上忙。",
+  "lastWords": "哥，快逃！",
+  "relations": [
+   {
+    "id": null,
+    "name": "石林虎",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_shi_huzi",
+    "name": "石虎子",
+    "rel": "兄",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_wanjianyi",
+  "name": "万剑一",
+  "book": "诛仙",
+  "main": false,
+  "realm": 7,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "jian",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "青云门祖师祠堂守祠老道，百年前剑道冠绝一时",
+  "bio": "百年前与道玄并驾齐驱，是青云门剑道最盛之时的人物，如今却躲在祖师祠堂扫地看香，几乎无人识得。话少，脾气古怪，对门中晚辈里有灵性的人，却另眼相看。",
+  "motto": "扫地亦是修行，你信是不信。",
+  "lastWords": "这柄剑，还是留与后人吧。",
+  "relations": [
+   {
+    "id": "npc_daoxuan",
+    "name": "道玄真人",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_canghong",
+  "name": "苍松道人",
+  "book": "诛仙",
+  "main": false,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "jian",
+  "dong": -1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "青云门龙首峰首座，掌管门规戒律",
+  "bio": "青云门龙首峰首座，掌管执法，一板一眼，不讲情面。门规在他眼中重于人情，门下弟子犯错，罚得比谁都重。对外，则是掌门最倚重的左膀右臂之一。",
+  "motto": "规矩便是规矩，谁都不例外。",
+  "lastWords": "门规，万万不可废。",
+  "relations": [
+   {
+    "id": "npc_daoxuan",
+    "name": "道玄真人",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_su_ru",
+  "name": "苏茹",
+  "book": "诛仙",
+  "main": false,
+  "realm": 3,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "青云门大竹峰师母，田不易的妻子",
+  "bio": "大竹峰师母，温柔得体，一家上下的事，全靠她从中缓和。她管着这帮性子各异的弟子，疼张小凡，也疼自己的女儿，夹在丈夫的脾气与孩子们之间调停。",
+  "motto": "莫吵，坐下来慢慢说。",
+  "lastWords": "你们，都要好好的。",
+  "relations": [
+   {
+    "id": "npc_tian_buyi",
+    "name": "田不易",
+    "rel": "丈夫",
+    "kind": "near"
+   },
+   {
+    "id": "npc_tian_linger",
+    "name": "田灵儿",
+    "rel": "女儿",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_wu_dayi",
+  "name": "吴大义",
+  "book": "诛仙",
+  "main": false,
+  "realm": 0,
+  "camp": "zheng",
+  "qi": "tu",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "青云门大竹峰二弟子，稳重的二师兄",
+  "bio": "二师兄，排在宋大仁之后，性情稳重，爱操心，对师弟们的事照管得极细。练功算不得出色，在大竹峰上却是个靠得住的人，说话慢，做事稳。",
+  "motto": "有事便说，莫闷在心里。",
+  "lastWords": "师兄啊。",
+  "relations": [
+   {
+    "id": "npc_song_daren",
+    "name": "宋大仁",
+    "rel": "师兄",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_tian_buyi",
+    "name": "田不易",
+    "rel": "师父",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_miaoyi",
+  "name": "妙一真人",
+  "book": "蜀山剑侠传",
+  "main": false,
+  "realm": 7,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": -1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "峨眉派掌教，齐灵云与齐金蝉的父亲",
+  "bio": "峨眉第二代掌教，主持派内大事，一心要为正教保住元气。他自己少有亲自出手，却能把峨眉三代的人安排得妥帖。管子女极严，对晚辈，心里自有数。",
+  "motto": "诸位师弟，不必着急，事有轻重缓急。",
+  "lastWords": "峨眉，就拜托诸位了。",
+  "relations": [
+   {
+    "id": "npc_qi_lingyun",
+    "name": "齐灵云",
+    "rel": "女儿",
+    "kind": "near"
+   },
+   {
+    "id": "npc_qi_jinchan",
+    "name": "齐金蝉",
+    "rel": "儿子",
+    "kind": "near"
+   },
+   {
+    "id": null,
+    "name": "荀兰因",
+    "rel": "妻子",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_jile",
+  "name": "极乐真人",
+  "book": "蜀山剑侠传",
+  "main": false,
+  "realm": 7,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "青城派开山祖师，脾气古怪的前辈高人",
+  "bio": "青城派祖师，功行深厚，性子乖张，爱管闲事，也爱捉弄人。与峨眉一系渊源复杂，行事全凭自己高兴，正邪两派的人既不敢小瞧他，也不敢轻易招惹。",
+  "motto": "小辈们，且让老道瞧瞧你们的本事。",
+  "lastWords": "世上之事，该来的总会来。",
+  "relations": []
+ },
+ {
+  "id": "npc_xueshenzi",
+  "name": "血神子",
+  "book": "蜀山剑侠传",
+  "main": false,
+  "realm": 7,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "gui",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "魔道老怪，据说与长眉真人同门",
+  "bio": "魔道里数得着的老怪物，所修乃血神一类的邪法。手段阴毒，脾气暴烈，翻脸比翻书还快，最恨被人看轻；门下弟子个个战战兢兢，噤声不敢多言。",
+  "motto": "谁挡我的路，便拿血来换。",
+  "lastWords": "你们等着瞧。",
+  "relations": [
+   {
+    "id": null,
+    "name": "长眉真人",
+    "rel": "师兄",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_lupao",
+  "name": "绿袍老祖",
+  "book": "蜀山剑侠传",
+  "main": false,
+  "realm": 5,
+  "camp": "mo",
+  "qi": "mo",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": -1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "魔道老怪，称霸一方的邪派首领",
+  "bio": "魔道一方的老妖，居于洞府，养着一群门徒。性情凶暴，睚眦必报，一被激怒，什么手段都使得出；平日自视甚高，爱听奉承，容不得半点顶撞。",
+  "motto": "敢冒犯老祖，是不要命了么。",
+  "lastWords": "老夫，不甘心啊。",
+  "relations": []
+ },
+ {
+  "id": "npc_zui_daoren",
+  "name": "醉道人",
+  "book": "蜀山剑侠传",
+  "main": false,
+  "realm": 5,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "峨眉第二代，嗜酒如命的散淡高人",
+  "bio": "峨眉二代里最不守规矩的一位，酒葫芦不离身，说话没个正形，大事上却从不含糊。看重有天分的晚辈，常以玩笑口吻点拨，让人在笑声里听出道理。",
+  "motto": "来来来，先饮一口再说。",
+  "lastWords": "这酒，还没喝完呢。",
+  "relations": []
+ },
+ {
+  "id": "npc_qi_lingyun",
+  "name": "齐灵云",
+  "book": "蜀山剑侠传",
+  "main": false,
+  "realm": 4,
+  "camp": "zheng",
+  "qi": "qing",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "妙一真人之女，峨眉三代首座弟子",
+  "bio": "峨眉三代里最受期待的一位，稳重沉静，处事周全。身上担着父亲的期望与同辈的倚赖，修行勤勉，一直替峨眉下一代撑着场面，遇事总先为别人着想。",
+  "motto": "遇事莫慌，先静下心来想一想。",
+  "lastWords": "诸位，珍重了。",
+  "relations": [
+   {
+    "id": "npc_miaoyi",
+    "name": "妙一真人",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_qi_jinchan",
+    "name": "齐金蝉",
+    "rel": "弟弟",
+    "kind": "mid"
+   },
+   {
+    "id": "npc_li_yingqiong",
+    "name": "李英琼",
+    "rel": "同门",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_qi_jinchan",
+  "name": "齐金蝉",
+  "book": "蜀山剑侠传",
+  "main": false,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "kuang",
+  "dong": 1,
+  "qing": 1,
+  "sha": 1,
+  "gender": "m",
+  "identity": "妙一真人最小的儿子，峨眉三代里的顽皮少年",
+  "bio": "妙一真人幼子，自小在峨眉长大，胆子大，嘴上不饶人，爱凑热闹。有父辈的底子，却一心想凭自己闯出名号，不愿被人只当作掌教之子。",
+  "motto": "你们谁来，同我打一场。",
+  "lastWords": "爹，我还想再闯一回。",
+  "relations": [
+   {
+    "id": "npc_miaoyi",
+    "name": "妙一真人",
+    "rel": "父亲",
+    "kind": "near"
+   },
+   {
+    "id": "npc_qi_lingyun",
+    "name": "齐灵云",
+    "rel": "姐姐",
+    "kind": "mid"
+   }
+  ]
+ },
+ {
+  "id": "npc_zhu_wen",
+  "name": "朱文",
+  "book": "蜀山剑侠传",
+  "main": false,
+  "realm": 2,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "f",
+  "identity": "出身黄山，餐霞大师的徒弟，后入峨眉",
+  "bio": "餐霞大师门下的徒弟，后入峨眉。性子温婉，心细，修行踏实，是三代里让人放心的那一类弟子；难处当前总先为别人着想，从不抢风头。",
+  "motto": "师姐，我来搭把手。",
+  "lastWords": "弟子对不起师父。",
+  "relations": [
+   {
+    "id": null,
+    "name": "餐霞大师",
+    "rel": "师父",
+    "kind": "near"
+   }
+  ]
+ },
+ {
+  "id": "npc_situ_ping",
+  "name": "司徒平",
+  "book": "蜀山剑侠传",
+  "main": false,
+  "realm": 1,
+  "camp": "zheng",
+  "qi": "jian",
+  "xinxing": "ren",
+  "dong": -1,
+  "qing": 1,
+  "sha": -1,
+  "gender": "m",
+  "identity": "原为邪派门下，后入峨眉的弟子",
+  "bio": "早年师从邪派的许飞娘，后改投峨眉，修为不高，性子老实。怕惹麻烦，也怕重回邪派，一心要在正教中站稳脚跟，做事小心翼翼，唯恐被人看轻。",
+  "motto": "这条路，我想走得干净一些。",
+  "lastWords": "我不想再回去了。",
+  "relations": [
+   {
+    "id": null,
+    "name": "许飞娘",
+    "rel": "师父",
+    "kind": "near"
+   }
+  ]
+ }
+]

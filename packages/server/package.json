@@ -1,0 +1,13 @@
+{
+  "name": "@zuowang/server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": { "dev": "DEV_LOGIN=1 node --disable-warning=ExperimentalWarning src/main.ts" },
+  "dependencies": {
+    "@hono/node-server": "2.1.1",
+    "@zuowang/rules": "*",
+    "hono": "4.13.10"
+  }
+}

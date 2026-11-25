@@ -1,0 +1,402 @@
+[
+ {
+  "id": "cao_sanqi",
+  "name": "三七",
+  "tier": 0,
+  "type": "cao",
+  "effect": "heal",
+  "source": "原创",
+  "flavor": "药铺里最便宜的那一格，装的就是它。跌打的人腰里常揣一块，磨了粉敷在刀口上，血便慢了。",
+  "icon": "cao_xuanshen"
+ },
+ {
+  "id": "cao_dihuang",
+  "name": "地黄",
+  "tier": 1,
+  "type": "cao",
+  "effect": "heal",
+  "source": "原创",
+  "flavor": "方中少了地黄，别的药便各行其是，不肯合在一处。炼丹的老炉头，都这般说。",
+  "icon": "cao_huangjing"
+ },
+ {
+  "id": "cao_lingzhicao",
+  "name": "灵芝草",
+  "tier": 2,
+  "type": "cao",
+  "effect": "heal",
+  "source": "神话传说",
+  "flavor": "昆仑山上，白娘子为救许仙盗走的，便是这种草。这草是她拿命换回来的。",
+  "icon": "cao_lingzhi"
+ },
+ {
+  "id": "cao_tianshanxuelian",
+  "name": "天山雪莲",
+  "tier": 3,
+  "type": "cao",
+  "effect": "heal",
+  "source": "原创",
+  "flavor": "天山绝顶的冰壁上才长这花，采的人腰系长绳，吊下去。绳子拉上来了，人是否也上来，要看天意。",
+  "icon": "cao_xuelian"
+ },
+ {
+  "id": "cao_longxuejie",
+  "name": "龙血竭",
+  "tier": 4,
+  "type": "cao",
+  "effect": "heal",
+  "source": "原创",
+  "flavor": "龙血树被老药工割开，汁液渐凝，成了暗红的块。他说，那是树自己的伤口。",
+  "icon": "cao_chixue"
+ },
+ {
+  "id": "cao_busiyao",
+  "name": "不死药",
+  "tier": 5,
+  "type": "cao",
+  "effect": "heal",
+  "source": "神话传说",
+  "flavor": "后羿得了西王母一包不死药，被嫦娥偷吃，她便飞进了月里。他守着空匣子，再没去要过第二包。",
+  "icon": "cao_lingzhi"
+ },
+ {
+  "id": "dan_shouxindan",
+  "name": "守心丹",
+  "tier": 1,
+  "type": "dan",
+  "effect": "dujie",
+  "source": "原创",
+  "flavor": "劫云将聚的前夜，舌下含一粒。味苦，据说是特意炼成这般，好教人不要睡去。",
+  "icon": "dan_dujie_1"
+ },
+ {
+  "id": "dan_bileidan",
+  "name": "避雷丹",
+  "tier": 2,
+  "type": "dan",
+  "effect": "dujie",
+  "source": "原创",
+  "flavor": "含于舌下，雷将落时，舌尖先尝到一丝铁锈味。有人说，那是天在报信。",
+  "icon": "dan_dujie_2"
+ },
+ {
+  "id": "dan_zixiaodan",
+  "name": "紫霄丹",
+  "tier": 3,
+  "type": "dan",
+  "effect": "dujie",
+  "source": "原创",
+  "flavor": "取雷云边缘一抹紫霞炼成。采云人归来时，焦了半边头发，却道不亏。",
+  "icon": "dan_dujie_2"
+ },
+ {
+  "id": "dan_pileidan",
+  "name": "辟雷丹",
+  "tier": 4,
+  "type": "dan",
+  "effect": "dujie",
+  "source": "原创",
+  "flavor": "炼丹那间屋，顶上挨过七回雷劈。丹师却说，雷劈得越狠，丹炼得越好。",
+  "icon": "dan_dujie_3"
+ },
+ {
+  "id": "dan_jinyehuandan",
+  "name": "金液还丹",
+  "tier": 5,
+  "type": "dan",
+  "effect": "dujie",
+  "source": "道教典籍",
+  "flavor": "道家典籍有言，金液入腹，脏腑俱换。话只在书里，从没人当面见过服它的人。",
+  "icon": "dan_dujie_3"
+ },
+ {
+  "id": "dan_chongguandan",
+  "name": "冲关丹",
+  "tier": 0,
+  "type": "dan",
+  "effect": "tupo",
+  "source": "原创",
+  "flavor": "炼丹师傅私下唤它「赌命」，明面上只写冲关二字。吃的人心里都有数，照买不误。",
+  "icon": "dan_tupo_1"
+ },
+ {
+  "id": "dan_xisuidan",
+  "name": "洗髓丹",
+  "tier": 1,
+  "type": "dan",
+  "effect": "tupo",
+  "source": "原创",
+  "flavor": "服下一夜，黑汗浸透床褥。天明时一嗅，像一块腌过的铁。",
+  "icon": "dan_tupo_1"
+ },
+ {
+  "id": "dan_zhujidan",
+  "name": "筑基丹",
+  "tier": 2,
+  "type": "dan",
+  "effect": "tupo",
+  "source": "凡人修仙传",
+  "flavor": "炼气修士能否活着筑基，往往只争一粒丹。丹到手的那夜，谁也不曾合眼。",
+  "icon": "dan_tupo_2"
+ },
+ {
+  "id": "dan_jiangchendan",
+  "name": "降尘丹",
+  "tier": 3,
+  "type": "dan",
+  "effect": "tupo",
+  "source": "凡人修仙传",
+  "flavor": "结丹之前，筑基修士头一桩心事，便是设法弄到它。汤色浑浊，服后遍体淌出灰黑的汗。",
+  "icon": "dan_tupo_2"
+ },
+ {
+  "id": "dan_jiuqulingshendan",
+  "name": "九曲灵参丹",
+  "tier": 4,
+  "type": "dan",
+  "effect": "tupo",
+  "source": "凡人修仙传",
+  "flavor": "参须九曲，熬作一炉丹。药香飘出，传闻隔着三条街也能闻到，高阶修士闻之，亦为侧目。",
+  "icon": "dan_tupo_3"
+ },
+ {
+  "id": "dan_juqisan",
+  "name": "聚气散",
+  "tier": 0,
+  "type": "dan",
+  "effect": "zuo",
+  "source": "斗破苍穹",
+  "flavor": "斗气大陆上，低阶斗者服的粗药。一小包粉末，兑水而饮，味道如泥。",
+  "icon": "dan_zuo_1"
+ },
+ {
+  "id": "dan_lingtaidan",
+  "name": "灵台丹",
+  "tier": 1,
+  "type": "dan",
+  "effect": "zuo",
+  "source": "原创",
+  "flavor": "服后静坐，窗外蝉声渐渐远去。起身时天已黑透，案上的茶却还温着。",
+  "icon": "dan_zuo_1"
+ },
+ {
+  "id": "dan_wuqichaoyuandan",
+  "name": "五气朝元丹",
+  "tier": 2,
+  "type": "dan",
+  "effect": "zuo",
+  "source": "原创",
+  "flavor": "掌心里滚着五色小药丸：红，青，黄，白，黑。炼丹师说，一颗之中，藏了五家的脾气。",
+  "icon": "dan_zuo_2"
+ },
+ {
+  "id": "dan_jiuqiaoningyuandan",
+  "name": "九窍凝元丹",
+  "tier": 3,
+  "type": "dan",
+  "effect": "zuo",
+  "source": "原创",
+  "flavor": "丹成九窍，窍窍含光。服下之后，周身气脉如春冰初解，一夜吐纳抵得旁人三日。",
+  "icon": "dan_zuo_2"
+ },
+ {
+  "id": "dan_yuyehuandan",
+  "name": "玉液还丹",
+  "tier": 4,
+  "type": "dan",
+  "effect": "zuo",
+  "source": "道教典籍",
+  "flavor": "内丹家言玉液金液，玉液居先。津液咽下，一线清凉直贯丹田。",
+  "icon": "dan_zuo_3"
+ },
+ {
+  "id": "dan_taiqingyunshendan",
+  "name": "太清蕴神丹",
+  "tier": 5,
+  "type": "dan",
+  "effect": "zuo",
+  "source": "原创",
+  "flavor": "炉中养了一甲子，开炉那日满山无风。丹入口即化，只觉天地间的灵气都往身上来。",
+  "icon": "dan_zuo_3"
+ },
+ {
+  "id": "fu_huoqiufu",
+  "name": "火球符",
+  "tier": 0,
+  "type": "fu",
+  "effect": "dou",
+  "source": "原创",
+  "flavor": "山里人腰间常揣两张，一张拿来吓人，一张拿来真打。到头来，多是第二张派上用场。",
+  "icon": "fu_dou_1"
+ },
+ {
+  "id": "fu_pashafu",
+  "name": "破煞符",
+  "tier": 1,
+  "type": "fu",
+  "effect": "dou",
+  "source": "原创",
+  "flavor": "夜里走过坟地，怀里虽揣着一张，手心照样出汗。过去之后回头一看，那纸已经黑了。",
+  "icon": "fu_dou_1"
+ },
+ {
+  "id": "fu_jinguangfu",
+  "name": "金光符",
+  "tier": 2,
+  "type": "fu",
+  "effect": "dou",
+  "source": "道教典籍",
+  "flavor": "道士念咒时，金光一现，身后的小徒弟总要眯起眼来。符纸烧尽之后，掌心还留着一圈暖意。",
+  "icon": "fu_dou_1"
+ },
+ {
+  "id": "fu_wuleifu",
+  "name": "五雷符",
+  "tier": 3,
+  "type": "fu",
+  "effect": "dou",
+  "source": "道教典籍",
+  "flavor": "五雷正法在道观里代代相传，书符的人要先斋戒七日。据说画错一笔，雷便会回头来找人。",
+  "icon": "fu_dou_1"
+ },
+ {
+  "id": "fu_shenxiaoleifu",
+  "name": "神霄雷符",
+  "tier": 4,
+  "type": "fu",
+  "effect": "dou",
+  "source": "道教典籍",
+  "flavor": "神霄派的符，朱砂中掺了雷击木粉。道士画罢，手腕须缠上三天的布。",
+  "icon": "fu_dou_2"
+ },
+ {
+  "id": "fu_taishangleifu",
+  "name": "太上雷符",
+  "tier": 5,
+  "type": "fu",
+  "effect": "dou",
+  "source": "原创",
+  "flavor": "雷法之符，本不是画出来的，只写在天上。凡人手中这一张，不过是别人说过的话，传回来的回声。",
+  "icon": "fu_dou_2"
+ },
+ {
+  "id": "fu_shenxingfu",
+  "name": "神行符",
+  "tier": 0,
+  "type": "fu",
+  "effect": "dun",
+  "source": "原创",
+  "flavor": "腿上的符烧去一半，人已跑出险地三十里。符灰尚是热的。",
+  "icon": "fu_dun_1"
+ },
+ {
+  "id": "fu_suodifu",
+  "name": "缩地符",
+  "tier": 2,
+  "type": "fu",
+  "effect": "dun",
+  "source": "神话传说",
+  "flavor": "符上画的，是费长房留下的几笔余意。据说此人能缩地脉，千里之遥，如在眼前。",
+  "icon": "fu_dun_1"
+ },
+ {
+  "id": "fu_qimendunjiafu",
+  "name": "奇门遁甲符",
+  "tier": 4,
+  "type": "fu",
+  "effect": "dun",
+  "source": "原创",
+  "flavor": "符背刻着八门九宫，其中生门一线，是朱砂点出来的。逃出来的人说，走的那条路，以前从没见过。",
+  "icon": "fu_dun_2"
+ },
+ {
+  "id": "fu_hushenfu",
+  "name": "护身符",
+  "tier": 0,
+  "type": "fu",
+  "effect": "hu",
+  "source": "道教典籍",
+  "flavor": "两文钱一张，就在道观门口买。娘亲把它塞进儿子的行囊，千叮万嘱，千万别弄湿。",
+  "icon": "fu_hu_1"
+ },
+ {
+  "id": "fu_xuanwufu",
+  "name": "玄武符",
+  "tier": 2,
+  "type": "fu",
+  "effect": "hu",
+  "source": "原创",
+  "flavor": "符上龟蛇缠在一处。画符的人说，画到龟壳那一笔，手务必放慢，一快，符就薄了。",
+  "icon": "fu_hu_1"
+ },
+ {
+  "id": "fu_liudingliujiafu",
+  "name": "六丁六甲符",
+  "tier": 4,
+  "type": "fu",
+  "effect": "hu",
+  "source": "道教典籍",
+  "flavor": "这一张纸上，请了六丁玉女，也请了六甲神将。画符的人手须稳，错上一笔，请来的就是别的东西了。",
+  "icon": "fu_hu_2"
+ },
+ {
+  "id": "fu_zhaocaifu",
+  "name": "招财符",
+  "tier": 0,
+  "type": "fu",
+  "effect": "yun",
+  "source": "原创",
+  "flavor": "米铺，赌坊，胭脂铺，门上都贴着一张。听说贴歪了的那家，最先关了门。",
+  "icon": "fu_yun_1"
+ },
+ {
+  "id": "fu_zhuanyunfu",
+  "name": "转运符",
+  "tier": 1,
+  "type": "fu",
+  "effect": "yun",
+  "source": "原创",
+  "flavor": "贴身一日，只得一日。倒霉的人到手之后，往往次日便想再买一张。",
+  "icon": "fu_yun_1"
+ },
+ {
+  "id": "fu_jixingfu",
+  "name": "吉星符",
+  "tier": 2,
+  "type": "fu",
+  "effect": "yun",
+  "source": "原创",
+  "flavor": "对着一颗星画符，是那一夜的规矩；星偏半寸，符便偏半寸。带这符出门的，贵人遇过，骗子也遇过。",
+  "icon": "fu_yun_1"
+ },
+ {
+  "id": "fu_hetufu",
+  "name": "河图符",
+  "tier": 3,
+  "type": "fu",
+  "effect": "yun",
+  "source": "原创",
+  "flavor": "黑白点子画在符心，好比下了一半的棋局。持符的人，偶尔会觉得下一步已有人替他落了子。",
+  "icon": "fu_yun_1"
+ },
+ {
+  "id": "fu_ziweifu",
+  "name": "紫微符",
+  "tier": 4,
+  "type": "fu",
+  "effect": "yun",
+  "source": "道教典籍",
+  "flavor": "北天正中是紫微星，群星绕着它转。画符的人说，它从不借力，只教别的星个个听它的。",
+  "icon": "fu_yun_2"
+ },
+ {
+  "id": "fu_taiyicifu",
+  "name": "太乙赐福符",
+  "tier": 5,
+  "type": "fu",
+  "effect": "yun",
+  "source": "原创",
+  "flavor": "太乙真人闲来无事，画过一张，随手丢进云里，这是传闻。那一年，下界有个乞丐一觉睡醒，枕边多了一袋金。",
+  "icon": "fu_yun_2"
+ }
+]

@@ -1,0 +1,3882 @@
+[
+ {
+  "id": "fb_tie_mu_jian",
+  "name": "铁木剑",
+  "tier": 0,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "外门弟子，人各一柄。剑柄上的磨痕深浅不一，同门之间，闭目也摸得出自己那口。",
+  "icon": "fb_jian_1"
+ },
+ {
+  "id": "fb_zhu_jie_jian",
+  "name": "竹节剑",
+  "tier": 0,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "山中少年削来练手之物，未开锋刃。剑尖磨得发亮，皆因他不知往树洞里戳了多少回。",
+  "icon": "fb_jian_1"
+ },
+ {
+  "id": "fb_jing_gang_chang_jian",
+  "name": "精钢长剑",
+  "tier": 0,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "在兵器铺里悬了三年，无人问津，终被一个镖师买去。他只说够使；剑鞘，倒比剑还贵。",
+  "icon": "fb_jian_1"
+ },
+ {
+  "id": "fb_tao_mu_jian",
+  "name": "桃木剑",
+  "tier": 0,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "道教典籍",
+  "flavor": "村口道士取后院桃木削成，朱砂画符，剑尖不曾开刃。孩童夜里怕黑，便抱着它睡。",
+  "icon": "fb_jian_1"
+ },
+ {
+  "id": "fb_qing_gang_jian",
+  "name": "青钢剑",
+  "tier": 1,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "剑中无半点灵气，却是名匠一锤一锤敲打而成。散修负它行了半个州，剑穗已换三回。",
+  "icon": "fb_jian_1"
+ },
+ {
+  "id": "fb_han_tie_jian",
+  "name": "寒铁剑",
+  "tier": 1,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "北地寒铁所锻，入手即凉，握久了，指节泛白。铸此剑的铁匠，一到冬天，便不敢碰它。",
+  "icon": "fb_jian_1"
+ },
+ {
+  "id": "fb_qing_feng_jian",
+  "name": "青锋剑",
+  "tier": 1,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "坊市里一排剑悬着，穗色各异。入门弟子挑来拣去，末了伸手拿的，总是最便宜那口。",
+  "icon": "fb_jian_1"
+ },
+ {
+  "id": "fb_song_feng_jian",
+  "name": "松风剑",
+  "tier": 1,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "剑一出鞘，便有松涛之声。听得久了，山下人只当是自家屋后起风。",
+  "icon": "fb_jian_1"
+ },
+ {
+  "id": "fb_bai_hong_jian",
+  "name": "白虹剑",
+  "tier": 2,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "白光出鞘，横贯半个院落。年轻修士初次御剑，总舍不得收，定要在天上多绕一圈。",
+  "icon": "fb_jian_2"
+ },
+ {
+  "id": "fb_liu_yun_jian",
+  "name": "流云剑",
+  "tier": 2,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "剑身薄可透光，御起时曳出一道云痕。主人说，旁人看剑，他只看那道痕。",
+  "icon": "fb_jian_2"
+ },
+ {
+  "id": "fb_qi_xing_jian",
+  "name": "七星剑",
+  "tier": 2,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "道教典籍",
+  "flavor": "剑身七星，以金粉嵌成。道士踏罡步斗，星光自剑脊逐一亮起；七星亮尽，人已出手。",
+  "icon": "fb_jian_2"
+ },
+ {
+  "id": "fb_zi_wei_ruan_jian",
+  "name": "紫薇软剑",
+  "tier": 2,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "神雕侠侣",
+  "flavor": "独孤求败三十岁前所用之剑，后弃于深谷。石上刻有几句话，大意是：此剑曾伤不该伤之人。",
+  "icon": "fb_jian_2"
+ },
+ {
+  "id": "fb_mu_jian",
+  "name": "木剑",
+  "tier": 2,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "神雕侠侣",
+  "flavor": "剑冢最末一柄，非铁，乃朽木。那人说，到了这一步，剑不过是一点念想。",
+  "icon": "fb_jian_2"
+ },
+ {
+  "id": "fb_sui_xing_jian",
+  "name": "碎星剑",
+  "tier": 2,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "剑成那夜，一颗星坠落天际，剑师将星屑掺入炉中。自此以后，他再不敢夜里抬头看天。",
+  "icon": "fb_jian_2"
+ },
+ {
+  "id": "fb_xuan_shuang_jian",
+  "name": "玄霜剑",
+  "tier": 2,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "铁取自寒潭，潭水盛夏亦结冰。铸剑师手上的冻疮，直到老也没有好过。",
+  "icon": "fb_jian_2"
+ },
+ {
+  "id": "fb_zhan_gui_jian",
+  "name": "斩鬼剑",
+  "tier": 3,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "剑身雷纹细密，夜里纵不出鞘，鬼物也不敢近前。守夜人说，睡在这剑旁，是不做梦的。",
+  "icon": "fb_jian_2"
+ },
+ {
+  "id": "fb_chi_xiao_jian",
+  "name": "赤霄剑",
+  "tier": 3,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "神话传说",
+  "flavor": "高祖提剑夜行，一剑斩断拦路白蛇。此后剑落何处，史书只含糊带过。",
+  "icon": "fb_jian_2"
+ },
+ {
+  "id": "fb_gan_jiang",
+  "name": "干将",
+  "tier": 3,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "神话传说",
+  "flavor": "铸剑的是一对夫妇，妻子剪下发爪投入炉中，剑方得成。雄剑那一柄，周身有龟壳般的纹路。",
+  "icon": "fb_jian_2"
+ },
+ {
+  "id": "fb_mo_xie",
+  "name": "莫邪",
+  "tier": 3,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "神话传说",
+  "flavor": "干将铸剑，其妻莫邪剪下发爪，投入炉中。剑成一雄一雌，雌剑便以她的名字为名。",
+  "icon": "fb_jian_2"
+ },
+ {
+  "id": "fb_tai_e",
+  "name": "太阿",
+  "tier": 3,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "神话传说",
+  "flavor": "欧冶子与干将合铸的名剑，楚王曾执之遥指三军。后人只记得剑名，谁胜谁负，倒无人记得了。",
+  "icon": "fb_jian_2"
+ },
+ {
+  "id": "fb_chun_yang_jian",
+  "name": "纯阳剑",
+  "tier": 3,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "道门高人晨起拭剑，必拭到剑身映出朝阳为止，说是这般，阴邪便不敢近前。",
+  "icon": "fb_jian_2"
+ },
+ {
+  "id": "fb_qing_yun_jian",
+  "name": "青云剑",
+  "tier": 3,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "封神演义",
+  "flavor": "魔家四将之首魔礼青的佩剑，一经祭起，便卷出一阵黑风。兄弟四人各持一宝，他的排在头里。",
+  "icon": "fb_jian_2"
+ },
+ {
+  "id": "fb_zhu_yin_jian",
+  "name": "烛阴剑",
+  "tier": 3,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "剑成之时，天色忽暗了一瞬，铸剑人只道是日食。及至低头，才发现自己的影子不见了。",
+  "icon": "fb_jian_2"
+ },
+ {
+  "id": "fb_xuan_tie_zhong_jian",
+  "name": "玄铁重剑",
+  "tier": 4,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "神雕侠侣",
+  "flavor": "此剑无锋无刃，沉得骇人。独孤求败将它留在山谷，一等几十年，才等到一个断臂少年。",
+  "icon": "fb_jian_3"
+ },
+ {
+  "id": "fb_yi_tian_jian",
+  "name": "倚天剑",
+  "tier": 4,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "倚天屠龙记",
+  "flavor": "剑腹另藏薄绢一卷，须另一件绝世兵刃方能劈开。剑锋之利是真，其中秘密，也是真。",
+  "icon": "fb_jian_3"
+ },
+ {
+  "id": "fb_xuan_yuan_jian",
+  "name": "轩辕剑",
+  "tier": 5,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "神话传说",
+  "flavor": "剑身一面刻星月，一面刻山川草木。古书上说，自黄帝执了此剑，天下方得安稳。",
+  "icon": "fb_jian_3"
+ },
+ {
+  "id": "fb_qing_zhu_feng_yun_jian",
+  "name": "青竹蜂云剑",
+  "tier": 4,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "凡人修仙传",
+  "flavor": "韩立的剑阵，由七十二口青竹小剑结成。单拎一口，毫不起眼；合在一处，邪祟见了也要绕道。",
+  "icon": "fb_jian_3"
+ },
+ {
+  "id": "fb_tian_ya",
+  "name": "天琊",
+  "tier": 4,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "诛仙",
+  "flavor": "小竹峰历代首座所佩之剑，蓝光清冷，纤尘不染。传到陆雪琪手中，她这一生，话也不多。",
+  "icon": "fb_jian_3"
+ },
+ {
+  "id": "fb_zhan_long_jian",
+  "name": "斩龙剑",
+  "tier": 4,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "传闻此剑斩落过一条真龙，剑脊上留有两道细纹，状如龙鳞压过。寻常修士，连拔也拔不出。",
+  "icon": "fb_jian_3"
+ },
+ {
+  "id": "fb_zi_ying",
+  "name": "紫郢",
+  "tier": 4,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "蜀山剑侠传",
+  "flavor": "紫郢与青索，本是一对。双剑合处，紫光青光绞作一道，再分不出谁是谁。",
+  "icon": "fb_jian_3"
+ },
+ {
+  "id": "fb_qing_suo",
+  "name": "青索",
+  "tier": 4,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "蜀山剑侠传",
+  "flavor": "蜀山双剑，一紫一青，青者名唤青索。分则两道光，合则天上只余一道。",
+  "icon": "fb_jian_3"
+ },
+ {
+  "id": "fb_zhu_xian_jian",
+  "name": "诛仙剑",
+  "tier": 5,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "诛仙",
+  "flavor": "诛、戮、陷、绝，四口剑分悬四门。阵势一起，门内人出不得，门外飞鸟亦不敢从头顶掠过。",
+  "icon": "fb_jian_3"
+ },
+ {
+  "id": "fb_lu_xian_jian",
+  "name": "戮仙剑",
+  "tier": 5,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "封神演义",
+  "flavor": "诛仙阵四门各悬一剑，南门挂的是戮仙剑。入阵者瞧不见剑，只觉背后有人，轻轻叹了一声。",
+  "icon": "fb_jian_3"
+ },
+ {
+  "id": "fb_xian_xian_jian",
+  "name": "陷仙剑",
+  "tier": 5,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "封神演义",
+  "flavor": "通天教主所设诛仙阵中，共有四口剑，此剑居其一。仙人入阵，剑尚未动，脚下先软了。",
+  "icon": "fb_jian_3"
+ },
+ {
+  "id": "fb_jue_xian_jian",
+  "name": "绝仙剑",
+  "tier": 5,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "封神演义",
+  "flavor": "此剑为通天教主阵中四剑之一，悬在北门。进阵的人，没谁见它出过鞘，也没谁走得回来。",
+  "icon": "fb_jian_3"
+ },
+ {
+  "id": "fb_chai_dao",
+  "name": "开山刀",
+  "tier": 0,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "钝背卷刃，刀把叫樵夫的手汗，生生浸成了黑色。",
+  "icon": "fb_dao_1"
+ },
+ {
+  "id": "fb_po_dao",
+  "name": "朴刀",
+  "tier": 0,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "镖头那口老朴刀，刀背凹下一道，是拇指按了二十年按出来的。",
+  "icon": "fb_dao_1"
+ },
+ {
+  "id": "fb_tie_huan_dao",
+  "name": "铁环刀",
+  "tier": 0,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "刀背铁环哗啦一响，山里野狗已夹着尾巴躲开，只是怕的，多半不是刀。",
+  "icon": "fb_dao_1"
+ },
+ {
+  "id": "fb_tu_hu_dao",
+  "name": "剔骨刀",
+  "tier": 0,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "村头屠户剔骨用的刀，磨到只剩半掌来宽。刀柄上的油垢，数十年未曾洗净。",
+  "icon": "fb_dao_1"
+ },
+ {
+  "id": "fb_niu_er_dao",
+  "name": "牛耳刀",
+  "tier": 1,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "猎户剥一张鹿皮，刀下去直抵到底，血珠也不见一颗。他说，是刀自己拿的主意。",
+  "icon": "fb_dao_1"
+ },
+ {
+  "id": "fb_yan_ling_dao",
+  "name": "雁翎刀",
+  "tier": 1,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "弯刀细长，刀身一晃，如雁翅掠水。使刀之人，总出现在你想不到的那一侧。",
+  "icon": "fb_dao_1"
+ },
+ {
+  "id": "fb_liu_ye_dao",
+  "name": "柳叶刀",
+  "tier": 1,
+  "kind": "dao",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "此刀薄似柳叶，宽不过一指。使刀的人常说：慢上一瞬，不如不拔。",
+  "icon": "fb_dao_1"
+ },
+ {
+  "id": "fb_zhan_ma_dao",
+  "name": "斩马刀",
+  "tier": 2,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "刀长三尺有余，背厚如门闩。沙场上使它的人，刀口不曾卷过一回，刀柄倒换了三次。",
+  "icon": "fb_dao_2"
+ },
+ {
+  "id": "fb_han_yue_dao",
+  "name": "寒月刀",
+  "tier": 2,
+  "kind": "dao",
+  "qi": "bing",
+  "source": "原创",
+  "flavor": "鞘中夜夜透出一线白。主人说，此刀是用来拔的，不是用来看的。",
+  "icon": "fb_dao_2"
+ },
+ {
+  "id": "fb_xue_yin_dao",
+  "name": "血饮刀",
+  "tier": 2,
+  "kind": "dao",
+  "qi": "mo",
+  "source": "原创",
+  "flavor": "每斩一人，刀身便红上一分，如今已红到发黑。刀主易过好几人，无一个洗得干净。",
+  "icon": "fb_dao_2"
+ },
+ {
+  "id": "fb_jiu_huan_da_dao",
+  "name": "九环大刀",
+  "tier": 2,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "九环哗啷，仇家老远便知他来了；他也不躲。",
+  "icon": "fb_dao_2"
+ },
+ {
+  "id": "fb_duan_yue_dao",
+  "name": "断岳刀",
+  "tier": 2,
+  "kind": "dao",
+  "qi": "tu",
+  "source": "原创",
+  "flavor": "山顶有一块削平的大石，当地人唤作「刀砧」。刀主一去，山民再没见过第二把这样的刀。",
+  "icon": "fb_dao_2"
+ },
+ {
+  "id": "fb_wu_chang_dao",
+  "name": "无常刀",
+  "tier": 2,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "刀身薄至近乎透光。魔修握在手里，刀便冷下一分，有人说，是被勾去的魂在叫。",
+  "icon": "fb_dao_2"
+ },
+ {
+  "id": "fb_lu_ding_bi_shou",
+  "name": "鹿鼎匕首",
+  "tier": 3,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "石壁上插着一口短匕，无鞘无名。后来叫一个泼皮摸了去，藏入靴筒。",
+  "icon": "fb_dao_2"
+ },
+ {
+  "id": "fb_gan_qi",
+  "name": "干戚",
+  "tier": 3,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "山海经",
+  "flavor": "刑天失了头颅，以乳为目，以脐为口，手中盾斧，依旧舞个不休。",
+  "icon": "fb_dao_2"
+ },
+ {
+  "id": "fb_san_jian_liang_ren_dao",
+  "name": "三尖两刃刀",
+  "tier": 3,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "封神演义",
+  "flavor": "杨戬提刀而行，哮天犬随在身后。山神土地远远望见，忙先把香炉擦净。",
+  "icon": "fb_dao_2"
+ },
+ {
+  "id": "fb_xiu_luo_dao",
+  "name": "修罗刀",
+  "tier": 3,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "持刀人梦里总在攀一座山，山由尸骨堆成。每攀到顶，刀便比昨日更沉一分。",
+  "icon": "fb_dao_2"
+ },
+ {
+  "id": "fb_zhan_xian_fei_dao",
+  "name": "斩仙飞刀",
+  "tier": 4,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "封神演义",
+  "flavor": "陆压道人揭开葫芦盖，一道白光飞出。据说被它盯上的仙人，身子尚立着，头颅已经落地。",
+  "icon": "fb_dao_3"
+ },
+ {
+  "id": "fb_tu_long_dao",
+  "name": "屠龙刀",
+  "tier": 4,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "倚天屠龙记",
+  "flavor": "刀腹之中，藏着岳武穆的兵书。争抢此刀的人，多半至死也没剖开看一眼。",
+  "icon": "fb_dao_3"
+ },
+ {
+  "id": "fb_xiao_li_fei_dao",
+  "name": "小李飞刀",
+  "tier": 4,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "多情剑客无情剑",
+  "flavor": "李寻欢刻木头时，刀在指间转得极慢。到了出手那一刻，却从没人看清过。",
+  "icon": "fb_dao_3"
+ },
+ {
+  "id": "fb_kai_tian_fu",
+  "name": "开天斧",
+  "tier": 5,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "神话传说",
+  "flavor": "天地混沌之时，有人抡斧，劈开一线光明。斧子后来去了何处，传闻有三种说法，三种互不相合。",
+  "icon": "fb_dao_3"
+ },
+ {
+  "id": "fb_bai_la_gan",
+  "name": "白蜡枪",
+  "tier": 0,
+  "kind": "qiang",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "武馆老师傅，一条杆子耍了四十年。杆身叫手掌磨得油亮，一层汪汪的光。",
+  "icon": "fb_qiang_1"
+ },
+ {
+  "id": "fb_tie_qiang",
+  "name": "铁枪",
+  "tier": 0,
+  "kind": "qiang",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "铁匠铺打出来的枪，头沉杆直。镖局趟子手使了十年，枪缨换过三回，枪还是那一杆。",
+  "icon": "fb_qiang_1"
+ },
+ {
+  "id": "fb_hong_ying_qiang",
+  "name": "红缨枪",
+  "tier": 0,
+  "kind": "qiang",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "乡勇列成一行，枪头红缨叫雨水泡得发黑，无一人敢说个怕字。",
+  "icon": "fb_qiang_1"
+ },
+ {
+  "id": "fb_wu_mu_ji",
+  "name": "乌木戟",
+  "tier": 0,
+  "kind": "qiang",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "山门守夜的杂役，人各一柄。戟头不曾开刃，戟杆倒叫手汗浸得发亮。",
+  "icon": "fb_qiang_1"
+ },
+ {
+  "id": "fb_shu_tong_qiang",
+  "name": "熟铜枪",
+  "tier": 1,
+  "kind": "qiang",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "此枪是将军府退下的旧物，铜色渐暗，杆上缠着汗巾。修士买去练臂力，说强过挑水。",
+  "icon": "fb_qiang_1"
+ },
+ {
+  "id": "fb_qing_tong_ji",
+  "name": "青铜戟",
+  "tier": 1,
+  "kind": "qiang",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "掘墓人自泥里拽出，绿锈之间，还嵌着半片不知属谁的甲。",
+  "icon": "fb_qiang_1"
+ },
+ {
+  "id": "fb_pan_long_qiang",
+  "name": "盘龙枪",
+  "tier": 2,
+  "kind": "qiang",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "杆上盘龙，龙目嵌两粒红宝。枪头一抖，三丈之内风声俱乱，似有龙吟。",
+  "icon": "fb_qiang_2"
+ },
+ {
+  "id": "fb_fei_lian_ji",
+  "name": "飞廉戟",
+  "tier": 2,
+  "kind": "qiang",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "飞廉乃风神之名。戟杆上一圈圈缠着旧布，浸的是前一任主人的汗。",
+  "icon": "fb_qiang_2"
+ },
+ {
+  "id": "fb_xuan_tie_qiang",
+  "name": "玄铁枪",
+  "tier": 2,
+  "kind": "qiang",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "乌黑的通体，三名壮汉合抬不动。宗门有位老力士，扛着它上茅房，也不肯放下。",
+  "icon": "fb_qiang_2"
+ },
+ {
+  "id": "fb_qing_hong_ji",
+  "name": "青虹戟",
+  "tier": 2,
+  "kind": "qiang",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "戟尖挑起一道长虹。有人说是水汽，有人说是血气，持戟的人，从不分辩。",
+  "icon": "fb_qiang_2"
+ },
+ {
+  "id": "fb_po_jun_qiang",
+  "name": "破军枪",
+  "tier": 2,
+  "kind": "qiang",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "以战场上拾来的断枪熔铸而成。握得久了，掌心里便有喊杀之声。",
+  "icon": "fb_qiang_2"
+ },
+ {
+  "id": "fb_huo_jian_qiang",
+  "name": "火尖枪",
+  "tier": 3,
+  "kind": "qiang",
+  "qi": "huo",
+  "source": "封神演义",
+  "flavor": "哪吒踏风火轮，提此枪出手，满街孩童争相追看。他自己也只是个孩子，手里的枪，却不是孩子的玩意。",
+  "icon": "fb_qiang_2"
+ },
+ {
+  "id": "fb_jiang_yao_bao_zhang",
+  "name": "降妖宝杖",
+  "tier": 3,
+  "kind": "qiang",
+  "qi": "qing",
+  "source": "西游记",
+  "flavor": "沙僧原是天上卷帘大将，此杖乃那时随身之物。一路西行，杖上挑着行李，倒更像根扁担了。",
+  "icon": "fb_qiang_2"
+ },
+ {
+  "id": "fb_huang_jin_gun",
+  "name": "黄金棍",
+  "tier": 3,
+  "kind": "qiang",
+  "qi": "qing",
+  "source": "封神演义",
+  "flavor": "雷震子食了两枚杏子，肩生风雷翅，手中便多出这根金棍。",
+  "icon": "fb_qiang_2"
+ },
+ {
+  "id": "fb_fei_long_bao_zhang",
+  "name": "飞龙宝杖",
+  "tier": 3,
+  "kind": "qiang",
+  "qi": "qing",
+  "source": "西游记",
+  "flavor": "灵吉菩萨降黄风怪时所取宝杖，杖头一条龙影。他自己不爱动手，心头所爱，是那枚定风丹。",
+  "icon": "fb_qiang_2"
+ },
+ {
+  "id": "fb_qi_sha_ji",
+  "name": "七杀戟",
+  "tier": 3,
+  "kind": "qiang",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "七刃之戟，每刃根上刻一个杀字。用它的人，到头来谁也数不清自己杀了多少。",
+  "icon": "fb_qiang_2"
+ },
+ {
+  "id": "fb_jiu_chi_ding_pa",
+  "name": "九齿钉耙",
+  "tier": 4,
+  "kind": "qiang",
+  "qi": "qing",
+  "source": "西游记",
+  "flavor": "天蓬元帅贬下凡界，样样都丢了，只这柄耙子，不曾丢掉。",
+  "icon": "fb_qiang_3"
+ },
+ {
+  "id": "fb_pu_shan",
+  "name": "蒲扇",
+  "tier": 0,
+  "kind": "shan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "道童拿它扇过炉火，驱过蚊虫，也拍过师兄打盹的脑袋。边缘已经起毛，仍舍不得换。",
+  "icon": "fb_shan_1"
+ },
+ {
+  "id": "fb_zhu_gu_shan",
+  "name": "竹骨扇",
+  "tier": 0,
+  "kind": "shan",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "书生之扇，扇面上题着半首未完的诗。风过处哗啦作响，似在催他。",
+  "icon": "fb_shan_1"
+ },
+ {
+  "id": "fb_zhe_gu_shan",
+  "name": "折骨扇",
+  "tier": 1,
+  "kind": "shan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "扇面绘山水，扇骨却是铁铸。执扇的书生模样之人，在酒馆里，总坐靠门的位子。",
+  "icon": "fb_shan_1"
+ },
+ {
+  "id": "fb_qing_feng_shan",
+  "name": "清风扇",
+  "tier": 1,
+  "kind": "shan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "采药人一路扇开山雾。扇面被毒虫咬出几处小洞，漏出来的风，反倒更凉。",
+  "icon": "fb_shan_1"
+ },
+ {
+  "id": "fb_he_yu_shan",
+  "name": "鹤羽扇",
+  "tier": 2,
+  "kind": "shan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "执扇之人，向来不急着开口。扇上羽毛是自己脱落的，不是拔下来的，这是他唯一的讲究。",
+  "icon": "fb_shan_2"
+ },
+ {
+  "id": "fb_luo_ying_shan",
+  "name": "落英扇",
+  "tier": 2,
+  "kind": "shan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "扇面绘着落花，扇上一下，真有几瓣自画中飘落。扫地的小丫头拾起一看，是真花。",
+  "icon": "fb_shan_2"
+ },
+ {
+  "id": "fb_xue_gu_shan",
+  "name": "血骨扇",
+  "tier": 2,
+  "kind": "shan",
+  "qi": "mo",
+  "source": "原创",
+  "flavor": "扇骨是仇家的肋骨，一根，便是一个名字。魔修每扇一下，便轻轻念上一遍。",
+  "icon": "fb_shan_2"
+ },
+ {
+  "id": "fb_zhu_ying_shan",
+  "name": "烛影扇",
+  "tier": 2,
+  "kind": "shan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "扇子一动，满屋灯火俱暗。夜里遭它偷袭的人，到天亮才想起，连来人是男是女，都未看清。",
+  "icon": "fb_shan_2"
+ },
+ {
+  "id": "fb_jiu_feng_shan",
+  "name": "九凤扇",
+  "tier": 2,
+  "kind": "shan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "扇骨上九只凤，没有两只相同。最小那只缺了尾羽，是匠人收笔时手一抖留下的。",
+  "icon": "fb_shan_2"
+ },
+ {
+  "id": "fb_yu_gu_bing_shan",
+  "name": "玉骨冰扇",
+  "tier": 2,
+  "kind": "shan",
+  "qi": "bing",
+  "source": "原创",
+  "flavor": "盛夏最是难熬，有个富商愿出千金，只求借扇一夜。主人没答应，仅许他伸手摸了摸扇骨。",
+  "icon": "fb_shan_2"
+ },
+ {
+  "id": "fb_liu_huo_shan",
+  "name": "流火扇",
+  "tier": 2,
+  "kind": "shan",
+  "qi": "huo",
+  "source": "原创",
+  "flavor": "一扇之下，火星顺扇面落到炉边。老炼器师的衣袖，烧满了小洞，他说，那是勋章。",
+  "icon": "fb_shan_2"
+ },
+ {
+  "id": "fb_ba_jiao_shan",
+  "name": "芭蕉扇",
+  "tier": 4,
+  "kind": "shan",
+  "qi": "qing",
+  "source": "西游记",
+  "flavor": "大圣头一遭上门借扇，一扇便被扇飞老远。此乃铁扇公主的宝贝，落地时人犹发晕。",
+  "icon": "fb_shan_3"
+ },
+ {
+  "id": "fb_wu_huo_qi_qin_shan",
+  "name": "五火七禽扇",
+  "tier": 4,
+  "kind": "shan",
+  "qi": "huo",
+  "source": "封神演义",
+  "flavor": "火灵圣母执此扇，一展之下，五龙七禽并出，满天火势，连云也被烧红。",
+  "icon": "fb_shan_3"
+ },
+ {
+  "id": "fb_tai_yin_shan",
+  "name": "太阴扇",
+  "tier": 4,
+  "kind": "shan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "趁月圆之夜，取月华炼成此扇。炼器师在窗下坐了三晚，不曾合眼，也不觉困倦。",
+  "icon": "fb_shan_3"
+ },
+ {
+  "id": "fb_tong_jing",
+  "name": "铜镜",
+  "tier": 0,
+  "kind": "jing",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "妇人梳妆之物，镜背铸着一对鸳鸯。镜面纵然磨得再亮，屋角蹲着的东西，它是照不出的。",
+  "icon": "fb_jing_1"
+ },
+ {
+  "id": "fb_ling_hua_jing",
+  "name": "菱花镜",
+  "tier": 0,
+  "kind": "jing",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "备作嫁妆的镜子，背铸菱花，镜面上有一小片水雾，怎么也擦不掉。新娘子说，那是娘家人哭出来的。",
+  "icon": "fb_jing_1"
+ },
+ {
+  "id": "fb_shi_mian_jing",
+  "name": "石面镜",
+  "tier": 0,
+  "kind": "jing",
+  "qi": "tu",
+  "source": "原创",
+  "flavor": "山中小派拿它当镜子使。照出的脸，谁也辨认不清，因此也没人嫌丑。",
+  "icon": "fb_jing_1"
+ },
+ {
+  "id": "fb_qing_tong_gu_jing",
+  "name": "青铜古镜",
+  "tier": 1,
+  "kind": "jing",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "自古墓中掘出，铭文早已模糊。照人时，偶尔多出一道影子，那影子，并不是你。",
+  "icon": "fb_jing_1"
+ },
+ {
+  "id": "fb_ba_gua_jing",
+  "name": "八卦镜",
+  "tier": 1,
+  "kind": "jing",
+  "qi": "qing",
+  "source": "道教典籍",
+  "flavor": "道士将镜悬于门楣，镜面朝外。夜里有影子从门前经过，镜中空无一物，那影子却顿了一顿。",
+  "icon": "fb_jing_1"
+ },
+ {
+  "id": "fb_shui_yue_jing",
+  "name": "水月镜",
+  "tier": 2,
+  "kind": "jing",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "镜面是一池静水，照人时，水纹先漾开一圈。他说，那一圈，是对手尚未走出的下一步。",
+  "icon": "fb_jing_2"
+ },
+ {
+  "id": "fb_xuan_guang_jing",
+  "name": "玄光镜",
+  "tier": 2,
+  "kind": "jing",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "镜中无人，只有一团刺目的光。有人被它照过，闭眼三日，睁开后眼底仍如火烧。",
+  "icon": "fb_jing_2"
+ },
+ {
+  "id": "fb_huan_yue_jing",
+  "name": "幻月镜",
+  "tier": 2,
+  "kind": "jing",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "镜中悬着一轮月，月里立着一个人影，朝你笑。布阵之人说，莫细看，那笑的便是你自己。",
+  "icon": "fb_jing_2"
+ },
+ {
+  "id": "fb_ying_hun_jing",
+  "name": "映魂镜",
+  "tier": 2,
+  "kind": "jing",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "镜背刻有一行字：照你自己，莫照别人。偏是执镜的人，都爱去照别人。",
+  "icon": "fb_jing_2"
+ },
+ {
+  "id": "fb_zhao_gu_jing",
+  "name": "照骨镜",
+  "tier": 2,
+  "kind": "jing",
+  "qi": "mo",
+  "source": "原创",
+  "flavor": "在镜前立得久了，面皮越看越薄。有个老骗子照过一回，当夜便搬出城去。",
+  "icon": "fb_jing_2"
+ },
+ {
+  "id": "fb_zhao_yao_jing",
+  "name": "照妖镜",
+  "tier": 3,
+  "kind": "jing",
+  "qi": "qing",
+  "source": "西游记",
+  "flavor": "托塔天王之镜，当年照遍下界妖精，镜面却从未花过。",
+  "icon": "fb_jing_2"
+ },
+ {
+  "id": "fb_qian_chen_jing",
+  "name": "前尘镜",
+  "tier": 2,
+  "kind": "jing",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "镜中映出的不是人脸，而是十年前某个下午。有人瞥了一眼，当即把镜子扣上，再也没有打开。",
+  "icon": "fb_jing_2"
+ },
+ {
+  "id": "fb_yin_yang_jing",
+  "name": "阴阳镜",
+  "tier": 4,
+  "kind": "jing",
+  "qi": "qing",
+  "source": "封神演义",
+  "flavor": "赤精子的镜，一面照生，一面照死；拿错面的人，镜里再无他的影子。",
+  "icon": "fb_jing_3"
+ },
+ {
+  "id": "fb_xuan_huo_jian",
+  "name": "玄火鉴",
+  "tier": 4,
+  "kind": "jing",
+  "qi": "huo",
+  "source": "原创",
+  "flavor": "镜背绕一圈暗红火纹，不燃，也不灭。邪祟打镜前经过，脸上那层人皮，先就挂不住了。",
+  "icon": "fb_jing_3"
+ },
+ {
+  "id": "fb_tian_ji_jing",
+  "name": "天机镜",
+  "tier": 4,
+  "kind": "jing",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "镜中照人，照出的不是面孔，是三日之后。窥过的人多半不言语，默默将镜子盖了起来。",
+  "icon": "fb_jing_3"
+ },
+ {
+  "id": "fb_mu_yin",
+  "name": "木印",
+  "tier": 0,
+  "kind": "yin",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "山野道人的桃木小印，落在黄纸上，印痕歪斜。主顾也不嫌，要的本就是那一下。",
+  "icon": "fb_yin_1"
+ },
+ {
+  "id": "fb_shi_yin",
+  "name": "石印",
+  "tier": 0,
+  "kind": "yin",
+  "qi": "tu",
+  "source": "原创",
+  "flavor": "一块被石匠凿坏的料子，没人肯要，后落到修士手里，压了十年卷轴，倒压出几分书卷气。",
+  "icon": "fb_yin_1"
+ },
+ {
+  "id": "fb_tong_yin",
+  "name": "铜印",
+  "tier": 1,
+  "kind": "yin",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "仿官印刻成的小铜印，盖上符纸，朱砂便深出三分。此事若叫官府知晓，是要杀头的。",
+  "icon": "fb_yin_1"
+ },
+ {
+  "id": "fb_yu_yin",
+  "name": "玉印",
+  "tier": 1,
+  "kind": "yin",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "印底一字，无人识得，有说是名，有说是咒。持印之人，从不追问。",
+  "icon": "fb_yin_1"
+ },
+ {
+  "id": "fb_fu_mo_yin",
+  "name": "伏魔印",
+  "tier": 2,
+  "kind": "yin",
+  "qi": "fo",
+  "source": "原创",
+  "flavor": "佛门流传的小印，印面镌梵文。价钱不贵，寻常修士都买得起，多半拿来压纸。",
+  "icon": "fb_yin_2"
+ },
+ {
+  "id": "fb_wu_yue_yin",
+  "name": "五岳印",
+  "tier": 2,
+  "kind": "yin",
+  "qi": "tu",
+  "source": "原创",
+  "flavor": "五座大山缩作一方小印，不过拇指大，压在掌心，仍有山的分量。主人说，夜里不敢将它放在床头。",
+  "icon": "fb_yin_2"
+ },
+ {
+  "id": "fb_huang_ting_yin",
+  "name": "黄庭印",
+  "tier": 2,
+  "kind": "yin",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "印面刻着黄庭经中一行小字，按在额上，一线凉意自眉心直落丹田。清修道士用它，印泥只取朱砂。",
+  "icon": "fb_yin_2"
+ },
+ {
+  "id": "fb_zhen_yue_yin",
+  "name": "镇岳印",
+  "tier": 2,
+  "kind": "yin",
+  "qi": "tu",
+  "source": "原创",
+  "flavor": "印底沾着山泥，入手便往下坠。持印之人，走起路来，总有些弓背。",
+  "icon": "fb_yin_2"
+ },
+ {
+  "id": "fb_shan_he_yin",
+  "name": "山河印",
+  "tier": 2,
+  "kind": "yin",
+  "qi": "tu",
+  "source": "原创",
+  "flavor": "印底镌一幅袖珍山水，凑近细看，村舍有炊烟。主人说，那里头有个村子，几百年无人到过。",
+  "icon": "fb_yin_2"
+ },
+ {
+  "id": "fb_yin_yang_yin",
+  "name": "阴阳印",
+  "tier": 2,
+  "kind": "yin",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "印身一面白，一面黑，交界处裂着一线极细的缝。据说自缝中往里窥，什么也看不见。",
+  "icon": "fb_yin_2"
+ },
+ {
+  "id": "fb_wan_xiang_yin",
+  "name": "万象印",
+  "tier": 4,
+  "kind": "yin",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "印面光滑如镜，盖一回，显一回不同的字。无人见它盖出过两个相同的印。",
+  "icon": "fb_yin_3"
+ },
+ {
+  "id": "fb_fan_tian_yin",
+  "name": "番天印",
+  "tier": 4,
+  "kind": "yin",
+  "qi": "qing",
+  "source": "封神演义",
+  "flavor": "广成子所炼之印，握在手中不过巴掌大小，落下来却有一座山的分量。挨过它的人，再不肯提它的名字。",
+  "icon": "fb_yin_3"
+ },
+ {
+  "id": "fb_kong_dong_yin",
+  "name": "崆峒印",
+  "tier": 5,
+  "kind": "yin",
+  "qi": "qing",
+  "source": "神话传说",
+  "flavor": "上古神器榜上有名，印面的字早已无人认得，只传说它落下去，压过一座山。",
+  "icon": "fb_yin_3"
+ },
+ {
+  "id": "fb_tong_zhong",
+  "name": "铜钟",
+  "tier": 0,
+  "kind": "zhong",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "寺中小沙弥日日敲它，一敲十年，钟壁上留下一个拇指大的凹痕。",
+  "icon": "fb_zhong_1"
+ },
+ {
+  "id": "fb_tie_zhong",
+  "name": "铁钟",
+  "tier": 0,
+  "kind": "zhong",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "守夜人把它悬在更棚底下。一声闷响，满镇的狗都醒了。",
+  "icon": "fb_zhong_1"
+ },
+ {
+  "id": "fb_chen_zhong",
+  "name": "晨钟",
+  "tier": 1,
+  "kind": "zhong",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "山门每日卯时，钟响三声。有个弟子一年里不曾睡过懒觉，后来才知，他是根本没睡着。",
+  "icon": "fb_zhong_1"
+ },
+ {
+  "id": "fb_bian_zhong",
+  "name": "编钟",
+  "tier": 1,
+  "kind": "zhong",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "十二口钟同悬一架，长短不一。小弟子敲错一口，满山飞鸟俱停。",
+  "icon": "fb_zhong_1"
+ },
+ {
+  "id": "fb_fan_yin_zhong",
+  "name": "梵音钟",
+  "tier": 2,
+  "kind": "zhong",
+  "qi": "fo",
+  "source": "原创",
+  "flavor": "钟声中有梵唱，魔修闻之心烦，正道闻之安稳。守钟和尚却说，那不过是听者心里有事无事。",
+  "icon": "fb_zhong_2"
+ },
+ {
+  "id": "fb_zhi_ge_zhong",
+  "name": "止戈钟",
+  "tier": 2,
+  "kind": "zhong",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "前朝高僧欲止刀兵，炼了此钟。一声敲下，兵卒尽数丢刀；他自己当夜圆寂，钟留在了世上。",
+  "icon": "fb_zhong_2"
+ },
+ {
+  "id": "fb_zhen_tian_zhong",
+  "name": "震天钟",
+  "tier": 2,
+  "kind": "zhong",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "钟无名姓，钟口只铸着一圈细字，大意是：既已响了，便莫问是谁敲的。",
+  "icon": "fb_zhong_2"
+ },
+ {
+  "id": "fb_zhen_hun_zhong",
+  "name": "镇魂钟",
+  "tier": 2,
+  "kind": "zhong",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "钟声一起，坟头草尽数伏倒。守墓人说，它不是吓鬼的，是哄鬼睡觉的。",
+  "icon": "fb_zhong_2"
+ },
+ {
+  "id": "fb_jin_nao",
+  "name": "金铙",
+  "tier": 3,
+  "kind": "zhong",
+  "qi": "qing",
+  "source": "西游记",
+  "flavor": "黄眉怪有一对金铙，合拢便是一口钟。便是孙悟空被扣在里头，一时也寻不到出路。",
+  "icon": "fb_zhong_2"
+ },
+ {
+  "id": "fb_feng_shan_jiu_zhong",
+  "name": "丰山九钟",
+  "tier": 3,
+  "kind": "zhong",
+  "qi": "tu",
+  "source": "山海经",
+  "flavor": "丰山有九口钟，山间一落霜，钟便自鸣。古书上提过一笔，却无人去验证。",
+  "icon": "fb_zhong_2"
+ },
+ {
+  "id": "fb_hong_huang_zhong",
+  "name": "洪荒钟",
+  "tier": 4,
+  "kind": "zhong",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "钟上符文，无人认得全。一敲之下，满山的石头都跟着震了一震。",
+  "icon": "fb_zhong_3"
+ },
+ {
+  "id": "fb_jiu_long_shen_huo_zhao",
+  "name": "九龙神火罩",
+  "tier": 4,
+  "kind": "zhong",
+  "qi": "huo",
+  "source": "封神演义",
+  "flavor": "太乙真人以此罩扣住石矶娘娘，罩一揭开，地上只留一块顽石。",
+  "icon": "fb_zhong_3"
+ },
+ {
+  "id": "fb_dong_huang_zhong",
+  "name": "东皇钟",
+  "tier": 5,
+  "kind": "zhong",
+  "qi": "qing",
+  "source": "神话传说",
+  "flavor": "钟的传闻，比钟本身更老。它响过几回，没人说得清，只知每响一回，世上便少些什么。",
+  "icon": "fb_zhong_3"
+ },
+ {
+  "id": "fb_tong_yao_lu",
+  "name": "铜药炉",
+  "tier": 0,
+  "kind": "ding",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "老炉在药铺里煎药，铜壁熏得乌黑。掌柜说，这炉里煎过的方子，写出来能成一本书。",
+  "icon": "fb_ding_1"
+ },
+ {
+  "id": "fb_tie_dan_lu",
+  "name": "铁丹炉",
+  "tier": 0,
+  "kind": "ding",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "前人炼废的药渣糊在炉壁，新入门的弟子不许刮，规矩如此。",
+  "icon": "fb_ding_1"
+ },
+ {
+  "id": "fb_zi_tong_ding",
+  "name": "紫铜鼎",
+  "tier": 1,
+  "kind": "ding",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "炼丹人睡着了，鼎里的药也不曾糊，火候温吞如此。老炼丹师说，这是个好脾气的东西。",
+  "icon": "fb_ding_1"
+ },
+ {
+  "id": "fb_qing_tong_ding",
+  "name": "青铜鼎",
+  "tier": 1,
+  "kind": "ding",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "三足两耳，鼎腹纹路已磨去一半。不知出自哪朝古墓，坊市掌柜说，里头还留着土腥气。",
+  "icon": "fb_ding_1"
+ },
+ {
+  "id": "fb_yun_wen_fang_ding",
+  "name": "云纹方鼎",
+  "tier": 2,
+  "kind": "ding",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "炼丹师傅最爱此鼎，鼎耳摩挲得发亮。他说，换了别的鼎，火就不听使唤。",
+  "icon": "fb_ding_2"
+ },
+ {
+  "id": "fb_bai_lian_lu",
+  "name": "百炼炉",
+  "tier": 2,
+  "kind": "ding",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "锤痕一圈叠一圈，布满炉壁。炼器师说，每一道，都是他当年少睡的一觉。",
+  "icon": "fb_ding_2"
+ },
+ {
+  "id": "fb_lian_gu_ding",
+  "name": "炼骨鼎",
+  "tier": 2,
+  "kind": "ding",
+  "qi": "mo",
+  "source": "原创",
+  "flavor": "鼎中煮的是枯骨，熬出满锅腥气。魔修闭门而炼，邻人只知，近来城里的狗少了。",
+  "icon": "fb_ding_2"
+ },
+ {
+  "id": "fb_di_huo_ding",
+  "name": "地火鼎",
+  "tier": 2,
+  "kind": "ding",
+  "qi": "huo",
+  "source": "原创",
+  "flavor": "鼎底接着一条看不见的火脉，炼丹之人不敢离身，生怕一转身，火就沿袖口爬了上来。",
+  "icon": "fb_ding_2"
+ },
+ {
+  "id": "fb_zi_jin_lu",
+  "name": "紫金炉",
+  "tier": 2,
+  "kind": "ding",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "炉壁天生云纹，炼出的丹粒粒浑圆。老炼丹修士说，是炉子替他挑的。",
+  "icon": "fb_ding_2"
+ },
+ {
+  "id": "fb_shen_mu_wang_ding",
+  "name": "神木王鼎",
+  "tier": 3,
+  "kind": "ding",
+  "qi": "mu",
+  "source": "天龙八部",
+  "flavor": "星宿派丁春秋随身的家当。鼎里香烟一起，毒虫便循着味道爬来，伏在鼎旁。",
+  "icon": "fb_ding_2"
+ },
+ {
+  "id": "fb_ba_gua_lu",
+  "name": "八卦炉",
+  "tier": 4,
+  "kind": "ding",
+  "qi": "qing",
+  "source": "西游记",
+  "flavor": "此乃太上老君炼丹之炉，八卦纹生在炉脚着地处。孙悟空在炉中躲了四十九日，出来时，两眼通红。",
+  "icon": "fb_ding_3"
+ },
+ {
+  "id": "fb_xu_tian_ding",
+  "name": "虚天鼎",
+  "tier": 4,
+  "kind": "ding",
+  "qi": "qing",
+  "source": "凡人修仙传",
+  "flavor": "此鼎出于乱星海虚天殿，纹路斑驳。当年各路修士为争它，在殿里斗得难解难分。",
+  "icon": "fb_ding_3"
+ },
+ {
+  "id": "fb_yu_wang_jiu_ding",
+  "name": "禹王九鼎",
+  "tier": 4,
+  "kind": "ding",
+  "qi": "qing",
+  "source": "神话传说",
+  "flavor": "九州各献一份金，铸成一鼎，鼎上铭山川鸟兽。后世的王，都想把它搬回自家宗庙。",
+  "icon": "fb_ding_3"
+ },
+ {
+  "id": "fb_hun_yuan_jin_dou",
+  "name": "混元金斗",
+  "tier": 4,
+  "kind": "ding",
+  "qi": "qing",
+  "source": "封神演义",
+  "flavor": "三霄姐妹摆黄河阵，云霄娘娘的混元金斗便是压阵之物。金斗罩下，对头的神通即不听使唤。",
+  "icon": "fb_ding_3"
+ },
+ {
+  "id": "fb_shen_nong_ding",
+  "name": "神农鼎",
+  "tier": 5,
+  "kind": "ding",
+  "qi": "qing",
+  "source": "神话传说",
+  "flavor": "神农尝遍百草，一日之间，遇上七十种毒。这鼎里煮着的，是他替天下人先吃的苦。",
+  "icon": "fb_ding_3"
+ },
+ {
+  "id": "fb_wan_wu_mu_qi_ding",
+  "name": "万物母气鼎",
+  "tier": 5,
+  "kind": "ding",
+  "qi": "qing",
+  "source": "遮天",
+  "flavor": "叶凡一路随身的帝兵。传说鼎中存着万物初生时的第一缕气，却无人亲眼见过。",
+  "icon": "fb_ding_3"
+ },
+ {
+  "id": "fb_jiu_hu_lu",
+  "name": "酒葫芦",
+  "tier": 0,
+  "kind": "hulu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "葫芦嘴早磨光了，红绳拴着塞子。每喝到最后一口，总要留出一点，洒向地上。",
+  "icon": "fb_hulu_1"
+ },
+ {
+  "id": "fb_yao_hu_lu",
+  "name": "药葫芦",
+  "tier": 0,
+  "kind": "hulu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "走方郎中挂在腰间，塞子拿旧布条缠成。他说闻惯了这气味，反倒睡得更香。",
+  "icon": "fb_hulu_1"
+ },
+ {
+  "id": "fb_kong_xin_hu_lu",
+  "name": "空心葫芦",
+  "tier": 0,
+  "kind": "hulu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "葫芦晒干，一摇便听见里头籽粒沙沙。酒鬼用到后来，里面装着的，只剩一点酒香。",
+  "icon": "fb_hulu_1"
+ },
+ {
+  "id": "fb_qing_pi_hu_lu",
+  "name": "青皮葫芦",
+  "tier": 1,
+  "kind": "hulu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "青皮光润，内存几滴灵泉。散修系在腰间，饮酒之时，也舍不得往里倒一滴。",
+  "icon": "fb_hulu_1"
+ },
+ {
+  "id": "fb_cang_ling_hu",
+  "name": "藏灵壶",
+  "tier": 1,
+  "kind": "hulu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "壶嘴细，塞子是软木。老药师说，灵气如同脾气，须得一点一点地倒。",
+  "icon": "fb_hulu_1"
+ },
+ {
+  "id": "fb_wu_se_hu_lu",
+  "name": "五色葫芦",
+  "tier": 2,
+  "kind": "hulu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "老藤结过五只葫芦，被主人亲手剪去四只。他说，命里只许有一个。",
+  "icon": "fb_hulu_2"
+ },
+ {
+  "id": "fb_tun_yun_hu_lu",
+  "name": "吞云葫芦",
+  "tier": 2,
+  "kind": "hulu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "吞进去的云在里头不散，摇一摇，便闻雨声。葫芦主人从不拔塞，说是怕淋湿。",
+  "icon": "fb_hulu_2"
+ },
+ {
+  "id": "fb_yu_hu",
+  "name": "玉壶",
+  "tier": 2,
+  "kind": "hulu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "青玉小壶，雕工精巧，里头装得下一冬的粮。有个修士塞满之后，到开春却忘了，被同门笑话了三年。",
+  "icon": "fb_hulu_2"
+ },
+ {
+  "id": "fb_tie_guai_hu_lu",
+  "name": "铁拐葫芦",
+  "tier": 3,
+  "kind": "hulu",
+  "qi": "qing",
+  "source": "神话传说",
+  "flavor": "铁拐李葫芦中盛着救人的药。他自己倚杖而行，药却常赠给素不相识的人。",
+  "icon": "fb_hulu_2"
+ },
+ {
+  "id": "fb_qian_kun_hu",
+  "name": "乾坤壶",
+  "tier": 3,
+  "kind": "hulu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "壶口不过拇指粗细，却容得下一座山。有人往里倒水，倒了三天也没倒满，自己反倒渴了。",
+  "icon": "fb_hulu_2"
+ },
+ {
+  "id": "fb_qing_jing_liu_li_ping",
+  "name": "清净琉璃瓶",
+  "tier": 4,
+  "kind": "hulu",
+  "qi": "qing",
+  "source": "封神演义",
+  "flavor": "慈航道人瓶中所盛，是一汪看去再寻常不过的水。倒出之前，他先叹了一口气。",
+  "icon": "fb_hulu_3"
+ },
+ {
+  "id": "fb_yang_zhi_yu_jing_ping",
+  "name": "羊脂玉净瓶",
+  "tier": 4,
+  "kind": "hulu",
+  "qi": "qing",
+  "source": "西游记",
+  "flavor": "观音之瓶，内插杨柳一枝。五庄观里那棵枯死的树，便是被它救活的。",
+  "icon": "fb_hulu_3"
+ },
+ {
+  "id": "fb_zi_jin_hong_hu_lu",
+  "name": "紫金红葫芦",
+  "tier": 5,
+  "kind": "hulu",
+  "qi": "qing",
+  "source": "西游记",
+  "flavor": "金角银角借它收人：山头上喊你一声，你若答应，就进了葫芦，化作一滩脓水。",
+  "icon": "fb_hulu_3"
+ },
+ {
+  "id": "fb_ye_ming_zhu",
+  "name": "夜明珠",
+  "tier": 1,
+  "kind": "zhu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "富人悬在厅上炫耀，修士揣在怀中照路。同是一颗珠子，各人看见的东西，并不一样。",
+  "icon": "fb_zhu_1"
+ },
+ {
+  "id": "fb_han_yu_zhu",
+  "name": "寒玉珠",
+  "tier": 1,
+  "kind": "zhu",
+  "qi": "bing",
+  "source": "原创",
+  "flavor": "贴在心口，盛夏最是舒服，隆冬最是难熬。修士佩了好几年，才习惯了这份凉意。",
+  "icon": "fb_zhu_1"
+ },
+ {
+  "id": "fb_liu_li_zhu",
+  "name": "琉璃珠",
+  "tier": 0,
+  "kind": "zhu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "孩童在石板上弹它，叮叮当当，滚到墙角。有一颗滚进修士的鞋里，再没拿回去。",
+  "icon": "fb_zhu_1"
+ },
+ {
+  "id": "fb_gu_zhu",
+  "name": "骨珠",
+  "tier": 0,
+  "kind": "zhu",
+  "qi": "mo",
+  "source": "原创",
+  "flavor": "山中巫师把玩一串，颗颗磨得发亮，各裂一道细纹。巫师说，裂一道，便有一个死人开过口。",
+  "icon": "fb_zhu_1"
+ },
+ {
+  "id": "fb_bi_shui_zhu",
+  "name": "避水珠",
+  "tier": 2,
+  "kind": "zhu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "渡海的老船工，颈上都挂着一颗，珠中有一点青。出海之前，他先摸上三遍，才敢解缆。",
+  "icon": "fb_zhu_2"
+ },
+ {
+  "id": "fb_wu_xing_zhu",
+  "name": "五行珠",
+  "tier": 2,
+  "kind": "zhu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "旧荷包里装着五色小珠。主人一抖，哗啦滚了满地，各自奔向各自的方位。",
+  "icon": "fb_zhu_2"
+ },
+ {
+  "id": "fb_yue_hua_zhu",
+  "name": "月华珠",
+  "tier": 2,
+  "kind": "zhu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "夜里搁在窗台，天亮时，珠面总凝一层细霜。修阴柔功法的女修，将它贴在心口过夜。",
+  "icon": "fb_zhu_2"
+ },
+ {
+  "id": "fb_she_hun_zhu",
+  "name": "摄魂珠",
+  "tier": 3,
+  "kind": "zhu",
+  "qi": "mo",
+  "source": "原创",
+  "flavor": "珠中之魂，个个有名有姓。夜里能听见它们彼此呼唤；持珠人自己的名字，渐渐没人叫了。",
+  "icon": "fb_zhu_2"
+ },
+ {
+  "id": "fb_zi_dian_zhu",
+  "name": "紫电珠",
+  "tier": 3,
+  "kind": "zhu",
+  "qi": "lei",
+  "source": "原创",
+  "flavor": "珠中困着一道雷，对光看去，有紫色的蛇在里头游走。收藏之人，从来不敢摇它。",
+  "icon": "fb_zhu_2"
+ },
+ {
+  "id": "fb_lei_yin_zhu",
+  "name": "雷音珠",
+  "tier": 3,
+  "kind": "zhu",
+  "qi": "lei",
+  "source": "原创",
+  "flavor": "袖中珠子轻轻一磕，远处山雀尽数惊飞。常拿它的人，手腕终年发麻。",
+  "icon": "fb_zhu_2"
+ },
+ {
+  "id": "fb_long_hun_zhu",
+  "name": "龙魂珠",
+  "tier": 4,
+  "kind": "zhu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "珠心一缕金红，如龙沉睡。持珠之人所过的山路，野兽都自己让开了。",
+  "icon": "fb_zhu_3"
+ },
+ {
+  "id": "fb_ding_hai_zhu",
+  "name": "定海珠",
+  "tier": 5,
+  "kind": "zhu",
+  "qi": "qing",
+  "source": "封神演义",
+  "flavor": "赵公明用过的定海珠，共二十四颗，后来落入燃灯道人之手。传说颗颗没入水中，海面都要静上一静。",
+  "icon": "fb_zhu_3"
+ },
+ {
+  "id": "fb_tian_ni_zhu",
+  "name": "天逆珠",
+  "tier": 5,
+  "kind": "zhu",
+  "qi": "qing",
+  "source": "仙逆",
+  "flavor": "一颗灰扑扑的珠子，是王林少年时偶然得来的，揣入怀中，一揣便是一生。",
+  "icon": "fb_zhu_3"
+ },
+ {
+  "id": "fb_zhao_hun_fan",
+  "name": "招魂幡",
+  "tier": 1,
+  "kind": "fan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "白布黑墨，一摇之下，风里有人叹息。邪道入门，多半便从这样一面幡开始。",
+  "icon": "fb_fan_1"
+ },
+ {
+  "id": "fb_qing_long_qi",
+  "name": "青龙旗",
+  "tier": 1,
+  "kind": "fan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "四象旗阵中，头一个丢的便是这面。余下三面凑不成阵，只得卖给过路修士。",
+  "icon": "fb_fan_1"
+ },
+ {
+  "id": "fb_xuan_wu_qi",
+  "name": "玄武旗",
+  "tier": 1,
+  "kind": "fan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "立在帐前，帐外便起一层薄薄水雾。这面本属四象旗阵，单拿出来，旗上龟蛇都显得有些委屈。",
+  "icon": "fb_fan_1"
+ },
+ {
+  "id": "fb_za_mu_zhen_qi",
+  "name": "杂木阵旗",
+  "tier": 0,
+  "kind": "fan",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "旗有五面，杆是五种木头，刀痕深浅各异。都是散修亲手削的，从不外借。",
+  "icon": "fb_fan_1"
+ },
+ {
+  "id": "fb_bu_zhen_xiao_qi",
+  "name": "布阵小旗",
+  "tier": 0,
+  "kind": "fan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "十二面小旗，颜色褪作灰白，其中一面，角上补过一块。是哪位师兄练阵时烧坏的，无人记得了。",
+  "icon": "fb_fan_1"
+ },
+ {
+  "id": "fb_wu_yue_ling_qi",
+  "name": "五岳令旗",
+  "tier": 2,
+  "kind": "fan",
+  "qi": "tu",
+  "source": "笑傲江湖",
+  "flavor": "左冷禅任五岳盟主之时，这面旗一展，各派掌门脸上，都不大好看。",
+  "icon": "fb_fan_2"
+ },
+ {
+  "id": "fb_yin_hun_fan",
+  "name": "引魂幡",
+  "tier": 2,
+  "kind": "fan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "幡一抖，路上野魂循声而至。魔修自己从不立于幡下，只怕哪一天，它认错了人。",
+  "icon": "fb_fan_2"
+ },
+ {
+  "id": "fb_bai_gu_fan",
+  "name": "白骨幡",
+  "tier": 2,
+  "kind": "fan",
+  "qi": "mo",
+  "source": "原创",
+  "flavor": "幡杆上的骨头，出自同一个人。他生前，偏爱站在背阴处。",
+  "icon": "fb_fan_2"
+ },
+ {
+  "id": "fb_ju_ling_qi",
+  "name": "聚灵旗",
+  "tier": 2,
+  "kind": "fan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "旗面向内，四角各立一面，围着洞府。灵气聚来那夜，修士睡得前所未有地沉。",
+  "icon": "fb_fan_2"
+ },
+ {
+  "id": "fb_wan_hun_fan",
+  "name": "万魂幡",
+  "tier": 3,
+  "kind": "fan",
+  "qi": "mo",
+  "source": "原创",
+  "flavor": "幡面一抖，内中有人哭泣。那哭声里，有一半是它上一任主人。",
+  "icon": "fb_fan_2"
+ },
+ {
+  "id": "fb_xing_chen_fan",
+  "name": "星辰幡",
+  "tier": 3,
+  "kind": "fan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "夜里展开幡面，缀着的银点，恰与天上星辰一一相合。布阵者先要仰首认星，认错一颗，阵便歪斜。",
+  "icon": "fb_fan_2"
+ },
+ {
+  "id": "fb_hun_tian_ling",
+  "name": "混天绫",
+  "tier": 5,
+  "kind": "fan",
+  "qi": "qing",
+  "source": "封神演义",
+  "flavor": "哪吒拿它在东海边沐浴，搅得海水翻了底，龙宫里杯盘滚落满地。",
+  "icon": "fb_fan_3"
+ },
+ {
+  "id": "fb_jiu_you_fan",
+  "name": "九幽幡",
+  "tier": 4,
+  "kind": "fan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "幡一展，阴风里先是一声叹息，继而是一千声。持幡的人夜里不敢睡，怕幡自己说起梦话。",
+  "icon": "fb_fan_3"
+ },
+ {
+  "id": "fb_mi_chen_fan",
+  "name": "弥尘幡",
+  "tier": 4,
+  "kind": "fan",
+  "qi": "qing",
+  "source": "蜀山剑侠传",
+  "flavor": "此为蜀山旧物，幡面一展，尘雾四起，滚滚翻涌，连持幡人也辨不清脚下。",
+  "icon": "fb_fan_3"
+ },
+ {
+  "id": "fb_xing_huang_qi",
+  "name": "杏黄旗",
+  "tier": 5,
+  "kind": "fan",
+  "qi": "qing",
+  "source": "封神演义",
+  "flavor": "旗不大，杏黄一面，展开时金花朵朵，托起一座莲台。当日元始天尊将它交与姜子牙，什么话也没多说。",
+  "icon": "fb_fan_3"
+ },
+ {
+  "id": "fb_pan_gu_fan",
+  "name": "盘古幡",
+  "tier": 5,
+  "kind": "fan",
+  "qi": "qing",
+  "source": "封神演义",
+  "flavor": "此为元始天尊至宝，幡面一展，混沌便裂出一线。握住幡杆是什么滋味，无人敢说。",
+  "icon": "fb_fan_3"
+ },
+ {
+  "id": "fb_ni_ta",
+  "name": "泥胎小塔",
+  "tier": 0,
+  "kind": "ta",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "孩童捏的小塔，歪向一边，指印还留在上头。晒干后摆上窗台，逢雨天，自己便塌了。",
+  "icon": "fb_ta_1"
+ },
+ {
+  "id": "fb_tie_ta",
+  "name": "铁塔",
+  "tier": 0,
+  "kind": "ta",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "老妪把巴掌高的铁塔压在孙子枕边，孩子夜里便不再啼哭，只说塔里住着个更凶的。",
+  "icon": "fb_ta_1"
+ },
+ {
+  "id": "fb_hei_shi_ta",
+  "name": "黑石塔",
+  "tier": 1,
+  "kind": "ta",
+  "qi": "tu",
+  "source": "原创",
+  "flavor": "散修把它摆在洞府门口。小妖路过，无不多看两眼，再绕道走开。",
+  "icon": "fb_ta_1"
+ },
+ {
+  "id": "fb_qing_tong_xiao_ta",
+  "name": "青铜小塔",
+  "tier": 1,
+  "kind": "ta",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "小塔三层，檐角各悬一铃。其中一枚铃舌已断，响起来，总缺半个音。",
+  "icon": "fb_ta_1"
+ },
+ {
+  "id": "fb_liu_li_ta",
+  "name": "琉璃塔",
+  "tier": 2,
+  "kind": "ta",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "塔里一团光，缓缓转着，转了不知多少年。持塔的人夜里放在枕畔，一觉睡得很沉。",
+  "icon": "fb_ta_2"
+ },
+ {
+  "id": "fb_she_li_ta",
+  "name": "舍利塔",
+  "tier": 2,
+  "kind": "ta",
+  "qi": "fo",
+  "source": "原创",
+  "flavor": "一粒舍利供在塔中，白如米粒。魔修靠近三丈，便心烦意乱；小孩走近，反倒睡得香。",
+  "icon": "fb_ta_2"
+ },
+ {
+  "id": "fb_fu_tu_ta",
+  "name": "浮屠塔",
+  "tier": 2,
+  "kind": "ta",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "塔高七级，一层刻一部经。最底下那层是一篇忏悔文，没有署名。",
+  "icon": "fb_ta_2"
+ },
+ {
+  "id": "fb_qi_bao_ta",
+  "name": "七宝塔",
+  "tier": 3,
+  "kind": "ta",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "塔身嵌着七样宝石，样样不假。守塔和尚说，此塔镇的是妖，更镇的，是看塔人心里那点贪念。",
+  "icon": "fb_ta_2"
+ },
+ {
+  "id": "fb_zhen_yao_ta",
+  "name": "镇妖塔",
+  "tier": 3,
+  "kind": "ta",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "老守塔人说，他数了三十年，塔下每夜敲的次数，没有一回相同。今夜，怕是有些不对。",
+  "icon": "fb_ta_2"
+ },
+ {
+  "id": "fb_wu_xing_ta",
+  "name": "五行塔",
+  "tier": 3,
+  "kind": "ta",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "塔分金木水火土五层，层层一门，门朝各异。走错一层的人，出来之后，看谁都觉得年轻。",
+  "icon": "fb_ta_2"
+ },
+ {
+  "id": "fb_jiu_ceng_yao_ta",
+  "name": "九层妖塔",
+  "tier": 3,
+  "kind": "ta",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "走进塔去的人，出来的不多。守门老头把每一个都记着，据说，他一直在数。",
+  "icon": "fb_ta_2"
+ },
+ {
+  "id": "fb_tong_tian_ta",
+  "name": "通天塔",
+  "tier": 4,
+  "kind": "ta",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "塔尖没入云中，没人量过它有多高。有个工匠砌了四十年，砌到最后一层，却说自己从头到尾，不曾望见塔顶。",
+  "icon": "fb_ta_3"
+ },
+ {
+  "id": "fb_ling_long_ta",
+  "name": "玲珑塔",
+  "tier": 4,
+  "kind": "ta",
+  "qi": "qing",
+  "source": "封神演义",
+  "flavor": "李靖手托此塔，神色并不轻松。燃灯道人把它赐下，为的是叫他管教自己的儿子。",
+  "icon": "fb_ta_3"
+ },
+ {
+  "id": "fb_tong_mu_qin",
+  "name": "桐木琴",
+  "tier": 0,
+  "kind": "qin",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "他弹琴手艺平平，音也不准。每夜一曲弹罢，邻家的婴孩便止了哭。",
+  "icon": "fb_qin_1"
+ },
+ {
+  "id": "fb_zhu_zheng",
+  "name": "竹筝",
+  "tier": 0,
+  "kind": "qin",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "竹筝一具，声清而脆。筝尾刻着一个极小的名字，是制筝人的，还是弹筝人的，已无从分辨。",
+  "icon": "fb_qin_1"
+ },
+ {
+  "id": "fb_liu_shui_qin",
+  "name": "流水琴",
+  "tier": 1,
+  "kind": "qin",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "琴身木理如水纹一道。弹至缓处，窗外真似有一条溪水，绕屋而过。",
+  "icon": "fb_qin_1"
+ },
+ {
+  "id": "fb_yao_qin",
+  "name": "瑶琴",
+  "tier": 1,
+  "kind": "qin",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "本是大户小姐的琴，弦细音清。修士借去调息，归还那日，琴上已少了一根弦。",
+  "icon": "fb_qin_1"
+ },
+ {
+  "id": "fb_ku_tong_qin",
+  "name": "枯桐琴",
+  "tier": 2,
+  "kind": "qin",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "桐木遭雷劈焦，琴身漆黑一片。弹出的声音却清，如同把焦味都还给了天。",
+  "icon": "fb_qin_2"
+ },
+ {
+  "id": "fb_han_tan_qin",
+  "name": "寒潭琴",
+  "tier": 2,
+  "kind": "qin",
+  "qi": "bing",
+  "source": "原创",
+  "flavor": "自潭底捞起时，琴上缠满水草，断了三根弦。接好之后头一声弹出，水汽先扑了弹琴人满脸。",
+  "icon": "fb_qin_2"
+ },
+ {
+  "id": "fb_kong_hou",
+  "name": "箜篌",
+  "tier": 2,
+  "kind": "qin",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "奏的是前朝旧调，音韵古奥。听者回过神来，才发觉半个时辰已过。",
+  "icon": "fb_qin_2"
+ },
+ {
+  "id": "fb_ling_xi_qin",
+  "name": "灵犀琴",
+  "tier": 3,
+  "kind": "qin",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "弦弦相通，弹者心中所想，听者心头先乱。老琴师说，这琴不会弹，只会问。",
+  "icon": "fb_qin_2"
+ },
+ {
+  "id": "fb_jiu_you_qin",
+  "name": "九幽琴",
+  "tier": 3,
+  "kind": "qin",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "琴弦以人发搓成。弹琴者双目发直，听琴者也一样。",
+  "icon": "fb_qin_2"
+ },
+ {
+  "id": "fb_she_po_qin",
+  "name": "摄魄琴",
+  "tier": 3,
+  "kind": "qin",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "七弦各系一魄。轻轻一拨，听者目光发直；重重一拨，弦下传说有人在哭。",
+  "icon": "fb_qin_2"
+ },
+ {
+  "id": "fb_huang_zhong_gong_qi_xian_qin",
+  "name": "黄钟公七弦琴",
+  "tier": 3,
+  "kind": "qin",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "此乃梅庄黄钟公心爱之物。琴音一起，听者先是静下来，而后渐渐难受。",
+  "icon": "fb_qin_2"
+ },
+ {
+  "id": "fb_bi_yu_pi_pa",
+  "name": "碧玉琵琶",
+  "tier": 3,
+  "kind": "qin",
+  "qi": "qing",
+  "source": "封神演义",
+  "flavor": "魔礼海是魔家四将之一，怀抱碧玉琵琶，一拨弦，地水火风四象并动。他弹得极认真，倒像在哄谁睡觉。",
+  "icon": "fb_qin_2"
+ },
+ {
+  "id": "fb_tian_lai_qin",
+  "name": "天籁琴",
+  "tier": 4,
+  "kind": "qin",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "一曲终了，山中百兽伏地，飞鸟盘旋不肯落下。弹琴之人早已去得无踪，琴仍摆在原处。",
+  "icon": "fb_qin_3"
+ },
+ {
+  "id": "fb_fu_xi_qin",
+  "name": "伏羲琴",
+  "tier": 4,
+  "kind": "qin",
+  "qi": "qing",
+  "source": "神话传说",
+  "flavor": "琴以桐木削成，传闻伏羲曾借它引天地之气。通身无漆，木纹间裂开一道缝，缝中暗藏雷声。",
+  "icon": "fb_qin_3"
+ },
+ {
+  "id": "fb_niu_pi_bian",
+  "name": "牛皮鞭",
+  "tier": 0,
+  "kind": "bian",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "鞭梢开了叉，牲口贩子仍舍不得换，这一攥便是半辈子。",
+  "icon": "fb_bian_1"
+ },
+ {
+  "id": "fb_teng_bian",
+  "name": "藤鞭",
+  "tier": 0,
+  "kind": "bian",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "山藤编成，挂在采药人腰间。它赶过狼，也抽过不听话的驴。",
+  "icon": "fb_bian_1"
+ },
+ {
+  "id": "fb_ma_sheng_bian",
+  "name": "桐油索鞭",
+  "tier": 0,
+  "kind": "bian",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "桐油味渗进了绳里，怎么也散不掉。牛挨过，贼挨过，想偷懒的徒弟，也挨过一回。",
+  "icon": "fb_bian_1"
+ },
+ {
+  "id": "fb_tie_jie_bian",
+  "name": "铁节鞭",
+  "tier": 1,
+  "kind": "bian",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "江湖好手盘在腰间，走路时哗哗作响。有人说，那是故意的，响声本身也是一件兵器。",
+  "icon": "fb_bian_1"
+ },
+ {
+  "id": "fb_jiu_jie_bian",
+  "name": "九节鞭",
+  "tier": 1,
+  "kind": "bian",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "卖艺老汉靠一条九节钢鞭，在集市上挣饭钱，耍开来水泼不进，却没打伤过一个看客。",
+  "icon": "fb_bian_1"
+ },
+ {
+  "id": "fb_mang_jin_bian",
+  "name": "蟒筋鞭",
+  "tier": 2,
+  "kind": "bian",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "以蟒蛇之筋制成，油光水亮。挨一鞭，痕三日不褪；鞭梢吞吐，如蛇信一般。",
+  "icon": "fb_bian_2"
+ },
+ {
+  "id": "fb_xuan_she_bian",
+  "name": "玄蛇鞭",
+  "tier": 2,
+  "kind": "bian",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "鞭柄带毒，鞭身黑鳞遍布。持鞭人手上总缠着药布，嘴上说是旧伤，实则是被自己的鞭子咬的。",
+  "icon": "fb_bian_2"
+ },
+ {
+  "id": "fb_chi_lian_bian",
+  "name": "赤练鞭",
+  "tier": 2,
+  "kind": "bian",
+  "qi": "huo",
+  "source": "原创",
+  "flavor": "红线一缕，缠绕鞭梢。线是何人的发，没有人敢去问。",
+  "icon": "fb_bian_2"
+ },
+ {
+  "id": "fb_long_jin_bian",
+  "name": "龙筋鞭",
+  "tier": 3,
+  "kind": "bian",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "龙死后被抽了筋，又在伏天里晒足九日。握在手里，那筋还留着一点没死透的脾气。",
+  "icon": "fb_bian_2"
+ },
+ {
+  "id": "fb_qu_lei_bian",
+  "name": "驱雷鞭",
+  "tier": 3,
+  "kind": "bian",
+  "qi": "lei",
+  "source": "原创",
+  "flavor": "鞭梢一抖，雷声先至，电光未现。山中野兽听过一回，便再不走这条路。",
+  "icon": "fb_bian_2"
+ },
+ {
+  "id": "fb_fu_long_suo",
+  "name": "缚龙索",
+  "tier": 3,
+  "kind": "bian",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "绳头系一枚铜钱大小的龙鳞，是那龙被缚时自己褪下的，腥气犹在。",
+  "icon": "fb_bian_2"
+ },
+ {
+  "id": "fb_ci_xiong_shuang_bian",
+  "name": "雌雄双鞭",
+  "tier": 3,
+  "kind": "bian",
+  "qi": "qing",
+  "source": "封神演义",
+  "flavor": "闻太师跨墨麒麟，一雌一雄两条鞭，从不单使。鞭落之时，后一声，便是前一声的回音。",
+  "icon": "fb_bian_2"
+ },
+ {
+  "id": "fb_da_shen_bian",
+  "name": "打神鞭",
+  "tier": 5,
+  "kind": "bian",
+  "qi": "qing",
+  "source": "封神演义",
+  "flavor": "姜子牙奉元始天尊之命执此鞭，所打的是神，凡人不在其内。榜上有名者，无一能躲。",
+  "icon": "fb_bian_3"
+ },
+ {
+  "id": "fb_huang_jin_sheng",
+  "name": "幌金绳",
+  "tier": 4,
+  "kind": "bian",
+  "qi": "qing",
+  "source": "西游记",
+  "flavor": "此物原是老君勒袍的腰带，被看炉的童子偷下界去。用来捆人，无需打结，愈挣愈紧。",
+  "icon": "fb_bian_3"
+ },
+ {
+  "id": "fb_ru_yi_jin_gu_bang",
+  "name": "如意金箍棒",
+  "tier": 5,
+  "kind": "bian",
+  "qi": "qing",
+  "source": "西游记",
+  "flavor": "东海龙宫里的定海神针，当年大禹治水，拿它量过水的深浅。后来一只猴子将它扛走，缩成一枚绣花针，揣进耳朵里。",
+  "icon": "fb_bian_3"
+ },
+ {
+  "id": "fb_tong_huan",
+  "name": "铜环",
+  "tier": 0,
+  "kind": "huan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "货郎担上挂着铜环，叮当作响，原是用来换糖人的。孩子们不要糖，只要这环。",
+  "icon": "fb_huan_1"
+ },
+ {
+  "id": "fb_tie_quan",
+  "name": "铁飞环",
+  "tier": 0,
+  "kind": "huan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "铁匠铺里扔出的下脚料，经学徒磨光了边。玩着玩着，飞出去却准得很。",
+  "icon": "fb_huan_1"
+ },
+ {
+  "id": "fb_yin_huan",
+  "name": "银环",
+  "tier": 1,
+  "kind": "huan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "腕上套着银环，冰凉。练御物的人抛起再接，一抛便是一整天。",
+  "icon": "fb_huan_1"
+ },
+ {
+  "id": "fb_yu_huan",
+  "name": "玉环",
+  "tier": 1,
+  "kind": "huan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "白玉环戴得久了，与人身同一温度。传给女儿那日，母亲没有说话，只替她理了理袖口。",
+  "icon": "fb_huan_1"
+ },
+ {
+  "id": "fb_ri_yue_huan",
+  "name": "日月环",
+  "tier": 2,
+  "kind": "huan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "一金一银，分开时各亮各的。两环相击，旁人须闭眼，主人自己不必，早已惯了。",
+  "icon": "fb_huan_2"
+ },
+ {
+  "id": "fb_xuan_bing_huan",
+  "name": "玄冰环",
+  "tier": 2,
+  "kind": "huan",
+  "qi": "bing",
+  "source": "原创",
+  "flavor": "此环戴上，夏日里也不出一滴汗。匠人做环时，在内圈刻下一行小字：莫贪凉。",
+  "icon": "fb_huan_2"
+ },
+ {
+  "id": "fb_zi_wu_huan",
+  "name": "子午环",
+  "tier": 2,
+  "kind": "huan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "双环成对，一环在子，一环在午。女修近身缠斗，两环合拢，如同关上一道门。",
+  "icon": "fb_huan_2"
+ },
+ {
+  "id": "fb_jiu_zhuan_huan",
+  "name": "九转环",
+  "tier": 3,
+  "kind": "huan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "环上九道纹路，磨得最亮的是第三道。想来原主人每到那里，便要停手。",
+  "icon": "fb_huan_2"
+ },
+ {
+  "id": "fb_hun_yuan_quan",
+  "name": "混元圈",
+  "tier": 3,
+  "kind": "huan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "圈中空无一物，伸手却摸到一堵墙。主人当年炼它，只想要一间无人打扰的屋子。",
+  "icon": "fb_huan_2"
+ },
+ {
+  "id": "fb_qian_kun_quan",
+  "name": "乾坤圈",
+  "tier": 5,
+  "kind": "huan",
+  "qi": "qing",
+  "source": "封神演义",
+  "flavor": "太乙真人将它交给陈塘关那个顽童，此后事端，便由这只圈起头，越闹越大。",
+  "icon": "fb_huan_3"
+ },
+ {
+  "id": "fb_feng_huo_lun",
+  "name": "风火轮",
+  "tier": 4,
+  "kind": "huan",
+  "qi": "huo",
+  "source": "封神演义",
+  "flavor": "一对轮子踩在哪吒脚下，风声先至，人随后才到。",
+  "icon": "fb_huan_3"
+ },
+ {
+  "id": "fb_jin_gang_zuo",
+  "name": "金刚琢",
+  "tier": 4,
+  "kind": "huan",
+  "qi": "fo",
+  "source": "西游记",
+  "flavor": "青牛偷下界的一只圈，原是太上老君之物。兵器抛出去，它一套便收，连孙悟空的金箍棒也被套走。",
+  "icon": "fb_huan_3"
+ },
+ {
+  "id": "fb_luo_bao_jin_qian",
+  "name": "落宝金钱",
+  "tier": 4,
+  "kind": "huan",
+  "qi": "qing",
+  "source": "封神演义",
+  "flavor": "余元抛出金钱，天上飞着的法宝，如断线一般，纷纷坠地。",
+  "icon": "fb_huan_3"
+ },
+ {
+  "id": "fb_long_feng_huan",
+  "name": "龙凤环",
+  "tier": 4,
+  "kind": "huan",
+  "qi": "qing",
+  "source": "多情剑客无情剑",
+  "flavor": "兵器谱排第二。上官金虹动用它时，对手连是哪一环都来不及看清。",
+  "icon": "fb_huan_3"
+ },
+ {
+  "id": "fb_mu_chi",
+  "name": "木尺",
+  "tier": 0,
+  "kind": "chi",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "私塾先生的戒尺，边角早已磨圆。学生背不出书，把手伸来，先生叹一口气，该打还是要打。",
+  "icon": "fb_chi_1"
+ },
+ {
+  "id": "fb_jie_chi",
+  "name": "戒尺",
+  "tier": 0,
+  "kind": "chi",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "道观里最老的一把，木纹叫掌心磨得发亮。弟子人人记得，它是凉的。",
+  "icon": "fb_chi_1"
+ },
+ {
+  "id": "fb_qing_tong_chi",
+  "name": "青铜尺",
+  "tier": 1,
+  "kind": "chi",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "自古墓起出的旧尺，刻度磨去大半。坊市中有位阵师多看了两眼，终究原价放了回去。",
+  "icon": "fb_chi_1"
+ },
+ {
+  "id": "fb_yu_chi",
+  "name": "玉尺",
+  "tier": 1,
+  "kind": "chi",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "玉尺本为量灵脉所用，握久了，便发温。一头缺了角，是主人当兵器敲过的缘故。",
+  "icon": "fb_chi_1"
+ },
+ {
+  "id": "fb_tie_chi",
+  "name": "铁尺",
+  "tier": 1,
+  "kind": "chi",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "县衙捕快常挂在腰间。尺背刻着衙门编号，丢了是要受罚的。",
+  "icon": "fb_chi_1"
+ },
+ {
+  "id": "fb_zhen_shan_chi",
+  "name": "镇山尺",
+  "tier": 2,
+  "kind": "chi",
+  "qi": "tu",
+  "source": "原创",
+  "flavor": "山里人说，它是从山脚下挖出来的，那座山后来矮了一截。尺身铁灰，长三尺。",
+  "icon": "fb_chi_2"
+ },
+ {
+  "id": "fb_jie_lv_chi",
+  "name": "戒律尺",
+  "tier": 2,
+  "kind": "chi",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "戒律堂的老尺，几百弟子挨过它，身上不留一道印子。挨过打的人说，疼，是疼在后来想起的时候。",
+  "icon": "fb_chi_2"
+ },
+ {
+  "id": "fb_xuan_zhong_chi",
+  "name": "玄重尺",
+  "tier": 3,
+  "kind": "chi",
+  "qi": "qing",
+  "source": "斗破苍穹",
+  "flavor": "萧炎背着这根黑沉沉的无刃之尺走了许久，肩上压出的印子，比尺子还深。",
+  "icon": "fb_chi_2"
+ },
+ {
+  "id": "fb_tian_peng_chi",
+  "name": "天蓬尺",
+  "tier": 3,
+  "kind": "chi",
+  "qi": "qing",
+  "source": "道教典籍",
+  "flavor": "道士镇一座老宅的阴气，只用这一把。尺上刻天罡北斗，量的是阴阳两界的边。",
+  "icon": "fb_chi_2"
+ },
+ {
+  "id": "fb_sheng_huo_ling",
+  "name": "圣火令",
+  "tier": 3,
+  "kind": "chi",
+  "qi": "huo",
+  "source": "倚天屠龙记",
+  "flavor": "令上刻着一行波斯文。明教教众见令如见教主，可那行字，少有人读得懂。",
+  "icon": "fb_chi_2"
+ },
+ {
+  "id": "fb_liang_tian_chi",
+  "name": "量天尺",
+  "tier": 3,
+  "kind": "chi",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "尺面一片空白，不见刻度。传闻有人拿它量过天，量出的数，只他自己看得见。",
+  "icon": "fb_chi_2"
+ },
+ {
+  "id": "fb_du_e_chi",
+  "name": "度厄尺",
+  "tier": 3,
+  "kind": "chi",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "老和尚以尺轻点你的额头，一片清凉。连做三天噩梦的人，那一夜睡得很沉。",
+  "icon": "fb_chi_2"
+ },
+ {
+  "id": "fb_wu_liang_chi",
+  "name": "无量尺",
+  "tier": 4,
+  "kind": "chi",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "尺上不见一寸刻度，白茫茫一片。持尺之人欲量何物，须先在心里想定。",
+  "icon": "fb_chi_3"
+ },
+ {
+  "id": "fb_you_zhi_san",
+  "name": "油纸伞",
+  "tier": 0,
+  "kind": "san",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "雨天用作伞，晴日悬在墙上。偶有修士借去，撑开时，伞下多出一圈暗影。",
+  "icon": "fb_san_1"
+ },
+ {
+  "id": "fb_zhu_gu_san",
+  "name": "竹骨伞",
+  "tier": 0,
+  "kind": "san",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "伞面绘的是江南山水，雨点一落，墨色晕开少许，倒比晴天更好看。",
+  "icon": "fb_san_1"
+ },
+ {
+  "id": "fb_qing_bu_san",
+  "name": "青布伞",
+  "tier": 0,
+  "kind": "san",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "补了三处，布色深浅各异，是行脚僧人用的伞。雨天撑开，伞下恰好容两个人。",
+  "icon": "fb_san_1"
+ },
+ {
+  "id": "fb_yu_hua_san",
+  "name": "雨花伞",
+  "tier": 2,
+  "kind": "san",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "伞一撑开，便是雨雾蒙蒙。持伞人走过巷口，巷里的人只觉凉了一凉。",
+  "icon": "fb_san_2"
+ },
+ {
+  "id": "fb_hei_gu_san",
+  "name": "黑骨伞",
+  "tier": 2,
+  "kind": "san",
+  "qi": "mo",
+  "source": "原创",
+  "flavor": "伞骨乃细长人骨，磨得干干净净。撑开时，地上的影子拖得比人还长，白日里也是如此。",
+  "icon": "fb_san_2"
+ },
+ {
+  "id": "fb_zi_zhu_san",
+  "name": "紫竹伞",
+  "tier": 2,
+  "kind": "san",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "紫竹十年，不过长一寸。伞骨一根根剥去竹皮，磨得细如琴弦。",
+  "icon": "fb_san_2"
+ },
+ {
+  "id": "fb_wan_hua_san",
+  "name": "万花伞",
+  "tier": 3,
+  "kind": "san",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "伞面绣着四季之花，撑开时同时盛放。绣娘绣了三年，绣罢，眼睛便坏了。",
+  "icon": "fb_san_2"
+ },
+ {
+  "id": "fb_jiu_you_san",
+  "name": "九幽伞",
+  "tier": 3,
+  "kind": "san",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "伞下之人的影子，一撑便淡去一圈。雨点落上去，没有一点声响，像被什么吃掉了。",
+  "icon": "fb_san_2"
+ },
+ {
+  "id": "fb_yu_gu_san",
+  "name": "玉骨伞",
+  "tier": 3,
+  "kind": "san",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "玉作伞骨，冰蚕丝为面。撑开时不闻声息，雨打在上头，连水花也是静的。",
+  "icon": "fb_san_2"
+ },
+ {
+  "id": "fb_liu_li_san",
+  "name": "琉璃伞",
+  "tier": 3,
+  "kind": "san",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "雨天撑开，雨滴敲在伞面上，叮咚有声，如一串碎珠。",
+  "icon": "fb_san_2"
+ },
+ {
+  "id": "fb_hun_yuan_san",
+  "name": "混元伞",
+  "tier": 4,
+  "kind": "san",
+  "qi": "qing",
+  "source": "封神演义",
+  "flavor": "白昼里，对面的人伸手不见五指，只因魔家兄弟守关时，其中一位撑开了这把伞。",
+  "icon": "fb_san_3"
+ },
+ {
+  "id": "fb_tong_ling",
+  "name": "铜铃",
+  "tier": 0,
+  "kind": "ling",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "悬在老牛颈上，走了十年田埂。铃声一响，主人便知牛还在。",
+  "icon": "fb_ling_1"
+ },
+ {
+  "id": "fb_tie_ling",
+  "name": "铁铃",
+  "tier": 0,
+  "kind": "ling",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "山寺檐角挂了几十年的铃，铃舌锈作褐色，一阵风过，哑哑地响。小沙弥说，哑了，才耐听。",
+  "icon": "fb_ling_1"
+ },
+ {
+  "id": "fb_yin_ling",
+  "name": "银铃",
+  "tier": 1,
+  "kind": "ling",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "一只银铃，系在腕上。女修行走无声，抬手方响，对面的人这才明白，她早已看见了你。",
+  "icon": "fb_ling_1"
+ },
+ {
+  "id": "fb_qu_xie_ling",
+  "name": "驱邪铃",
+  "tier": 1,
+  "kind": "ling",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "道士夜行摇铃，铃声不重，路旁的窸窣之声，却戛然而止。",
+  "icon": "fb_ling_1"
+ },
+ {
+  "id": "fb_san_qing_ling",
+  "name": "三清铃",
+  "tier": 2,
+  "kind": "ling",
+  "qi": "qing",
+  "source": "道教典籍",
+  "flavor": "三清像塑作铃柄，一摇，铃舌便敲在每尊像的肩上。老道士说，三位老人家听见了，是会来的。",
+  "icon": "fb_ling_2"
+ },
+ {
+  "id": "fb_zhao_hun_ling",
+  "name": "招魂铃",
+  "tier": 2,
+  "kind": "ling",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "巫祝摇铃，声音忽远忽近。听的人只觉背后有人，在唤他的乳名。",
+  "icon": "fb_ling_2"
+ },
+ {
+  "id": "fb_ding_hun_ling",
+  "name": "定魂铃",
+  "tier": 2,
+  "kind": "ling",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "铃声压得极低，沉沉一响，恰似大人在暗中轻拍孩子的背。惊悸昏睡的人听上一声，便闭了眼。",
+  "icon": "fb_ling_2"
+ },
+ {
+  "id": "fb_liu_li_ling",
+  "name": "琉璃铃",
+  "tier": 2,
+  "kind": "ling",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "琉璃烧得通透，对光看去，内里一粒小气泡，如一滴迟迟不肯落下的水。",
+  "icon": "fb_ling_2"
+ },
+ {
+  "id": "fb_she_hun_ling",
+  "name": "摄魂铃",
+  "tier": 3,
+  "kind": "ling",
+  "qi": "mo",
+  "source": "原创",
+  "flavor": "铃声飘忽，辨不出来自何方。循声走进去的人，都说只是想看看铃挂在哪里。",
+  "icon": "fb_ling_2"
+ },
+ {
+  "id": "fb_he_huan_ling",
+  "name": "合欢铃",
+  "tier": 3,
+  "kind": "ling",
+  "qi": "qing",
+  "source": "诛仙",
+  "flavor": "合欢派的铃铛，响起来甜得发腻。谁听过，夜里便总想起不该想的那个人。",
+  "icon": "fb_ling_2"
+ },
+ {
+  "id": "fb_zi_jin_ling",
+  "name": "紫金铃",
+  "tier": 3,
+  "kind": "ling",
+  "qi": "qing",
+  "source": "西游记",
+  "flavor": "赛太岁腰悬此铃，一摇之下，火、烟、沙三样齐出。他便是仗着它，将朱紫国的王后掳了去。",
+  "icon": "fb_ling_2"
+ },
+ {
+  "id": "fb_jiu_you_ling",
+  "name": "九幽铃",
+  "tier": 3,
+  "kind": "ling",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "摇第一下，只是铃声；摇第二下，远处有人应了。第三下，没人敢摇。",
+  "icon": "fb_ling_2"
+ },
+ {
+  "id": "fb_jing_hong_ling",
+  "name": "惊鸿铃",
+  "tier": 3,
+  "kind": "ling",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "鸿鸟受惊一般，铃声乍起乍停。听见的人总忍不住回头，而那一眼的工夫，已经足够。",
+  "icon": "fb_ling_2"
+ },
+ {
+  "id": "fb_mu_suo",
+  "name": "木梭",
+  "tier": 0,
+  "kind": "suo",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "织机停了三年，老妇人把梭递到孙子手里，嘱他莫学织布，随手扔着玩便是。",
+  "icon": "fb_suo_1"
+ },
+ {
+  "id": "fb_tie_suo",
+  "name": "铁梭",
+  "tier": 0,
+  "kind": "suo",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "这梭原在织机上，被人磨尖了头。出手悄无声息，落地也悄无声息，唯有墙上多个小洞。",
+  "icon": "fb_suo_1"
+ },
+ {
+  "id": "fb_qing_zhu_suo",
+  "name": "青竹梭",
+  "tier": 1,
+  "kind": "suo",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "青竹所削，轻到能浮在水面。初学御物者十回有九回，将它甩进池塘。",
+  "icon": "fb_suo_1"
+ },
+ {
+  "id": "fb_yu_suo",
+  "name": "玉梭",
+  "tier": 1,
+  "kind": "suo",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "原是织娘手中之物，流落坊市，被人打磨一新，挂上腰间，倒也体面。",
+  "icon": "fb_suo_1"
+ },
+ {
+  "id": "fb_chuan_yun_suo",
+  "name": "穿云梭",
+  "tier": 2,
+  "kind": "suo",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "云中被梭划开一道笔直的缝，半晌不合拢。有人在下头望了许久，才想起该躲。",
+  "icon": "fb_suo_2"
+ },
+ {
+  "id": "fb_zhui_feng_suo",
+  "name": "追风梭",
+  "tier": 2,
+  "kind": "suo",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "来去太快，旁观者只见一道影。有人对着空地说了半天话，那梭早已穿了过去。",
+  "icon": "fb_suo_2"
+ },
+ {
+  "id": "fb_liu_xing_suo",
+  "name": "流星梭",
+  "tier": 2,
+  "kind": "suo",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "梭尾曳一线细光，夜里望去，如流星一般。被打中的人，多半只当天上掉下了什么。",
+  "icon": "fb_suo_2"
+ },
+ {
+  "id": "fb_jin_suo",
+  "name": "金梭",
+  "tier": 3,
+  "kind": "suo",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "此梭虽为织金之用，却不曾织过一寸布。梭尾金线抽出，能勒断人的手指。",
+  "icon": "fb_suo_2"
+ },
+ {
+  "id": "fb_yin_jiao_suo",
+  "name": "银蛟梭",
+  "tier": 3,
+  "kind": "suo",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "梭身细长，状如小银蛟。放出时盘旋而飞，收回时，总裹着一圈水汽。",
+  "icon": "fb_suo_2"
+ },
+ {
+  "id": "fb_lie_yan_suo",
+  "name": "烈焰梭",
+  "tier": 3,
+  "kind": "suo",
+  "qi": "huo",
+  "source": "原创",
+  "flavor": "一路飞过，草尖蜷作焦黑。农人抬头望天，只当是晚霞落得早了。",
+  "icon": "fb_suo_2"
+ },
+ {
+  "id": "fb_wu_ying_suo",
+  "name": "无影梭",
+  "tier": 3,
+  "kind": "suo",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "脸边忽觉一凉，回头已不见踪影。有人说是风，有人说是梭，说是风的那些人，倒活得久些。",
+  "icon": "fb_suo_2"
+ },
+ {
+  "id": "fb_zhi_nv_suo",
+  "name": "织女梭",
+  "tier": 3,
+  "kind": "suo",
+  "qi": "qing",
+  "source": "神话传说",
+  "flavor": "织女织倦时，把梭搁在窗边，那一片云便停着不动。这是人间的传说，梭是天上织云锦之物。",
+  "icon": "fb_suo_2"
+ },
+ {
+  "id": "fb_qian_kun_suo",
+  "name": "乾坤梭",
+  "tier": 4,
+  "kind": "suo",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "缝过云，缝过海，梭尖细如针，缝到最后，天边现出一道线。",
+  "icon": "fb_suo_3"
+ },
+ {
+  "id": "fb_tian_sun_suo",
+  "name": "天孙梭",
+  "tier": 4,
+  "kind": "suo",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "仙子织云锦时丢下此梭，飞起来拖着长长一道霞。有人说，人间的晚霞，是它没收好的线。",
+  "icon": "fb_suo_3"
+ },
+ {
+  "id": "fb_cu_bu_yi",
+  "name": "棕皮伞",
+  "tier": 0,
+  "kind": "san",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "棕皮一层压着一层，雨打上去闷闷的。货郎撑了半辈子，伞骨断过三根，根根是他自己削了补上的。",
+  "icon": "fb_san_1"
+ },
+ {
+  "id": "fb_pi_jia",
+  "name": "镖师铜箍",
+  "tier": 0,
+  "kind": "huan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "老镖头套在腕上的铜箍，内侧磨得发亮。他说替他挡过三回刀，每回只留一道白印。",
+  "icon": "fb_huan_1"
+ },
+ {
+  "id": "fb_tie_jia",
+  "name": "窑口砖塔",
+  "tier": 0,
+  "kind": "ta",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "窑工拿碎砖垒的小塔，不过一尺来高，立在窑口。开窑那日它若没塌，这一窑便是好瓷。",
+  "icon": "fb_ta_1"
+ },
+ {
+  "id": "fb_teng_jia",
+  "name": "青藤环",
+  "tier": 0,
+  "kind": "huan",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "山中青藤浸了油，晒足三个月，才肯弯成一圈。猎户套在臂上进山，回来时，环上多了几道熊爪印。",
+  "icon": "fb_huan_1"
+ },
+ {
+  "id": "fb_yu_lin_jia",
+  "name": "鱼鳞伞",
+  "tier": 1,
+  "kind": "san",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "伞面拿鱼鳞一片片缝成，迎着日头，泛一层薄薄的虹。渔村老人说，这是海里的东西，撑久了要还的。",
+  "icon": "fb_san_1"
+ },
+ {
+  "id": "fb_jiao_pi_jia",
+  "name": "蛟皮伞",
+  "tier": 2,
+  "kind": "san",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "伞面是一条小蛟的皮，鳞纹还在。撑开它下水，水自分向两边，衣角也不湿。",
+  "icon": "fb_san_2"
+ },
+ {
+  "id": "fb_bi_shui_yi",
+  "name": "避水环",
+  "tier": 2,
+  "kind": "huan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "环内刻着一圈避水符。戴它渡过三回江的人说，怕的不是水，是哪天符纹磨平了。",
+  "icon": "fb_huan_2"
+ },
+ {
+  "id": "fb_jiao_wen_suo_zi_jia",
+  "name": "蛟纹钟",
+  "tier": 2,
+  "kind": "zhong",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "钟身盘着一道蛟纹。当铺掌柜见了，先叹一口气，才肯报价。敲上一记，满街的招牌都跟着颤。",
+  "icon": "fb_zhong_2"
+ },
+ {
+  "id": "fb_ruan_wei_jia",
+  "name": "镇岳塔",
+  "tier": 3,
+  "kind": "ta",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "古修洞府门前立着的小塔，高不盈尺。后来的人搬它不动，才知整座山的分量，都压在塔底。",
+  "icon": "fb_ta_2"
+ },
+ {
+  "id": "fb_xuan_gui_jia",
+  "name": "玄龟鼎",
+  "tier": 3,
+  "kind": "ding",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "鼎足是三只昂首的玄龟，背甲上年轮一圈叠着一圈。鼎一落地，周遭的脚印，都比别处深出半寸。",
+  "icon": "fb_ding_2"
+ },
+ {
+  "id": "fb_bing_can_yi",
+  "name": "冰蚕伞",
+  "tier": 3,
+  "kind": "san",
+  "qi": "bing",
+  "source": "原创",
+  "flavor": "冰蚕吐了三十年的丝，才织成这一面伞。撑在头顶，夏不出汗，冬不觉暖，雪落上去也不化。",
+  "icon": "fb_san_2"
+ },
+ {
+  "id": "fb_tian_can_bao_yi",
+  "name": "天丝环",
+  "tier": 3,
+  "kind": "huan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "细得套在腕上几乎觉不出来，直到刀锋落下，方知它在。",
+  "icon": "fb_huan_2"
+ },
+ {
+  "id": "fb_ba_bao_liu_li_jia",
+  "name": "八宝琉璃塔",
+  "tier": 4,
+  "kind": "ta",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "塔身嵌着八颗宝石，颗颗出自不同之地。造塔的匠人费了十年，才凑齐最末一颗。",
+  "icon": "fb_ta_3"
+ },
+ {
+  "id": "fb_jiu_tian_yun_xia_yi",
+  "name": "九天云霞伞",
+  "tier": 4,
+  "kind": "san",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "伞面织着九天之云，撑开时听不见一点声息。有人说，这把伞不曾收拢过，雨也不曾落上去过。",
+  "icon": "fb_san_3"
+ },
+ {
+  "id": "fb_jin_lan_jia_sha",
+  "name": "七宝浮屠",
+  "tier": 4,
+  "kind": "ta",
+  "qi": "fo",
+  "source": "原创",
+  "flavor": "七层浮屠，层层供着一盏不灭的灯。最上一层那盏，传说是一位罗汉坐化之前，亲手点的。",
+  "icon": "fb_ta_3"
+ },
+ {
+  "id": "fb_duan_tie_jian",
+  "name": "残铁剑",
+  "tier": 0,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "剑拿到当铺，是按斤称的，一斤铁二十文。穷弟子攥着剑柄，掌心里沾满了锈。",
+  "icon": "fb_jian_1"
+ },
+ {
+  "id": "fb_liu_mu_jian",
+  "name": "柳木剑",
+  "tier": 0,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "村口老秀才削来给孙儿玩，剑脊上，两排牙印犹在。",
+  "icon": "fb_jian_1"
+ },
+ {
+  "id": "fb_yun_wen_tie_jian",
+  "name": "云纹铁剑",
+  "tier": 1,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "外门执事各领一柄，鞘上刻门派云纹。有人退出山门，剑未缴回，便挂在了墙上。",
+  "icon": "fb_jian_1"
+ },
+ {
+  "id": "fb_ling_zhu_jian",
+  "name": "灵竹剑",
+  "tier": 1,
+  "kind": "jian",
+  "qi": "jian",
+  "source": "原创",
+  "flavor": "以山中老竹削成，含一点微弱灵气。孩子们头回御剑，用的都是它，摔下来时，总是剑先落地，人后落地。",
+  "icon": "fb_jian_1"
+ },
+ {
+  "id": "fb_que_kou_dao",
+  "name": "缺月刀",
+  "tier": 0,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "三年前一刀劈在铁锚上，留下这道缺口。镖局老把式说，不磨，留着，好提醒自己别逞强。",
+  "icon": "fb_dao_1"
+ },
+ {
+  "id": "fb_cai_dao",
+  "name": "庖刀",
+  "tier": 0,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "灶房里切葱的家伙，刀背上缺一道口。听说老修士曾拿它剁过一头妖兽，回头就换了新刀。",
+  "icon": "fb_dao_1"
+ },
+ {
+  "id": "fb_gang_bei_dao",
+  "name": "钢背刀",
+  "tier": 1,
+  "kind": "dao",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "镖师用的刀，刀背厚实，可当锤使，敲开酒坛的泥封，尤其顺手。",
+  "icon": "fb_dao_1"
+ },
+ {
+  "id": "fb_gui_tou_dao",
+  "name": "鬼头刀",
+  "tier": 1,
+  "kind": "dao",
+  "qi": "mo",
+  "source": "原创",
+  "flavor": "刽子手之刀，刀头雕一张鬼脸。行刑之前，他总要对刀说一句话，说的是什么，没人听清过。",
+  "icon": "fb_dao_1"
+ },
+ {
+  "id": "fb_mu_qiang",
+  "name": "木枪",
+  "tier": 0,
+  "kind": "qiang",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "老拳师拿布裹了枪头，怕伤着徒弟。他说，先学会收，再学出手。",
+  "icon": "fb_qiang_1"
+ },
+ {
+  "id": "fb_chang_mao",
+  "name": "长矛",
+  "tier": 0,
+  "kind": "qiang",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "军营里发下来的矛，矛头无名，杆上的手汗已渗进木头，那是前一个兵留下的。",
+  "icon": "fb_qiang_1"
+ },
+ {
+  "id": "fb_tie_ji_li_ji",
+  "name": "铁蒺藜戟",
+  "tier": 1,
+  "kind": "qiang",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "老将军告老那天，把它挂在堂屋，不许孙子碰。戟头倒刺密布，拔出来是要带下一块肉的。",
+  "icon": "fb_qiang_1"
+ },
+ {
+  "id": "fb_qing_gan_qiang",
+  "name": "青杆枪",
+  "tier": 1,
+  "kind": "qiang",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "竹杆铁头，猎户拿它进山。直到野猪撞来那日，枪折了，人却活了下来。",
+  "icon": "fb_qiang_1"
+ },
+ {
+  "id": "fb_zhi_shan",
+  "name": "纸扇",
+  "tier": 0,
+  "kind": "shan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "扇面空着，没有题字。书生说，要等一个值得的人，这一等就是十年，没等到。",
+  "icon": "fb_shan_1"
+ },
+ {
+  "id": "fb_kui_ye_shan",
+  "name": "葵叶扇",
+  "tier": 0,
+  "kind": "shan",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "蒲葵叶晒干制成，扇边已起了毛。夏夜里，老人摇着它讲鬼故事，讲到最吓人的地方，手里的扇子停了。",
+  "icon": "fb_shan_1"
+ },
+ {
+  "id": "fb_bai_yu_shan",
+  "name": "白羽扇",
+  "tier": 1,
+  "kind": "shan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "用鹤翎编成，一扇之下，书斋中的墨迹干得更快。主人读书的时候，总拿它来赶蚊子。",
+  "icon": "fb_shan_1"
+ },
+ {
+  "id": "fb_que_ling_shan",
+  "name": "雀翎扇",
+  "tier": 1,
+  "kind": "shan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "雀翎斑斓，一扇之下，满屋闪光。凡人见了赞好看，修士见了却说，这东西，能拿来做什么。",
+  "icon": "fb_shan_1"
+ },
+ {
+  "id": "fb_po_tong_jing",
+  "name": "绿锈镜",
+  "tier": 0,
+  "kind": "jing",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "镜里照出的脸总是歪的，还泛着一点绿。卖货的说，是人脸不对。买的人，信了。",
+  "icon": "fb_jing_1"
+ },
+ {
+  "id": "fb_liu_li_xiao_jing",
+  "name": "琉璃小镜",
+  "tier": 0,
+  "kind": "jing",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "镜背画一对小鸟，镜子不过巴掌大。镜中人总比真人好看那么一点，这便是它的本事。",
+  "icon": "fb_jing_1"
+ },
+ {
+  "id": "fb_yin_bei_jing",
+  "name": "银背镜",
+  "tier": 1,
+  "kind": "jing",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "银面的镜背，磨得发亮。行商拿它当妆镜用，顺便照一照路边的人是真是假。",
+  "icon": "fb_jing_1"
+ },
+ {
+  "id": "fb_xing_sha_jing",
+  "name": "星砂镜",
+  "tier": 1,
+  "kind": "jing",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "夜里一照，镜面上碎星砂闪烁，满屋像落了一层萤火。观星的老道用它找过星，也找过人。",
+  "icon": "fb_jing_1"
+ },
+ {
+  "id": "fb_gu_yin",
+  "name": "骨印",
+  "tier": 0,
+  "kind": "yin",
+  "qi": "mo",
+  "source": "原创",
+  "flavor": "山里的巫师拿兽骨削成，印面刻歪了，他也不改，只说：神不挑字。",
+  "icon": "fb_yin_1"
+ },
+ {
+  "id": "fb_zhu_yin",
+  "name": "竹印",
+  "tier": 0,
+  "kind": "yin",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "小印以竹根刻成，印面歪歪斜斜，是个学徒头一回动刀的成品。师父没说什么，拿去盖了账本。",
+  "icon": "fb_yin_1"
+ },
+ {
+  "id": "fb_qing_shi_yin",
+  "name": "青石印",
+  "tier": 1,
+  "kind": "yin",
+  "qi": "tu",
+  "source": "原创",
+  "flavor": "字在印底，磨得极浅，须侧着看才认得出，是个「守」字。",
+  "icon": "fb_yin_1"
+ },
+ {
+  "id": "fb_tao_yin",
+  "name": "陶印",
+  "tier": 1,
+  "kind": "yin",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "烧陶的人在边角留了个指甲印。这枚陶土小印盖在符上，符便添了几分人间烟火。",
+  "icon": "fb_yin_1"
+ },
+ {
+  "id": "fb_tao_zhong",
+  "name": "陶钟",
+  "tier": 0,
+  "kind": "zhong",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "娃娃拿它摇着玩，道士拿它吓老鼠，一只陶钟，两般用法，都不大正经。",
+  "icon": "fb_zhong_1"
+ },
+ {
+  "id": "fb_zhu_zhong",
+  "name": "竹钟",
+  "tier": 0,
+  "kind": "zhong",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "檐下悬着几节竹筒，风过时咚咚作响。隐士说，挂它不为好听，只为知道风还在。",
+  "icon": "fb_zhong_1"
+ },
+ {
+  "id": "fb_qing_tong_xiao_zhong",
+  "name": "青铜小钟",
+  "tier": 1,
+  "kind": "zhong",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "寺中小沙弥早课所敲。钟口有一道裂，响起来，比别的钟更沉一些。",
+  "icon": "fb_zhong_1"
+ },
+ {
+  "id": "fb_yun_ban",
+  "name": "云板",
+  "tier": 1,
+  "kind": "zhong",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "早晚两遍，云板敲响宗门。弟子们说，第三下落了，谁还没起床，谁便要受罚。",
+  "icon": "fb_zhong_1"
+ },
+ {
+  "id": "fb_tao_lu",
+  "name": "陶炉",
+  "tier": 0,
+  "kind": "ding",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "药婆在山村里，拿这炉子熬了三十年药，炉底结出褐色的壳，刮下来便可入药。",
+  "icon": "fb_ding_1"
+ },
+ {
+  "id": "fb_tie_guo_ding",
+  "name": "三足铁鼎",
+  "tier": 0,
+  "kind": "ding",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "铁锅改的鼎，三足是后来才加的。炼丹人说，炸了两回，第三回，反倒成了。",
+  "icon": "fb_ding_1"
+ },
+ {
+  "id": "fb_shi_ding",
+  "name": "石鼎",
+  "tier": 1,
+  "kind": "ding",
+  "qi": "tu",
+  "source": "原创",
+  "flavor": "青石凿成，沉得拎不起来。丹师说，沉些好，火才不会乱跳。",
+  "icon": "fb_ding_1"
+ },
+ {
+  "id": "fb_huang_tong_xiang_lu",
+  "name": "黄铜香炉",
+  "tier": 1,
+  "kind": "ding",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "庙里一只小香炉，叫香火熏了几十年，里里外外都是黑的。有人偷偷拿走，三日后，又放回了原处。",
+  "icon": "fb_ding_1"
+ },
+ {
+  "id": "fb_piao_hu",
+  "name": "山泉瓢",
+  "tier": 0,
+  "kind": "hulu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "半只葫芦，口上封了蜡，樵夫挂在腰间。山泉装进去，隔夜仍是凉的。",
+  "icon": "fb_hulu_1"
+ },
+ {
+  "id": "fb_tao_jiu_hu",
+  "name": "陶酒壶",
+  "tier": 0,
+  "kind": "hulu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "缺了口的陶酒壶，倒酒必洒三滴。散修说，那三滴，是留给地的。",
+  "icon": "fb_hulu_1"
+ },
+ {
+  "id": "fb_zhu_tong_hu",
+  "name": "竹筒壶",
+  "tier": 1,
+  "kind": "hulu",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "老竹最粗的一节，还带着青气。装上灵泉水，过上两日，竹香便渗入水中。",
+  "icon": "fb_hulu_1"
+ },
+ {
+  "id": "fb_ling_quan_piao",
+  "name": "灵泉瓢",
+  "tier": 1,
+  "kind": "hulu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "剖开葫芦作瓢，内壁一圈细细的水纹。舀泉水来喝，总比旁人碗里的更甜。",
+  "icon": "fb_hulu_1"
+ },
+ {
+  "id": "fb_shi_zhu",
+  "name": "河石珠",
+  "tier": 0,
+  "kind": "zhu",
+  "qi": "tu",
+  "source": "原创",
+  "flavor": "河滩上拾来的石子，在兜里捂热了。穷修士管它叫「我的法宝」，说出口时，自己也有些不好意思。",
+  "icon": "fb_zhu_1"
+ },
+ {
+  "id": "fb_mu_nian_zhu",
+  "name": "木念珠",
+  "tier": 0,
+  "kind": "zhu",
+  "qi": "fo",
+  "source": "原创",
+  "flavor": "桃木珠一百零八颗，被盘得发亮，独缺一颗，是谁丢的，老和尚到死也没去补。",
+  "icon": "fb_zhu_1"
+ },
+ {
+  "id": "fb_qing_yu_zhu",
+  "name": "青玉珠",
+  "tier": 1,
+  "kind": "zhu",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "祖母传下的玉珠，贴心口戴了几十年，青玉的色里，渐渐渗出一点暖黄。",
+  "icon": "fb_zhu_1"
+ },
+ {
+  "id": "fb_ying_huo_zhu",
+  "name": "萤火珠",
+  "tier": 1,
+  "kind": "zhu",
+  "qi": "huo",
+  "source": "原创",
+  "flavor": "探洞的人说，怕的不是黑，是被照出来的东西。珠里似有萤火在游，夜里能照亮脚下三尺。",
+  "icon": "fb_zhu_1"
+ },
+ {
+  "id": "fb_po_bu_fan",
+  "name": "旧符幡",
+  "tier": 0,
+  "kind": "fan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "幡面太旧，上头画的符，连乡野道人自己也认不全了。他举着幡走村串户，嘴里念念有词。",
+  "icon": "fb_fan_1"
+ },
+ {
+  "id": "fb_zhu_gan_qi",
+  "name": "巫祝旗",
+  "tier": 0,
+  "kind": "fan",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "旗面是巫师自己画的，做法时挑在竹竿上。画歪了不碍事，只怕客人不信。",
+  "icon": "fb_fan_1"
+ },
+ {
+  "id": "fb_hei_feng_qi",
+  "name": "黑风旗",
+  "tier": 1,
+  "kind": "fan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "魔修靠这面旗吓唬赶集的农人，赚一把铜钱。旗角已经烧焦，旗面常年带着霉味。",
+  "icon": "fb_fan_1"
+ },
+ {
+  "id": "fb_chi_yan_qi",
+  "name": "赤焰旗",
+  "tier": 1,
+  "kind": "fan",
+  "qi": "huo",
+  "source": "原创",
+  "flavor": "摇旗的小师妹，眉毛已被烧掉过两回。旗面红得发暗，一抖开，就掉下几点火星。",
+  "icon": "fb_fan_1"
+ },
+ {
+  "id": "fb_zhi_ta",
+  "name": "冥纸塔",
+  "tier": 0,
+  "kind": "ta",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "清明要烧给先人的纸塔，由老妇糊成。她一天只糊一座，说多了，对不住那些先人。",
+  "icon": "fb_ta_1"
+ },
+ {
+  "id": "fb_tao_ta",
+  "name": "陶塔",
+  "tier": 0,
+  "kind": "ta",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "家里窗台摆一座小塔，烧得不匀，一边深，一边浅。说是镇宅，其实不过图个念想。",
+  "icon": "fb_ta_1"
+ },
+ {
+  "id": "fb_bai_shi_ta",
+  "name": "白石塔",
+  "tier": 1,
+  "kind": "ta",
+  "qi": "tu",
+  "source": "原创",
+  "flavor": "小塔不过掌心大，共七层，每层符文都有一笔刻歪。匠人说，是故意的。",
+  "icon": "fb_ta_1"
+ },
+ {
+  "id": "fb_tong_ta",
+  "name": "铜塔",
+  "tier": 1,
+  "kind": "ta",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "夜里风铃响三下，便是有东西靠近了。这座铜塔共三层，塔檐上挂着风铃。",
+  "icon": "fb_ta_1"
+ },
+ {
+  "id": "fb_zhu_di_qin",
+  "name": "竹笛琴",
+  "tier": 0,
+  "kind": "qin",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "牧童骑在牛背上，随手拨弄着它。牛听惯了，换别人来弹，便不肯迈步。",
+  "icon": "fb_qin_1"
+ },
+ {
+  "id": "fb_sha_mu_qin",
+  "name": "杉木琴",
+  "tier": 0,
+  "kind": "qin",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "樵夫弹它，音粗，调子也不准，每回弹完都说：再弹一遍就对了。",
+  "icon": "fb_qin_1"
+ },
+ {
+  "id": "fb_song_mu_qin",
+  "name": "松木琴",
+  "tier": 1,
+  "kind": "qin",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "弦断了，隐士拿线接上，说云不挑。他背着琴上山，弹给白云听。",
+  "icon": "fb_qin_1"
+ },
+ {
+  "id": "fb_yue_ya_qin",
+  "name": "月牙琴",
+  "tier": 1,
+  "kind": "qin",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "弦很细，琴弯得像月牙。深夜弹起，山里的夜鸟落在窗上，一只也不叫，听完了才飞。",
+  "icon": "fb_qin_1"
+ },
+ {
+  "id": "fb_ma_bian",
+  "name": "牧牛鞭",
+  "tier": 0,
+  "kind": "bian",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "赶牛老汉一甩，牛便晓得往哪边去。到了修士手里，倒没人肯听它的了。",
+  "icon": "fb_bian_1"
+ },
+ {
+  "id": "fb_pi_tiao_bian",
+  "name": "乌皮鞭",
+  "tier": 0,
+  "kind": "bian",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "一根根牛皮条编成，油光乌黑。趟子手凌空抽上一下，啪的一声，山里的鸟都惊飞起来。",
+  "icon": "fb_bian_1"
+ },
+ {
+  "id": "fb_tie_lian_bian",
+  "name": "铁链鞭",
+  "tier": 1,
+  "kind": "bian",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "抡开来呼呼作响。打过架的人说，听着吓人，比打着疼更要紧。",
+  "icon": "fb_bian_1"
+ },
+ {
+  "id": "fb_zhu_jie_bian",
+  "name": "竹节鞭",
+  "tier": 1,
+  "kind": "bian",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "灌了铅沙的竹节，中间是空的，抡起来呼呼有声。打人不见血，却叫人半天抬不起手。",
+  "icon": "fb_bian_1"
+ },
+ {
+  "id": "fb_tie_zhi_huan",
+  "name": "铁指环",
+  "tier": 0,
+  "kind": "huan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "指环内侧毛毛糙糙，出自铁匠随手一打。戴久了，指根磨出一圈茧。",
+  "icon": "fb_huan_1"
+ },
+ {
+  "id": "fb_zhu_quan",
+  "name": "竹篾环",
+  "tier": 0,
+  "kind": "huan",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "山里孩子拿竹篾弯成的圈打鸟，一抛便转。一年下来，鸟没打着，倒打碎了邻居的窗。",
+  "icon": "fb_huan_1"
+ },
+ {
+  "id": "fb_tong_zhuo",
+  "name": "铜镯",
+  "tier": 1,
+  "kind": "huan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "新弟子入门那日，师兄从箱底翻出一对。镯上的铜绿，早被前几任戴亮了。",
+  "icon": "fb_huan_1"
+ },
+ {
+  "id": "fb_yin_quan",
+  "name": "银圈",
+  "tier": 1,
+  "kind": "huan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "刻着细纹的银圈，贴腕骨戴着。送圈的人早已不在，戴圈的人一次也没摘过。",
+  "icon": "fb_huan_1"
+ },
+ {
+  "id": "fb_zhu_chi",
+  "name": "竹尺",
+  "tier": 0,
+  "kind": "chi",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "尺上刻度，一半是丈，一半是符。先生拿它量布，修士借来画符线。",
+  "icon": "fb_chi_1"
+ },
+ {
+  "id": "fb_mu_jie_fang",
+  "name": "木戒方",
+  "tier": 0,
+  "kind": "chi",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "打手心时翻哪一面，全凭师父当日心情。戒方一边刻着「勤」字，另一边刻着「慎」字。",
+  "icon": "fb_chi_1"
+ },
+ {
+  "id": "fb_huang_tong_chi",
+  "name": "黄铜尺",
+  "tier": 1,
+  "kind": "chi",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "风水先生量宅所用，刻度摸得发亮。每量完一回，他总要摇头，说差了一寸。",
+  "icon": "fb_chi_1"
+ },
+ {
+  "id": "fb_gu_chi",
+  "name": "骨尺",
+  "tier": 1,
+  "kind": "chi",
+  "qi": "mo",
+  "source": "原创",
+  "flavor": "骨尺以兽骨磨成，刻满巫文。量灵气，尺面发烫；量到不对的地方，便发抖。",
+  "icon": "fb_chi_1"
+ },
+ {
+  "id": "fb_cao_san",
+  "name": "箬笠",
+  "tier": 0,
+  "kind": "san",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "笠的帽檐一圈，叫汗浸成了深色，是樵夫的。山雨来时，他头也不抬，继续砍柴。",
+  "icon": "fb_san_1"
+ },
+ {
+  "id": "fb_he_ye_san",
+  "name": "荷叶伞",
+  "tier": 0,
+  "kind": "san",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "水乡里没人买过伞。渔人雨天顶一片大荷叶，叶子枯了，便换一片。",
+  "icon": "fb_san_1"
+ },
+ {
+  "id": "fb_chou_mian_san",
+  "name": "绸面伞",
+  "tier": 1,
+  "kind": "san",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "绘着蝶的伞，原是大户小姐用的。雨打在上头不湿，丫鬟说，是前院被雷劈过的缘故。",
+  "icon": "fb_san_1"
+ },
+ {
+  "id": "fb_tong_you_san",
+  "name": "桐油伞",
+  "tier": 1,
+  "kind": "san",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "桐油味散不尽，撑开时，满屋是沉沉的香气。老人说，这味道，压得住不干净的东西。",
+  "icon": "fb_san_1"
+ },
+ {
+  "id": "fb_mu_ling",
+  "name": "木铃",
+  "tier": 0,
+  "kind": "ling",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "孩子们爱摇它，大人嫌吵，又舍不得扔。铃里一粒石子，摇起来闷闷的。",
+  "icon": "fb_ling_1"
+ },
+ {
+  "id": "fb_niu_ling",
+  "name": "牧铃",
+  "tier": 0,
+  "kind": "ling",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "偷铃的修士把铜铃挂在洞府门口，半夜一响，自己先惊醒。铜铃声音浑厚，一响便满山坳回音。",
+  "icon": "fb_ling_1"
+ },
+ {
+  "id": "fb_feng_ling",
+  "name": "风铃",
+  "tier": 1,
+  "kind": "ling",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "若是无风而响，睡着的人便要翻身坐起。这铃挂在屋檐下，风起时叮叮响。",
+  "icon": "fb_ling_1"
+ },
+ {
+  "id": "fb_xiao_yin_ling",
+  "name": "小银铃",
+  "tier": 1,
+  "kind": "ling",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "系在腰间，走一步，响一声。做贼的、杀人的都不爱它；爱它的人，心里没有鬼。",
+  "icon": "fb_ling_1"
+ },
+ {
+  "id": "fb_gu_suo",
+  "name": "骨梭",
+  "tier": 0,
+  "kind": "suo",
+  "qi": "mo",
+  "source": "原创",
+  "flavor": "獐子是猎户自己打的，骨头磨成这只梭，织网用。他说带着它，像带着一个旧伙计。",
+  "icon": "fb_suo_1"
+ },
+ {
+  "id": "fb_zhu_suo",
+  "name": "竹梭",
+  "tier": 0,
+  "kind": "suo",
+  "qi": "mu",
+  "source": "原创",
+  "flavor": "新竹削成，还带着青味。打出去扎进树干，隔上半天才拔得出来。初学的人头一回成了，会对着树发呆。",
+  "icon": "fb_suo_1"
+ },
+ {
+  "id": "fb_tong_suo",
+  "name": "铜梭",
+  "tier": 1,
+  "kind": "suo",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "钉进板壁的那一回，三天没人拔得出来。这织布的铜梭，被人磨尖过一头。",
+  "icon": "fb_suo_1"
+ },
+ {
+  "id": "fb_gang_suo",
+  "name": "钢梭",
+  "tier": 1,
+  "kind": "suo",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "精钢短梭，尾系细丝，出手不闻其声。收回之时，丝上有时空空，有时不空。",
+  "icon": "fb_suo_1"
+ },
+ {
+  "id": "fb_suo_yi",
+  "name": "渡口铁钟",
+  "tier": 0,
+  "kind": "zhong",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "悬在渡口老柳下，起雾时摆渡人敲它三声。江心的船听见了，便知岸在哪一边。",
+  "icon": "fb_zhong_1"
+ },
+ {
+  "id": "fb_ma_bu_jia",
+  "name": "祠堂瓦鼎",
+  "tier": 0,
+  "kind": "ding",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "乡里祠堂供的瓦鼎，一条腿是后来拿泥补的。年年添香灰，添到今日，已分不出哪层是哪年的。",
+  "icon": "fb_ding_1"
+ },
+ {
+  "id": "fb_niu_pi_ruan_jia",
+  "name": "缠筋环",
+  "tier": 1,
+  "kind": "huan",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "牛筋绞了七股，缠在铁芯外头，套上手臂不碍使剑。散修都说它好，只一样，夏天勒得慌。",
+  "icon": "fb_huan_1"
+ },
+ {
+  "id": "fb_suo_zi_jia",
+  "name": "铁叶塔",
+  "tier": 1,
+  "kind": "ta",
+  "qi": "qing",
+  "source": "原创",
+  "flavor": "千百片铁叶，一片扣着一片，垒成七层小塔。托在掌上冰凉，像托着一截冬天的河。",
+  "icon": "fb_ta_1"
+ }
+]

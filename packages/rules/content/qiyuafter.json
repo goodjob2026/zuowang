@@ -1,0 +1,2900 @@
+{
+ "qy_qiaofu": {
+  "shan": {
+   "title": "山口相候",
+   "text": "前些日子，你在山道上运灵力替那樵夫止过血。今晨山口站着个半大孩子，拎着竹篮，说他爹腿伤好了大半，叫他守在这里，见了道袍上沾着草屑的人，就把篮子递过去。",
+   "options": [
+    {
+     "label": "接过竹篮",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "篮里是一小筒新熬的山参汤，还温着，另有两个粗面饼。孩子说，山里人拿不出别的。你喝了汤，行气时果然顺畅了些。",
+       "effects": {
+        "shane": 3,
+        "lingshi": 0,
+        "xiuweiHours": 1,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "孩子说他爹的腿又烂了，请不起郎中，想借几块灵石，日后砍柴还你。你解下钱袋，孩子磕了个头，攥着灵石一溜烟跑了。",
+       "effects": {
+        "shane": 4,
+        "lingshi": -20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "孩子说他爹前日已搬去外乡投亲，篮里只有一双新编的草鞋，是临走前编好的，尺寸不合你的脚。你拎着篮子立了一会儿，还是收下了。",
+       "effects": {
+        "shane": 2,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "铁匠看斧",
+   "text": "那一日，你在山道上搜了樵夫的身，斧头和钱袋都取走了。这日你拎着那柄斧头进了山脚铁匠铺，想换几个钱，匠人接过去，对着日头看了半晌。",
+   "options": [
+    {
+     "label": "等他开价",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "匠人把斧柄翻过来，指给你看上头刻的记号，说山下几个村的人都认得。他嗓门洪亮，邻铺都探出头来，你扔下几块灵石才堵住他的嘴。",
+       "effects": {
+        "shane": -1,
+        "lingshi": -25,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "匠人弹了弹刃口，说铁性软、口又崩了，不值几个钱。你把斧头拿回来，在铺前白站了半日，什么也没换到。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "匠人却说这是难得的百炼老铁，樵夫家几代人磨出来的斧子，开了个好价。你揣着灵石出门，斧柄上的汗渍还留在掌心。",
+       "effects": {
+        "shane": -2,
+        "lingshi": 20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_duchang": {
+  "shan": {
+   "title": "门前旧客",
+   "text": "你当初替那个红了眼的散修结清过赌账。这夜客栈门外有人轻叩，是个脸颊深陷的汉子，手里攥着一只旧储物袋，站在檐下，不敢抬头。",
+   "options": [
+    {
+     "label": "开门",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "他把储物袋塞进你手里，说是攒了许久，只还得上一半，余下的容他再赔。袋里有几块灵石，被汗浸得发潮。",
+       "effects": {
+        "shane": 4,
+        "lingshi": 20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "他是来借钱的，说赌坊又扣了他一个朋友，求你再替人赎一回。你推说囊中羞涩，他不言语，退进夜色里。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 6,
+       "text": "他扑通跪下，哭着说那笔债原是替别人背的，如今人跑了，赌坊又找上门来。你听他说完，替他付了灵石，他叩了三个头。",
+       "effects": {
+        "shane": 3,
+        "lingshi": -30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "子夜拜帖",
+   "text": "数日前，你在赌坊里想暗中出千翻本。这日客栈伙计递来一张拜帖，只画着一只骰子，约你今夜子时去城南柴房，说有一桩买卖要谈。",
+   "options": [
+    {
+     "label": "按约前去",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "柴房里坐着个瘦子，说那夜在赌坊看见了你的手法，要你教他。你不肯，他便扬言要说给庄家听，你只得破财消灾，把灵石丢在桌上。",
+       "effects": {
+        "shane": -2,
+        "lingshi": -30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "柴房里空无一人，桌上摆着一副骰子，灯油已干。你等到后半夜，没有人来，骰子也没有半点古怪。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "瘦子是庄家的对头，想请你出一手，替他赢回被庄家吞掉的场子。事成之后，他分了你一份灵石，说这行的规矩，不问手法。",
+       "effects": {
+        "shane": -3,
+        "lingshi": 30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_yaoshou_ying": {
+  "shan": {
+   "title": "狐尾引路",
+   "text": "上回，你掰开兽夹，放走过一只灵狐幼崽。今夜月色很淡，林边草丛窸窣作响，一只毛色发亮的小狐蹲在你前头，口里叼着什么，回头望你。",
+   "options": [
+    {
+     "label": "跟它去看看",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "它引你到一处石缝，缝里长着几株灵草，根上带着湿土，显然是它一路刨来的。你采了草，它蹲在旁边，尾巴扫得尘土飞扬。",
+       "effects": {
+        "shane": 3,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": {
+         "type": "cao",
+         "tierOffset": 0
+        },
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "小狐引着你走了半夜，到了一处空洞穴，洞里只有几根旧毛。它呜咽着钻进去，再没出来。你在洞口站了很久。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 6,
+       "text": "它引你到一处山坳，坳里卧着一只受了伤的母狐，毛色和它一样。你把身上的伤药敷在它腿上，母狐低头舔了舔你的手腕。",
+       "effects": {
+        "shane": 2,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "夜半狐啼",
+   "text": "前番你剥下过一只灵狐幼崽的皮，拿去坊市卖。这几夜总有狐啼绕着你住的客栈，天亮时，窗台上多了一排细小的爪印。",
+   "options": [
+    {
+     "label": "推窗去看",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "窗外蹲着一只母狐，眼珠碧绿，直盯着你。你关窗太晚，它已扑进来，在你臂上抓出几道口子，又叼走了枕边的灵石，伤处火辣辣地疼。",
+       "effects": {
+        "shane": 0,
+        "lingshi": -25,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": true
+       }
+      },
+      {
+       "weight": 8,
+       "text": "窗外空空荡荡，只有窗台上一撮灰白的毛，被夜风吹散了。你立了片刻，此后几夜再没听见狐啼。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "窗外的母狐只是盯着你，一动不动，直到鸡叫才退入林中，仅叼走了你晾在窗外的一角边料。你坐到天亮，手心全是冷汗。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_zongmen_kaohe": {
+  "shan": {
+   "title": "廊下留话",
+   "text": "前些日子，你在演武场上当众揭破了剑穗上的手脚。月考后第三日，那名同门在偏僻的廊下拦住你，神色古怪，怀里揣着个旧布包。",
+   "options": [
+    {
+     "label": "听他说完",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "他说那一日若不是你，自己早被革出外门。布包里是师父传他的一页握剑吐纳的口诀，他抄了一份给你。你照着练了半日，颇有进益。",
+       "effects": {
+        "shane": 4,
+        "lingshi": 0,
+        "xiuweiHours": 1,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "他说对手的靠山放了话，要寻你们两个的晦气，劝你近日少出门。说完他便走了，你立在廊下，掂量着这话的轻重。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "他红着脸说，出了考场才想明白，那药粉原是自家师兄给的，求你莫再追究。他把几块灵石塞进你手里，求你闭口。",
+       "effects": {
+        "shane": -2,
+        "lingshi": 15,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "堂前问话",
+   "text": "那一日，你在考场上帮对手添了一把火，换了份人情。几日后执事堂派人传话，说月考剑穗上的药粉有人在查，请你去堂前问几句。",
+   "options": [
+    {
+     "label": "去执事堂",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "执事问得很细，你答得磕磕绊绊，末了被罚扫三日演武场，另扣下灵石，说是抵那日验药粉的工费。你扫着落叶，只觉人人都在看你。",
+       "effects": {
+        "shane": -1,
+        "lingshi": -25,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "执事只问了几句，便把药粉查到了别人头上，挥手叫你回去。你出得门来，才觉背心湿透，白白紧张了一场。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "你在堂上只说不知情。出门时，那名对手在廊下候着，低着头塞来一小袋灵石，求你日后也莫提。你没作声，袋子已落进了袖中。",
+       "effects": {
+        "shane": -3,
+        "lingshi": 20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_luanzang": {
+  "shan": {
+   "title": "坟前布包",
+   "text": "你当初在乱葬岗劝过两个盗墓贼，让他们把坟封了回去。这日黄昏，那个年轻的贼独自等在岗下路口，手里拎着一只布包，神色局促。",
+   "options": [
+    {
+     "label": "问他何事",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "他说自那夜起一直睡不安稳，卖了祖传的一把锁，想请你代他在坟前立块碑。碑立好后，剩下的灵石他执意留给了你。",
+       "effects": {
+        "shane": 4,
+        "lingshi": 20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "他说老贼已另寻了伙伴，昨夜又去刨了别处的坟，要你小心。说罢他便匆匆去了，神色比来时更慌。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "布包里是一只青布鞋，鞋底沾着坟土。他说那是坟里人的，一直不敢留，求你送回去。你拎着鞋走了半日，坟前空无一人，只得埋在原处。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "古物难脱",
+   "text": "数日前，你恫吓过乱葬岗上的两个盗墓贼，分走了大半赃物。这日你把其中几件小物拿到坊市问价，摊主翻了翻，神色变了，招手叫来了隔壁的同行。",
+   "options": [
+    {
+     "label": "听他们说",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "几个摊主都说这是殉葬的东西，沾着坟土，没人敢收。有个胆大的肯接，价压得极低，你另付了一份驱晦的灵石，才算把这几件脱了手。",
+       "effects": {
+        "shane": -1,
+        "lingshi": -20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "摊主们看了半晌，一致认定是后人仿的赝品，不值一提。你揣着东西出了坊市，一个钱也没换到。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "一位收古物的老客拨开众人，捧着其中一件看了又看，出了个极高的灵石价。他说，这样的土色，只有坟里出来的才有。",
+       "effects": {
+        "shane": -3,
+        "lingshi": 30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_yaoqi_fu": {
+  "shan": {
+   "title": "溪石留纸",
+   "text": "上回，你在溪边应下那浣纱女子，替她守了口。数日后，溪边石上压着一方叠好的白纱，纱里夹着一页字，墨迹还没全干。",
+   "options": [
+    {
+     "label": "展开看看",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "纸上画着一处山坳的小图，旁注：谢你，坳里的草药随你取。你寻过去，坳中果然生着一片药草，你采了些，一路带回。",
+       "effects": {
+        "shane": 3,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": {
+         "type": "cao",
+         "tierOffset": 0
+        },
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "纸上只有一行字：多谢，我走了，莫再寻。你把纱收好，回到溪边，已无人影，只剩水声。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "纸上画着一道符，是她留的警告：有人在追问你。你正疑惑，身后已有人拍了拍你的肩，问你可曾见过一只白狐。你被他缠了半日，破费了几块灵石。",
+       "effects": {
+        "shane": 0,
+        "lingshi": -15,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "再请出山",
+   "text": "前番你擒住了那只白狐，想送去降妖会换赏钱。这日降妖会的差役寻到你，说有一伙同党还在逃，想请你再出一趟力，事后另有酬金。",
+   "options": [
+    {
+     "label": "随差役去",
+     "outcomes": [
+      {
+       "weight": 22,
+       "text": "差役领你到一处山洞，洞里设了陷阱。你踏进去，小腿被竹刺扎穿，差役们只管逃命，你瘸着腿爬出来，灵石也掉了几块。",
+       "effects": {
+        "shane": 0,
+        "lingshi": -20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": true
+       }
+      },
+      {
+       "weight": 8,
+       "text": "洞里早已空了，只剩些零碎物什。差役叫你认了路，酬金照付，你揣着灵石回来，一路无事。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    },
+    {
+     "label": "推说无暇",
+     "outcomes": [
+      {
+       "weight": 20,
+       "text": "差役冷笑，说簿册上有你的名字，既领过赏钱，便欠一份人情。他扣下你一部分灵石，说是抵作下回的差。",
+       "effects": {
+        "shane": 0,
+        "lingshi": -25,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "差役叹了口气，没再逼你。后来听说那一伙狐已有别人去办了。你松了口气，也没再想起此事。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_shanmen_huoji": {
+  "shan": {
+   "title": "牧童牵羊",
+   "text": "前些日子，你劝镇人放过了祭火上的白羊。这日，一个牧童牵着那头白羊，站在你歇脚的客栈门外，说镇上有人想请你再去一趟。",
+   "options": [
+    {
+     "label": "随牧童去",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "镇人在祠前摆了一桌素席，说白羊近来下了羔，是个吉兆。席上有人往你囊中塞了些灵石，你推了几回，终究收下。",
+       "effects": {
+        "shane": 4,
+        "lingshi": 20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "神婆也在席上，对你一言不发，席间只有她的筷子敲着碗沿。席散后你饭没吃饱，也没敢多问。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "牧童带你去的是一座新砌的羊圈，圈里的羊病恹恹的，村人围着干着急。你替他们买了药，才发觉身上灵石少了几块。",
+       "effects": {
+        "shane": 3,
+        "lingshi": -15,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "茶棚羊客",
+   "text": "那一日，你暗中牵走了祭火上的白羊，拿去换了钱。数日后，一个满脸晒斑的汉子牵着一只羊，在你歇脚的茶棚外转来转去，像在等人。",
+   "options": [
+    {
+     "label": "上前搭话",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "他说那只白羊买去之后水土不服，上吐下泻，一家人喂了十几日汤药，没救活，要你赔药钱。你争不过他的大嗓门，扔下灵石了事。",
+       "effects": {
+        "shane": -2,
+        "lingshi": -25,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "汉子牵来的是一只刚生了羔的母羊，非要把小羊塞给你，说是白羊留下的血脉。你没处安置，走了半日，才送给路边放牛的孩子。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "汉子说当日价钱给得太低，心里一直不安，今年羊毛卖得好，特意追着来补了差价。你没推辞，把灵石揣进了袖里。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 15,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_pingan_fu": {
+  "shan": {
+   "title": "蓝布包袱",
+   "text": "你当初在路边买过老妪几张符，算是帮衬她。这日傍晚，她拄着拐杖寻到你借宿的屋外，怀里抱着个蓝布包袱，喘得说不出话。",
+   "options": [
+    {
+     "label": "扶她进门",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "包袱里是她亡夫留下的一叠旧符，她说你是信得过的人，愿尽数相送。你翻开细看，其中一张的朱砂竟还鲜亮。",
+       "effects": {
+        "shane": 4,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": {
+         "type": "fu",
+         "tierOffset": 0
+        },
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "她说儿子要接她去外乡，临走前来看看你，留下一包炒豆，便缓缓走了。你捏着那包豆，在门口站到天黑。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "她哭哭啼啼，说被人讹了，求你借几块灵石救急。你给了，她千恩万谢地走了。次日你路过符摊，摊子已空。",
+       "effects": {
+        "shane": 2,
+        "lingshi": -20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "摊前木棍",
+   "text": "数日前，你在路边咬定老妪的符是假货，压了她的价。这日又走到那个路口，老妪的摊子还在，人却不在，摊后坐着个抱木棍的汉子，朝你抬了抬下巴。",
+   "options": [
+    {
+     "label": "走过去",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "汉子是老妪的儿子，话不多，起身便是一棍，正敲在你小腿上。你抱着腿蹲了半晌，疼得吸气，他已坐回去，什么也没说。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": true
+       }
+      },
+      {
+       "weight": 8,
+       "text": "汉子只是替人看摊，木棍是用来撑篷布的。他见你走近，反倒不好意思，往旁边挪了挪，递给你一只小凳。你白紧张一场。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "汉子说老妪病了，摊子交给他，他不识货，想请你这懂行的帮着看看哪几张是真的。你指点了几句，他拿出几块灵石当酬劳。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 15,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_shamo_ma": {
+  "shan": {
+   "title": "沙中铃声",
+   "text": "上回，你在沙漠边，分过半囊清水给落单的驼队。数日后，你在绿洲边的集上听见熟悉的驼铃，老驼夫远远朝你挥手，身后牵着两峰驮货的骆驼。",
+   "options": [
+    {
+     "label": "上前叙话",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "老驼夫硬塞给你一包沙枣干，又指了一条近道。你按他指的走，当日便赶到，路上无风无险，行功也比往日从容。",
+       "effects": {
+        "shane": 3,
+        "lingshi": 0,
+        "xiuweiHours": 1,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "老驼夫认出了你，却不愿多讲，只说上回那水救了命，也被同行笑话了一路。他叹口气，牵着骆驼走了。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    },
+    {
+     "label": "绕开走",
+     "outcomes": [
+      {
+       "weight": 22,
+       "text": "一个小伙计追上来，递给你一只皮囊，说是老驼夫吩咐的，里头是沙漠里也难存的好水。你灌了一口，通体清凉。",
+       "effects": {
+        "shane": 3,
+        "lingshi": 0,
+        "xiuweiHours": 1,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "你走得急，没留意身后。后来听人说，老驼夫寻了你大半日，留下的一包干粮也被集上的人分了。你有些过意不去。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "货里夹沙",
+   "text": "前番你在沙漠边拿清水，跟落单的驼队换了货。这日你在绿洲集上把货摊开，隔壁摊的老商人抓起一把闻了闻，脸色一沉。",
+   "options": [
+    {
+     "label": "听他说",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "老商人说这批货受过潮，里头的香料已经发霉，一包也卖不出。围上来的买主纷纷退开，你另赔了摊租的灵石，货也只得倒进沙里。",
+       "effects": {
+        "shane": -1,
+        "lingshi": -25,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "老商人只是看错了，他抓的是自己摊上的陈货。你把货重新摆好，一整日无人问津，天黑时收了摊。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "老商人看出这是沙漠深处才有的药材，成色极好，当场出了一个让人心跳的灵石价，把货全包了。",
+       "effects": {
+        "shane": -2,
+        "lingshi": 25,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_ziyi_nan": {
+  "shan": {
+   "title": "驿站来信",
+   "text": "前些日子，你赠过一位赶考书生灵石做盘缠。这日驿站的小吏拿着一封信找你，说是一个赶考人托他转交，信封上画着一株兰草。",
+   "options": [
+    {
+     "label": "拆开来看",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "信里夹着一张折好的符纸，书生说那是考前途中一位高人所赠，自己用不上，留给你。字迹端正，末了写着：来日再叙。",
+       "effects": {
+        "shane": 3,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": {
+         "type": "fu",
+         "tierOffset": 0
+        },
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "信里只有一行字：钱已花尽，场中失意，不敢再见恩人。你读完，把信折好，没有回信，也不知该往何处回。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "信是书生的同窗所写，说书生已病故，临终提起你，嘱同窗代为谢过。信后附着几块灵石，是他最后剩下的。你捏着它，良久无言。",
+       "effects": {
+        "shane": 2,
+        "lingshi": 10,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "道旁随从",
+   "text": "那一日，你夺过一位赶考书生的书箱，翻了个遍。这日驿道边又见到那个书生，一身青衫干干净净，身后跟着个挑担的随从，远远朝这边望了一眼。",
+   "options": [
+    {
+     "label": "迎上前",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "随从上前拦住你，说书生如今有主家照拂，那日箱中少了的东西要一件件对数。你说不清楚，只得赔了灵石，才得脱身。",
+       "effects": {
+        "shane": -2,
+        "lingshi": -25,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "两人只是问你前头哪里有客栈。你指了路，他们道谢而去，你站在原处，掌心的汗半天才干。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "书生请你帮着雇一辆去渡口的车，你带他寻了车行，车夫给了你一份引路的灵石回扣。书生没认出你，上车时还向你道了谢。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 10,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_guixiu_lian": {
+  "shan": {
+   "title": "桥头灯笼",
+   "text": "你当初应下桥上白衣女子，替她去查了凶手。这夜你又走到那座桥边，桥头不见人影，只有一盏纸灯笼孤零零挂在栏杆上，灯里亮着。",
+   "options": [
+    {
+     "label": "摘下灯笼",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "灯笼里压着一小块护身的符纸，纸边被水泡得发软。桥面上忽有一阵很轻的风，像是谁在道别。你收好，行功时心里格外静。",
+       "effects": {
+        "shane": 3,
+        "lingshi": 0,
+        "xiuweiHours": 1,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "灯笼一入手便灭了，里头的蜡烛是空的。你在桥头站了半晌，什么也没等到，只听见桥下水声淙淙。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    },
+    {
+     "label": "站着等",
+     "outcomes": [
+      {
+       "weight": 20,
+       "text": "不多时，雾里走出一个撑伞的老妇，是女子的母亲。她说女儿托梦，要她来谢你，递来一小袋灵石，说是女儿生前的积蓄。",
+       "effects": {
+        "shane": 4,
+        "lingshi": 30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "等到天亮，桥上依旧无人。你转身时才发现衣襟湿了大半，肩头沾满夜露，微微发冷。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "桥心白痕",
+   "text": "数日前，你借桥上白衣女子的魂，祭炼过自己的法器。这夜你路过那座桥，桥下水声忽然停了，腰间法器微微发烫，抖个不住。",
+   "options": [
+    {
+     "label": "取出法器",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "法器脱手飞出，在桥栏上劈出一道白痕，回头又削断你的钱袋系带。灵石滚了满桥，一枚枚落进水里，你眼睁睁看着，一声也没敢出。",
+       "effects": {
+        "shane": 0,
+        "lingshi": -30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "法器烫了一阵，渐渐凉了下去。你握着它站了许久，水声重又响起，什么也没发生。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "桥头歇脚的货郎瞥见法器，眼睛一亮，说成色少见，愿出一笔灵石买下。你想着它沾了怨气，留着也烫手，便点了头。",
+       "effects": {
+        "shane": -2,
+        "lingshi": 30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_shifu_yiyan": {
+  "shan": {
+   "title": "山门回音",
+   "text": "上回，你收下老修士的储物戒，应下替他送信。多日后，山门里一位须发花白的执事托人带话，请你到他住处一叙，说有一件旧物想交还。",
+   "options": [
+    {
+     "label": "登门拜访",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "执事将一只木匣推到你面前，说是老修士生前存在他处的东西，匣里是一枚丹药，留给送信的人。你收下，行礼告辞。",
+       "effects": {
+        "shane": 4,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": {
+         "type": "dan",
+         "tierOffset": 0
+        },
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "执事只想问老修士临终前说了什么，听完，他沉默良久，挥了挥手让你走了。你没得到什么，也没失去什么。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "执事将你领到后院，院里站着几个陌生人，都盯着你，要你交出戒指里剩下的东西。你交了，又赔了几块灵石息事。",
+       "effects": {
+        "shane": 0,
+        "lingshi": -20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "戒指发紧",
+   "text": "前番你取了老修士的储物戒，却把他托付的信丢了。这日戒指忽然在指上越勒越紧，勒得指节发白，怎么褪也褪不下来。",
+   "options": [
+    {
+     "label": "设法取下",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "你去炼器铺央人开箍，匠人说戒上落着禁制，非得用药水慢慢浸。几天下来，药钱花去不少灵石，戒指才松开。",
+       "effects": {
+        "shane": -1,
+        "lingshi": -25,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "勒了半日，戒指自己松了。你褪下来细看，内圈有一行极小的字，已被磨得看不清，不知是什么。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "戒上的禁制期满，咔的一声自开，里头压着老修士攒下的一小袋灵石，原是预备给收戒人的路费。你捏着袋子，想起那封沉在沟里的信。",
+       "effects": {
+        "shane": -2,
+        "lingshi": 20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_xianmen_shiyan": {
+  "shan": {
+   "title": "山阶来客",
+   "text": "前些日子，你把落榜者的灵牌送下山，交还了他的亲人。这日仙门石阶下来了位挎篮的妇人，向守阶弟子打听，要找「送牌子的那位」。",
+   "options": [
+    {
+     "label": "上前相认",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "妇人是那人的姐姐，篮里是自家做的干点心。她又传了你一段祖传的行气口诀，说是不值钱，你默记下来，练了半日，颇有进益。",
+       "effects": {
+        "shane": 4,
+        "lingshi": 0,
+        "xiuweiHours": 1,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "她认错了人，把你当成另一个送过牌子的修士，絮絮说了半天家常，你听着，也没点破。她走时，你竟有些舍不得。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "妇人说家里欠了债，那灵牌是他留下的唯一东西，想求你再帮一回。你听她哭诉半晌，掏出灵石给她，她千恩万谢。",
+       "effects": {
+        "shane": 3,
+        "lingshi": -25,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "灵牌旧名",
+   "text": "那一日，你拿别人遗落的灵牌，去讨好试炼的考官。这日执事堂有人传话，说有个外乡人拿着灵牌上的名字登门，要见你一面。",
+   "options": [
+    {
+     "label": "去见他",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "来者是灵牌主人的族兄，眼眶发红，质问你为何拿他兄弟的东西做人情。执事堂的人在旁看着，你说清了，仍被罚去灵石。",
+       "effects": {
+        "shane": 0,
+        "lingshi": -25,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "来者拿着的是另一人的灵牌，名字相近而已。他问了几句，见你答不上来，摇着头走了。你擦了把汗。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "他只问了一句，那孩子最后进了山没有。你答不出，他叹口气，把一包干粮搁在案上便走了，说转给谁都行。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_zhengmo_dazhan": {
+  "shan": {
+   "title": "集上重逢",
+   "text": "你当初在山谷里出手帮过那两个被逼到崖边的正道弟子。这日坊市里一个背剑的年轻人迎面走来，认出了你，脸上又惊又喜。",
+   "options": [
+    {
+     "label": "与他叙话",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "他自称是当日幸存的弟子，同门伤愈，已回山门。师长听闻此事，嘱他带一枚丹药来权作谢意。你接了丹药，他躬身一揖。",
+       "effects": {
+        "shane": 4,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": {
+         "type": "dan",
+         "tierOffset": 0
+        },
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "他红着脸，说同门里有人不屑你出手，说你是邀功。他不敢辩，只道一声对不住，匆匆走了。你听出话里有刺，也没追问。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "他说师门缺人手，想邀你去做客，实则想借你的力对付仇家。你推辞，他也不勉强，请你喝了几盏酒，结账时钱袋不够，你替他垫了灵石。",
+       "effects": {
+        "shane": 1,
+        "lingshi": -15,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "渡口拔剑",
+   "text": "数日前，你在山谷里帮魔修劫过正道弟子的储物袋。这日你在渡口候船，一个背剑的少年远远盯着你的脸，缓缓握紧了剑柄。",
+   "options": [
+    {
+     "label": "迎上去",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "少年认出了你，拔剑便刺。你狼狈招架，肩头被划开一道口子，伤处火辣辣地疼，又落下几块灵石，才逃上渡船。",
+       "effects": {
+        "shane": -2,
+        "lingshi": -20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": true
+       }
+      },
+      {
+       "weight": 8,
+       "text": "渡船一开，少年被人群挤在岸上，对着水面拔了半截剑，终究没追来。你立在船尾，直到岸影看不见了。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "少年身后的师兄按住了他的手，说那日劫袋的人脸上有疤，你并没有。少年连声赔了礼，你嘴上说无妨，下船时腿还是软的。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_lianqi": {
+  "shan": {
+   "title": "铺前木牌",
+   "text": "上回，你冲进炼器铺，压住了炉火。这日铺子门口多了一块新漆的木牌，老匠人守在牌下，见你路过，招手叫你进去，手里托着一块黑沉沉的东西。",
+   "options": [
+    {
+     "label": "进去看看",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "老匠人把那块东西塞进你手里，是当日炉底炼出的铁渣，里头夹着一缕极淡的灵纹。他说留了许久，不知该给谁。你摩挲了一阵，若有所悟。",
+       "effects": {
+        "shane": 3,
+        "lingshi": 0,
+        "xiuweiHours": 2,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "他只是想请你再帮着看一回炉，说学徒们总不够用。你守了半日，炉火稳稳的，他递来一碗粗茶，你喝完才走。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "他拿出一本账，说压火那日你踩坏了炉边的两只风箱，想请你分担些修补的钱。你愣了一下，笑着付了灵石。",
+       "effects": {
+        "shane": 0,
+        "lingshi": -15,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "枕边红光",
+   "text": "前番你趁炼器铺失火，捞走了几件成品。这夜客栈里，你枕边那只布包忽然透出一线暗红，满屋都是焦味。",
+   "options": [
+    {
+     "label": "解开布包",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "里头一件没淬完的剑坯还带着炉火，一触手便烙在掌心，起了一串水泡。你甩手扔进水盆，疼得半夜没睡。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": true
+       }
+      },
+      {
+       "weight": 8,
+       "text": "红光是裹在布里的一星炉渣，没熄透。你拿水浇灭，只烧坏了包袱一角，别的并无损伤。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "烧红的是一块火玉嵌件，是炼器的好料。次日拿到坊市，炼器师抢着出价，你换回一笔灵石。",
+       "effects": {
+        "shane": -2,
+        "lingshi": 30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_dukou": {
+  "shan": {
+   "title": "船夫捎物",
+   "text": "前些日子，你在渡口替抱孩子的妇人付过船钱。这日独眼船夫寻到你的住处，说那妇人托他捎来一只布包，非要亲手交到你手上，他才肯走。",
+   "options": [
+    {
+     "label": "接过布包",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "包里是用红线缚着的一小串灵石，还有两只煮熟的鸡蛋。船夫说妇人在乡下日子撑得住，只是一直念着你。",
+       "effects": {
+        "shane": 2,
+        "lingshi": 25,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "包里只有两只煮熟的鸡蛋，早已凉透。船夫挠着头说，她家里再拿不出别的了。你把蛋剥开，慢慢吃完。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "船夫趁机叹起渡口的船板朽了、无钱修补，你听着不忍，又掏出灵石给他添了一份。他连声道谢，摇桨去了。",
+       "effects": {
+        "shane": 1,
+        "lingshi": -20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "渡口旧账",
+   "text": "那一日，你在渡口推开抱孩子的妇人，自己先上了船。这日坊市口，独眼船夫拿船桨横在你面前，嗓门大得半条街都听得见。",
+   "options": [
+    {
+     "label": "上前答话",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "船夫当着一街的人数落了你半个时辰，围看的人越聚越多。你为了脱身，赔了他一份灵石，他才收起船桨。",
+       "effects": {
+        "shane": 1,
+        "lingshi": -30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "船夫喝多了，骂得颠三倒四，骂到一半倚着船桨睡倒在地。你把他挪到阴凉处，转身走了，他醒来也认不得是谁。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "骂到一半，税吏路过，叫船夫去查他那条没挂旗的船。船夫恨恨瞪你一眼，扛着船桨被带走了，你趁人群散去，溜进了小巷。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_zhengdao_dizi": {
+  "shan": {
+   "title": "故人同门",
+   "text": "你当初在破庙里替一个自称正道门下的伤者疗过伤，容他藏身。这日山道上来了两个青衣人，自称是他的同门，说要当面道谢。",
+   "options": [
+    {
+     "label": "请他们坐下",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "两人留下一瓶丹药，说那人伤愈回了山，走时特意交代要谢你。茶才喝了一半，二人便客客气气地告辞了。",
+       "effects": {
+        "shane": 2,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": {
+         "type": "dan",
+         "tierOffset": 0
+        },
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "两人谢过之后，反复追问那人的佩剑下落。你答不出，他们神色淡了几分，空手而去，留你对着两杯凉茶发愣。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "两人说那人伤愈回山的路上遇了事，已经不在了。他们带来他留下的一句话，只有一个「谢」字，别无他物。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "鞘空人至",
+   "text": "数日前，你趁一个正道弟子重伤，搜过他的储物袋。这日山道转角站着个灰衣人，袖口露出半截剑鞘，一开口便报出了那人的师门。",
+   "options": [
+    {
+     "label": "迎上去",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "灰衣人要你把东西吐出来。你交出灵石，仍挨了他一掌，肩头又麻又痛，走出十几步才缓过劲来。",
+       "effects": {
+        "shane": 0,
+        "lingshi": -40,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": true
+       }
+      },
+      {
+       "weight": 8,
+       "text": "灰衣人要找的另有其人，只向你打听了一条路。你答完，他点点头，转身进了林子，你半晌没挪步。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "灰衣人说那袋里有一样东西，他也在找，愿出价买你手里的货。你交出去，他数灵石时手很稳，一句多话也没问。",
+       "effects": {
+        "shane": -2,
+        "lingshi": 30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    },
+    {
+     "label": "转身绕行",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "你绕进山后的野径，多走了两日冤枉路，沿途打尖住店，花去不少灵石。灰衣人始终没有追来。",
+       "effects": {
+        "shane": 0,
+        "lingshi": -20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "灰衣人原是在等别的人，见你走开，只淡淡看了一眼，便垂下了眼皮。你绕了一圈，什么也没有失去。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "野径尽头有间茅屋，守林人留你住了一夜，不收钱，还指了条下山的近路。灰衣人始终没有追来。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_shangdui": {
+  "shan": {
+   "title": "再护一程",
+   "text": "上回，你在山口出手逐散过劫匪，救下一支商队。这日那领头的商人又寻到你，说前路不太平，想请你再护送一程，价钱好商量。",
+   "options": [
+    {
+     "label": "应下同行",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "一路平安无事，商人到地方便结清了酬劳，灵石数得干脆，还多添了一份路上的饭钱，说下回仍要寻你。",
+       "effects": {
+        "shane": 2,
+        "lingshi": 40,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "路上平静得很，到了地方，商人却说货走得慢、赔了本，只肯付一路的饭钱。你听着有些哭笑不得，也不好争。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "半途真撞上一伙劫匪，你拦下了，肩头却挨了一棍，淤青了好几日。商人连声道谢，灵石照付，另添了一份药钱。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 15,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": true
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "山口旧伙",
+   "text": "前番你在山口与劫匪分过那支商队的货。这日山口的茶摊边坐着个独臂汉子，是当日劫匪里的人，见你过来，端起碗朝你比了比。",
+   "options": [
+    {
+     "label": "过去坐下",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "他说那日你拿的分量比讲好的多，要你补齐。你不认，他起身便是一拳，打在你胁下，疼得你直不起腰，灵石也被他顺手摸走几块。",
+       "effects": {
+        "shane": -2,
+        "lingshi": -30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": true
+       }
+      },
+      {
+       "weight": 8,
+       "text": "汉子只是借火的，认错了人。你坐下陪他喝了碗茶，各自走了，谁也没提山口的事。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "汉子说劫匪窝被官兵端了，当日的货他藏了一箱，愿分你一半，换你替他寻个出关的路子。你领了路，他把灵石塞过来，转身便没了影。",
+       "effects": {
+        "shane": -3,
+        "lingshi": 25,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_cunluo": {
+  "shan": {
+   "title": "田头来客",
+   "text": "前些日子，你在山下村里耗过灵力引雨。这日村里来了个后生，扛着半袋新收的谷子，说是村老打发他来，务必请你去田里看看。",
+   "options": [
+    {
+     "label": "随他去看",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "田里谷穗压弯了腰，满村人都在地头候着。村老硬塞给你一篮自晒的草药，篮底还沾着泥，说是今秋头一份。",
+       "effects": {
+        "shane": 2,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": {
+         "type": "cao",
+         "tierOffset": 0
+        },
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "谷子倒是好谷子，可邻近几个村听说了，也都来求雨。你被一圈人围着，走不脱，说了半日软话才得脱身。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "那场雨下得太急，田埂冲塌了几处。村人待你仍旧客气，只是想请你帮着垒一垒。你卷起袖子干了半日，累得腰酸。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "村口黄狗",
+   "text": "那一日，你趁村人跪拜，翻过村里的仓房。这日你借道那座山下的村子，想讨碗水喝，村口一条黄狗忽然竖起了耳朵，直盯着你。",
+   "options": [
+    {
+     "label": "慢慢走过",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "黄狗低吼着扑上来，一口咬在你小腿上，牙印深得见肉。你踢开它，一瘸一拐出了村，肿得发亮的腿疼了好几日。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": true
+       }
+      },
+      {
+       "weight": 8,
+       "text": "黄狗只是闻了闻你的靴子，摇着尾巴跑开了。村里的老人端出一碗水，你喝得很快，没敢多留。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "几个孩子围着你叫仙长，拉你去看新生的牛犊。你陪他们蹲了半日，临走时，村口的老汉塞给你两个热红薯，说山里人没什么好谢的。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_dongfu_cuican": {
+  "shan": {
+   "title": "债主已散",
+   "text": "你当初在巷口替那个散修作保，宽限过几日债。这日那散修寻上门来，两手空空，神色却比那天轻快许多。",
+   "options": [
+    {
+     "label": "请他进来",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "他把你垫的利息一并还了，另添一份谢意，说债清之后头一件事便是来见你。你收下灵石，替他斟了一盏茶。",
+       "effects": {
+        "shane": 2,
+        "lingshi": 30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "他说这回不是来还债，是来借的，周转不开。你想了想，推了。他红着脸告辞，脚步比来时沉了许多。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "他说债主那边又催得紧，求你再作一回保。你替他垫了一笔灵石，他连连作揖，却没说哪日能还。",
+       "effects": {
+        "shane": 1,
+        "lingshi": -30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "债主传话",
+   "text": "数日前，你帮债主逼过巷口那个散修的债，还分了一份好处。这日债主的人在你住处外守着，说老板有话，请你走一趟。",
+   "options": [
+    {
+     "label": "跟他去见",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "债主说散修已经跑了，当日分你的那份得吐出来，还要你出力把人找回来。你没敢争，交出灵石，又应了差事，才被放回。",
+       "effects": {
+        "shane": -1,
+        "lingshi": -35,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "债主只是想请你喝酒，席上说了半日散修的闲话，你没插嘴，酒喝完便各回各家。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "债主说下月还有一桩，价钱比上回高，先付你一份定钱。你没应声，灵石却已搁在桌上，叮的一响。",
+       "effects": {
+        "shane": -3,
+        "lingshi": 20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_yaowang": {
+  "shan": {
+   "title": "铺里候客",
+   "text": "上回，你替药铺学徒追回过被换走的丹药。这日铺里掌柜亲自迎出门来，说学徒把你的事念叨了许多天，今日特地备了东西等你。",
+   "options": [
+    {
+     "label": "进铺去",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "掌柜捧出一小袋灵石，说是学徒攒了几个月的工钱，非要他拿来谢你。你推了两回，才算收下，学徒在柜后红了脸。",
+       "effects": {
+        "shane": 2,
+        "lingshi": 30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "掌柜客气了一番，只留你喝茶，茶凉了也没提别的。你坐了一个时辰，起身告辞，学徒还在门口目送。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "掌柜说那日学徒追得太急，撞翻了街边的摊子，赔的钱想请你分担一份。你不好推辞，点头应了，灵石付出去，心里很不是滋味。",
+       "effects": {
+        "shane": 0,
+        "lingshi": -25,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "门前哭声",
+   "text": "前番你趁药铺乱成一团，进去取了几味药。这日你的住处门外坐着个老妇，哭得肩头直抖，邻居们三三两两围在一旁看。",
+   "options": [
+    {
+     "label": "上前问问",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "老妇是药铺学徒的娘，说儿子替人背了少药的黑锅，被掌柜赶了出去。她哭得人人侧目，你只得掏灵石替他赔了药钱，她才肯起身。",
+       "effects": {
+        "shane": 0,
+        "lingshi": -30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "老妇坐错了门，她要找的是隔壁那家欠了她布钱的。你被邻居们看了半日笑话，讪讪退回屋里。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "老妇说儿子已被远房亲戚接去外乡，托她给你捎一句话：少的药，他认了，不怪你。你听完，半晌说不出话。",
+       "effects": {
+        "shane": -2,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_daoguan": {
+  "shan": {
+   "title": "山门炊烟",
+   "text": "前些日子，你在山中道观，留过灵石给一个空观的道童。这日观里飘起了炊烟，道童守在山门外，远远朝你挥手，像是等了许久。",
+   "options": [
+    {
+     "label": "上山去看",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "观里的师父回来了，留你吃了一顿斋饭。临走塞给你一张亲手画的符，说是谢那日的米钱，笔画有些发抖。",
+       "effects": {
+        "shane": 2,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": {
+         "type": "fu",
+         "tierOffset": 0
+        },
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "师父仍未回来，道童把灵石原封不动捧还给你，说米是借的，早晚要还。你没有收，只陪他坐了一阵。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "师父回来了，是个严厉的老道，听说道童收了外人的灵石，当着你的面罚他抄经。你劝了半日，又添了些灵石，替他认了这笔借米的账。",
+       "effects": {
+        "shane": 1,
+        "lingshi": -20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "观前老道",
+   "text": "那一日，你趁道童不备，把山间道观搜了个遍。这日山路上有个背竹篓的老道迎面走来，一见你便笑，笑得你脊背发紧。",
+   "options": [
+    {
+     "label": "上前见礼",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "老道正是观主。他不动声色，只让你把拿走的东西如数放回，又罚你替观里挑了一天水，另收去几块灵石作香火钱。你肩也酸透。",
+       "effects": {
+        "shane": 1,
+        "lingshi": -30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "老道只是路过的游方人，向你讨了碗水喝，认不得你，也不曾多问。你看着他走远，才敢松一口气。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "老道是个卖药的，见你脸色发白，递来一丸清心的药，说不收钱。你吞下去，笑自己心虚，药竟有些回甘。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_shanzei": {
+  "shan": {
+   "title": "柴捆兔画",
+   "text": "你当初取出灵石，从山寨门首赎走过一个被吊起的少年。这日洞府外多了一捆柴，柴上压着一张字条，歪歪扭扭画着一只兔子。",
+   "options": [
+    {
+     "label": "循迹去找",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "少年在林子里候着，捧上一袋晒好的山货，说是前些日子自己打的。你拿去坊市换了灵石，倒也不少。",
+       "effects": {
+        "shane": 2,
+        "lingshi": 30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "少年已被山贼重新拉回了寨子，只托人传话，叫你日后别再走那条山路。你站了一会儿，没有再问。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "少年说他娘病了，想借些灵石抓药。你给了，他在地上磕了个头，再抬起头时，人已跑远了。",
+       "effects": {
+        "shane": 1,
+        "lingshi": -30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "旗下盘查",
+   "text": "数日前，你杀入山寨，抢过山贼的财货。这日山路上挂起一面红底黑字的旗，旗下立着几个汉子，正逐个盘问过往的修士。",
+   "options": [
+    {
+     "label": "迎上去",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "那几个汉子是山寨的余党，认出了你的身形，立刻一拥而上。你挨了几下，肋下又疼又肿，慌乱中跌落一些灵石，才脱身而去。",
+       "effects": {
+        "shane": 0,
+        "lingshi": -30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": true
+       }
+      },
+      {
+       "weight": 8,
+       "text": "他们只是在找一个背剑的人，盘问你几句，便放了行。你被问得出了一身汗，进了林子才缓过来。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "领头的汉子是商队的镖师，旗是商队的护旗，见你一身道袍便抱拳让路，还问你可愿同行一程。你推说另有去处，他也不勉强。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    },
+    {
+     "label": "另择路走",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "你掉头绕进了荒山，错过了客栈，夜里只得露宿，又买了干粮才熬过去，花销不小，灵石也少了几份。",
+       "effects": {
+        "shane": 0,
+        "lingshi": -20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "那些汉子并未追来，只在山口围着旗子晒太阳。你绕了一圈，反倒觉得自己多虑了。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "你绕出十里，在溪边遇上个牵驴的老汉，替他扶了一把陷进泥里的车，他硬塞来灵石当谢，说山里人不欠人情。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 25,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_haidi_guxiu": {
+  "shan": {
+   "title": "玉佩发烫",
+   "text": "上回，你应了孤岛古修的残魂，要替他把玉佩带去中州。这日你路过一处渡头，怀里的玉佩忽然发烫，一下一下，像在催你。",
+   "options": [
+    {
+     "label": "取出玉佩",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "玉佩指向渡头一座冷清的小祠。祠里的老妪一见便红了眼眶，从案下取出攒了多年的灵石相谢，说终于等到了。",
+       "effects": {
+        "shane": 3,
+        "lingshi": 40,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "祠里只剩一方牌位，老妪去年已经走了。你把玉佩供在案前，静立了片刻，玉佩渐渐凉了下来。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "祠中主人收了玉佩，却说这东西他早已不要，也不肯给谢礼，反嫌你来得迟。你气闷，也无话可说。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "玉佩渗水",
+   "text": "前番你抢下孤岛古修残魂的玉佩，不理他的哀求。这夜你宿在渡头客栈，枕边的玉佩渗出一层水，顺着褥子往下滴。",
+   "options": [
+    {
+     "label": "擦干玉佩",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "水怎么擦也擦不尽，湿透了半间客房的被褥。掌柜带着伙计上楼，捏着湿褥子数落你，你赔了灵石，抱着滴水的玉佩坐到天亮。",
+       "effects": {
+        "shane": 0,
+        "lingshi": -20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "水滴了一夜，天亮便停了，玉佩上结着一层白盐。你拿手帕反复擦拭，擦出半面模糊的刻纹，不知是什么字。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "隔壁的老渔夫闻声过来，一尝那水是咸的，说这是潮玉，能辨风向。他借去出海一日，回来付了一份灵石当租金。",
+       "effects": {
+        "shane": -2,
+        "lingshi": 20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_haoyou_jie": {
+  "shan": {
+   "title": "门外提篮",
+   "text": "前些日子，你把灵石借给了师兄，说是替他老娘治病。这日师兄提着一只竹篮在你门外徘徊，影子短短的，迟迟不敢叩门。",
+   "options": [
+    {
+     "label": "开门接他",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "他把灵石还齐了，篮里是老娘亲手腌的咸菜。他说老娘病已好了大半，你收下灵石，在门口站着与他吃了半碗茶。",
+       "effects": {
+        "shane": 2,
+        "lingshi": 40,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "他空手而来，只为再借。你推了，他讪讪地笑了笑，提着篮子走了，篮里还是满的，没送出去。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "他把篮子放在门槛上，转身就跑，叫都叫不住。篮里只有一篮咸菜，咸得发苦，你却吃了好几日。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    },
+    {
+     "label": "隔门问话",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "他隔着门说了许久，说到师父当年教的吐纳口诀，一句一句背给你听。你听着，心里渐渐通透，竟坐下来悟了一阵。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 0,
+        "xiuweiHours": 1,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "他只说借的再缓些日子，说完便走了。你没有再开门，听着脚步声越来越远。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "他又隔门开口借灵石，你从门缝里递了出去，他在外头道了谢，不曾抬头，脚步声匆匆去了。",
+       "effects": {
+        "shane": 1,
+        "lingshi": -25,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "掌门传唤",
+   "text": "那一日，你借灵石给师兄，立了字据才肯借。这日掌门座下的童子来请你，说师兄把祖传的剑当了还你的账，掌门知道了。",
+   "options": [
+    {
+     "label": "随他前去",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "掌门没多说，只命你把当票赎回来。你立字据时寸步不让，如今掏灵石赎剑，掌门看着你，一句话也没有。",
+       "effects": {
+        "shane": -1,
+        "lingshi": -30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "掌门只问了你几句借款的缘由，听完点点头，说同门之间借贷本无错，叫你回去。你出门时，檐下的风铃响了一声。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "你到时，师兄已自己赎回了剑，连同字据上的账一并还清，另添了一份利，灵石摆在案头。掌门只请你作个见证，你签了名便走。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_zhengdao_mo": {
+  "shan": {
+   "title": "溪边新土",
+   "text": "你当初劝过溪边的红衣少女，让她把魔道的葫芦埋了。这日溪边多了一堆新土，少女坐在土旁，手里攥着一块刻有正道记号的木牌。",
+   "options": [
+    {
+     "label": "走过去看看",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "她已进了正道山门试炼，今日特意来谢。她递来一张亲手画的符，纸边有些毛，说是头一回画成的。",
+       "effects": {
+        "shane": 3,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": {
+         "type": "fu",
+         "tierOffset": 0
+        },
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "木牌是被拒之门外的凭证，她说山门里不收带魔气的人。你陪她坐了半日，溪水哗哗地流，谁也没再开口。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "她求你去山门替她说句话。你去叩了山门，被执事盘问了好一阵，又打点了灵石，还是没有结果，白跑了一趟。",
+       "effects": {
+        "shane": 1,
+        "lingshi": -30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "血记三道",
+   "text": "数日前，你夺过红衣少女的血葫芦，转手卖进了黑市。这日溪边石头上用血画了三道歪斜的记号，你认得，那是魔道追索的标记。",
+   "options": [
+    {
+     "label": "循着记号去",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "追来的是她的同门，要你赔回葫芦的价。你交出灵石，仍挨了一掌，肩头又麻又痛，几日抬不起手来。",
+       "effects": {
+        "shane": -1,
+        "lingshi": -40,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": true
+       }
+      },
+      {
+       "weight": 8,
+       "text": "记号是几日前的旧痕，早被雨水冲得发淡，附近也无人。你绕着石头转了两圈，悄悄走开了。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "来的却是红衣少女自己。她只问葫芦卖给了谁，你说了黑市里一家铺子的名号，她点点头走了，没有为难你，背影倒显得很疲倦。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_shaosheng": {
+  "shan": {
+   "title": "村口红布",
+   "text": "上回，你在山村祭灶时，从神婆手里抱回了孩子，还给了他娘。这日村里来了几个人，抬着一块红布盖着的东西，一路问你住在哪处。",
+   "options": [
+    {
+     "label": "出门相迎",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "红布下是村人凑的灵石，用旧布袋装着，叮叮当当。孩子的娘也来了，抱着孩子站在人后，一句话也说不出。",
+       "effects": {
+        "shane": 3,
+        "lingshi": 30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "神婆也混在人群里，冷冷地看你，说灶神怒了，井水都浅了。村人被她说得动摇，你被几句闲话缠住，好一阵才脱身。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "母子已经搬走了，村人只替她带一句话，叫你路过时别再回村。你收了话，听着，没有再往前走。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "客栈婴啼",
+   "text": "前番你收了神婆的灵石，替她把襁褓送进了山。这夜客栈外有婴儿啼哭，一声一声，贴着墙根走，天亮也不散。",
+   "options": [
+    {
+     "label": "开窗看看",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "窗外什么也没有，哭声却跟了你三夜。你请客栈旁的老道做了一场法事，付了灵石，哭声才歇，老道临走看你的眼神，意味不明。",
+       "effects": {
+        "shane": -1,
+        "lingshi": -30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "哭的是隔壁房借宿的小娃，孩子娘抱着他在廊下踱步，连声赔不是。你摆摆手，却再没睡着。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "窗下站着个哑女，怀里摇着个布做的娃娃，哼着不成调的曲子。你把干粮递给她，她笑了笑，抱着娃娃走了，哭声也跟着停了。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_changsheng_yao": {
+  "shan": {
+   "title": "拐杖叩门",
+   "text": "前些日子，你在药铺当众戳穿过延寿丹的骗局。这日有个拄着拐的老头找到你的住处，说儿子在行里听说你识药，托他前来捎话。",
+   "options": [
+    {
+     "label": "请他进屋",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "老头的儿子是药行里的人，托他送来一枚正经的丹药，说是当日之谢。老头放下丹药，又深深一拜，才拄着拐走了。",
+       "effects": {
+        "shane": 2,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": {
+         "type": "dan",
+         "tierOffset": 0
+        },
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "老头只是想问另一桩药的真假，你看了看，说不出准话，他谢过之后失望而去，拐杖敲得石阶笃笃响。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "老头被掌柜的人一路盯上，跟到了你门口。几个人推搡之间，你的手臂挨了一下，淤青了好几日。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": true
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "空瓶问路",
+   "text": "那一日，你买了几颗延寿丹，想转手去卖。这日坊市里有个年轻人捧着一只空丹瓶，挨个摊子打听，问到了你跟前。",
+   "options": [
+    {
+     "label": "看他的瓶",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "他认出了瓶塞上你的封泥记号，当街拦着你要说法。你赔了一份灵石，他才肯放你走，围看的人散得很慢。",
+       "effects": {
+        "shane": 0,
+        "lingshi": -35,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "他手里的瓶子是别家的，认错了人，反倒向你赔了不是。你应了几声，脚底发虚地走了。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "他不是来讨说法的，是来买丹的：家里老人病重，听说有人手里存着延寿丹，愿出高价。你明知是假的，没说破，收了灵石。",
+       "effects": {
+        "shane": -4,
+        "lingshi": 30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_donglin_lao": {
+  "shan": {
+   "title": "林口孩童",
+   "text": "你当初在林子里，用灵力护着老猎户的心脉，帮他取过妖丹。这日林口站着个半大孩子，攥着一件小东西，正是老猎户的孙子。",
+   "options": [
+    {
+     "label": "蹲下问他",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "孩子递来一束用麻绳扎好的草药，说是爷爷一早上山采的，要送给你。他背着手站着，等你收下才笑了。",
+       "effects": {
+        "shane": 3,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": {
+         "type": "cao",
+         "tierOffset": 0
+        },
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "孩子说爷爷自那回起咳了一冬，家里断了米。你听着不忍，留下灵石，他不肯接，你硬塞进他怀里。",
+       "effects": {
+        "shane": 2,
+        "lingshi": -25,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "孩子说爷爷已经走了，临终只让他记着，见了你要磕个头。他磕了，你想扶，他又自己站直了。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "林口冷箭",
+   "text": "数日前，你夺了老猎户的妖丹便跑。这日你路过那片林子，林口树干上钉着一支箭，箭尾缠着一缕灰布丝，布色和你的衣衫一般。",
+   "options": [
+    {
+     "label": "拔下箭看",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "箭后弓弦一响，第二支箭擦着你肩头过去，划开一道口子，疼得你倒吸凉气。你转身便跑，慌乱中钱袋也掉了，灵石撒了一路。",
+       "effects": {
+        "shane": -1,
+        "lingshi": -20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": true
+       }
+      },
+      {
+       "weight": 8,
+       "text": "箭上缠的是猎户给同伴留的记号，早已风干。你拔下来看了半晌，什么也没看明白，把箭仍旧插回树上。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "箭杆上挂着一只小布袋，里头是一包炒熟的松子，附一张草纸，歪歪扭扭写着：爷爷没事。你捏着那包松子，在树下站了很久。",
+       "effects": {
+        "shane": -1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "qy_chengmen_gaoshi": {
+  "shan": {
+   "title": "城门蒙碗",
+   "text": "上回，你带着官差，去城外草棚寻回了走失的孩子。这日孩子的娘在城门口拦住了你，手里捧着一只蒙了布的碗。",
+   "options": [
+    {
+     "label": "接过碗来",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "碗里是一碗热汤面，底下压着灵石，她硬要你收下。你推不过，吃完面，把灵石收进了袖里。",
+       "effects": {
+        "shane": 2,
+        "lingshi": 30,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "碗里只是一碗面，她不好意思地说家里再没有别的。你吃得很慢，汤也喝尽了，她站在一旁一直搓着衣角。",
+       "effects": {
+        "shane": 1,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "她哭着说孩子又走丢了，求你再帮寻一回。你找了大半日，雇了车马，才在城东的桥洞下寻着，灵石花去不少。",
+       "effects": {
+        "shane": 2,
+        "lingshi": -20,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "e": {
+   "title": "告示换新",
+   "text": "前番你抢先去寻那个走失的孩子，想向爹娘要价。这日城门口的告示换了张新的，围了一圈人，有人念出声来，字字都像在说你。",
+   "options": [
+    {
+     "label": "挤进去听",
+     "outcomes": [
+      {
+       "weight": 25,
+       "text": "告示写的是当日要价的原话，一字不差，旁边一名差役正逐个盘问外乡人。你被他留住，赔了灵石，才得脱身。",
+       "effects": {
+        "shane": -2,
+        "lingshi": -35,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 8,
+       "text": "告示是寻另一桩事的，一个卖糖的老人丢了担子。围着的人念得抑扬顿挫，你听着听着，才觉得自己想多了。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      },
+      {
+       "weight": 7,
+       "text": "告示是寻人的，又走丢了一个孩子。你认得那条路，便给差役指了方向，差役抱拳谢过，你没提赏钱，匆匆走了。",
+       "effects": {
+        "shane": 0,
+        "lingshi": 0,
+        "xiuweiHours": 0,
+        "item": null,
+        "hurt": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
