@@ -1,0 +1,10 @@
+# 服务器地址和 SSH 私钥路径：cp deploy.local.conf.example deploy.local.conf 后填写（deploy.local.conf 不进 git）。
+# deploy.conf 读它；scripts/deploy.sh 靠 TEST_HOST / PROD_HOST 防止把测试配置部署到生产机，两个都要填。
+
+# 测试服（容器直连 <测试服地址>:TEST_PORT）
+TEST_HOST=<测试服地址>
+TEST_SSH_KEY=<测试服私钥路径>
+
+# 生产服（共享 nginx :80）
+PROD_HOST=<生产服地址>
+PROD_SSH_KEY=<生产服私钥路径>

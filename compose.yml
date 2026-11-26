@@ -1,0 +1,62 @@
+# zuowang · 测试 / 生产共用。变量来自服务器 ~/zuowang/.env（600），compose 自动读取；
+# 那个 .env 由 scripts/deploy.sh 按部署机上的 .env.<环境> / 环境变量生成，含 TAG、端口、TRUST_PROXY、COOKIE_SECURE。
+# 容器里的服务必须监听 0.0.0.0:8080；只让本机 nginx 连进来靠下面把端口发布到 127.0.0.1（prod）。
+name: zuowang
+
+services:
+  zuowang:
+    image: zuowang:${TAG:-latest}
+    platform: linux/amd64
+    restart: unless-stopped
+    logging:
+      driver: json-file
+      options:
+        max-size: "20m"
+        max-file: "5"
+    # 左边是容器里服务端读的名字，右边 ${…} 是 deploy.sh 写进服务器 .env 的键（键名固定，不能改）。
+    # 服务端的键名带项目前缀时只改左边，例如 PARK_QINGLIAO_SECRET: "${QINGLIAO_SECRET:-}"、
+    # PARK_PUBLIC_URL: "${PUBLIC_ORIGIN:-}"；服务端没用到的键留着无害（deploy.sh 要求 ${…} 都在）。
+    environment:
+      PORT: "8080"
+      # 镜像里已经是 production；写在这里防止有人换了镜像忘了：production 下没配公钥、带了开发开关一律拒绝启动
+      NODE_ENV: production
+      # 全部玩家存档（SQLite），在数据卷里；服务端每天还会自己备份到旁边的 backups/，留 14 份
+      DB_PATH: /data/zuowang.db
+      # 平台码，验签时 token 的 aud 必须是它
+      MG_PF_CODE: "${MG_PF_CODE:-zuowang}"
+      # 会话公钥：一行 JSON {"<kid>":"<PEM，换行写成 \n>"}，中台后台游戏详情里列出的每一把都要配
+      MG_PUBLIC_KEYS: "${MG_PUBLIC_KEYS:-}"
+      # 放行跨域的游戏页面来源（https://域名，不带结尾斜杠），逗号分隔。必填：
+      # 服务端只要看到这个变量（哪怕是空串）就不用自己的默认值，空串会拒绝启动
+      CORS_ORIGIN: "${CORS_ORIGIN:-}"
+      # 服务端不读下面三个键，模板要求它们在（deploy.sh 每次都写）
+      PUBLIC_ORIGIN: "${PUBLIC_ORIGIN:-}"
+      COOKIE_SECURE: "${COOKIE_SECURE:-false}"
+      TRUST_PROXY: "${TRUST_PROXY:-false}"
+    ports:
+      - "${BIND_IP:-127.0.0.1}:${APP_PORT:-8080}:8080"
+    volumes:
+      - zuowang-data:/data
+    # deploy.sh 等容器变成 healthy 才算启动成功，这一段不能删。镜像是 node:24-slim，没有 wget，用 node 自带的 fetch
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:8080/api/health').then(r=>process.exit(r.ok?0:1),()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
+    stop_grace_period: 10s
+    security_opt:
+      - no-new-privileges:true
+    read_only: true
+    tmpfs:
+      - /tmp
+    cap_drop:
+      - ALL
+    # 本地空载约 130MiB（含世界状态和 NPC 定时推演），留一倍多余量
+    mem_limit: 384m
+    # 生产机 t2.large 只有 2 个积分制 vCPU：一个游戏死循环最多吃满 1 核，另一个核留给其它游戏，也不至于把 CPU 积分烧光
+    cpus: 1.0
+
+volumes:
+  zuowang-data:
+    name: zuowang-data

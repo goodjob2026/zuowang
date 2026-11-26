@@ -1,0 +1,7 @@
+.env
+.env.*
+deploy.local.conf
+node_modules
+*.db
+*.db-*
+backups/
